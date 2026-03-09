@@ -42,8 +42,8 @@ jobs:
           # Stage the JSON file
           git add movies/movies.json
           
-          # Check if there are any changes to commit. If not, exit successfully (0)
-          git diff --staged --quiet || git commit -m "Automated update: fetched latest YouTube movies"
+          # Check if there are any changes to commit
+          git commit -m "Automated update: fetched latest YouTube movies" || echo "No changes to commit"
           
           # Push the changes
-          git push
+          git push origin HEAD:main
