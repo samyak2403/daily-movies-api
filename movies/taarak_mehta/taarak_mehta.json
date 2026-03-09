@@ -1,13 +1,13 @@
 {
-    "last_updated": "2026-03-09T23:40:11.358658Z",
-    "total_movies": 21,
+    "last_updated": "2026-03-09T23:59:03.626683Z",
+    "total_movies": 27,
     "movies": [
         {
             "id": "Zqzq5Ri-2ko",
             "title": "Jetha ने मंगाया Taarak के लिए मसालेदार खाना | Taarak Mehta Ka Ooltah Chashmah | Taarak Ka Diet",
             "url": "https://www.youtube.com/watch?v=Zqzq5Ri-2ko",
             "duration": 3552.0,
-            "view_count": 52921,
+            "view_count": 52998,
             "uploader": "Taarak Mehta Ka Ooltah Chashmah Episodes",
             "category": "taarak_mehta",
             "thumbnail": "https://i.ytimg.com/vi/Zqzq5Ri-2ko/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMvzDgeNX_PJs9q0lErUtwfrtMIw"
@@ -17,7 +17,7 @@
             "title": "Bapuji ne Diya Dinner Party! | FULL MOVIE | Taarak Mehta Ka Ooltah Chashmah",
             "url": "https://www.youtube.com/watch?v=5IJycI1VJMI",
             "duration": 2173.0,
-            "view_count": 7934982,
+            "view_count": 7935074,
             "uploader": "Taarak Mehta Ka Ooltah Chashmah",
             "category": "taarak_mehta",
             "thumbnail": "https://i.ytimg.com/vi/5IJycI1VJMI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKbedO0d3S1LYhh3iLfXVRdhZOwg"
@@ -47,7 +47,7 @@
             "title": "The Challenge Begins | Taarak Mehta Ka Ooltah Chashmah | Full Ep 4652 | 7 Mar 2026 | New Episode",
             "url": "https://www.youtube.com/watch?v=F90V91_K7c4",
             "duration": 1293.0,
-            "view_count": 840103,
+            "view_count": 840824,
             "uploader": "Taarak Mehta Ka Ooltah Chashmah Episodes",
             "category": "taarak_mehta",
             "thumbnail": "https://i.ytimg.com/vi/F90V91_K7c4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1zLnPaTE2rcad-2A1oeGQgpPUmA"
@@ -67,7 +67,7 @@
             "title": "Why Police Arrests Bagha😳 | FULL MOVIE | 😱 Gokuldham in Shock | Hindi Comedy",
             "url": "https://www.youtube.com/watch?v=2G5eF2s_kNw",
             "duration": 3461.0,
-            "view_count": 61891,
+            "view_count": 62001,
             "uploader": "Taarak Mehta Ka Ooltah Chashmah Episodes",
             "category": "taarak_mehta",
             "thumbnail": "https://i.ytimg.com/vi/2G5eF2s_kNw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCi6xaaNe1SpAXr2yBZBGrovbisEg"
@@ -147,7 +147,7 @@
             "title": "Epic Face-Off in Gada Family | FULL MOVIE | Jethalal’s Hilarious Mimicry Madness 😂",
             "url": "https://www.youtube.com/watch?v=F2ptAhvkYM0",
             "duration": 3793.0,
-            "view_count": 240201,
+            "view_count": 240425,
             "uploader": "Taarak Mehta Ka Ooltah Chashmah Episodes",
             "category": "taarak_mehta",
             "thumbnail": "https://i.ytimg.com/vi/F2ptAhvkYM0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRlRrRgdJ6n0_1wymtbee8aUSg4A"
@@ -157,7 +157,7 @@
             "title": "Jethalal Gets VIP Passes For Mahila Mandal | Taarak Mehta Ka Ooltah Chashmah | Full Episode",
             "url": "https://www.youtube.com/watch?v=wn6mPtTTDF0",
             "duration": 1272.0,
-            "view_count": 7026,
+            "view_count": 7044,
             "uploader": "Taarak Mehta Ka Ooltah Chashmah Episodes",
             "category": "taarak_mehta",
             "thumbnail": "https://i.ytimg.com/vi/wn6mPtTTDF0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWPuOz_PBTzw9sIzZ6yS3z8KmUbA"
@@ -177,7 +177,7 @@
             "title": "Bhide ne Kiya Jail me Choro ke sah dinner  | FULL MOVIE | Taarak Mehta Ka Ooltah Chashmah",
             "url": "https://www.youtube.com/watch?v=etUmJAz0RAU",
             "duration": 3487.0,
-            "view_count": 283661,
+            "view_count": 284533,
             "uploader": "Taarak Mehta Ka Ooltah Chashmah",
             "category": "taarak_mehta",
             "thumbnail": "https://i.ytimg.com/vi/etUmJAz0RAU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzlu9-75a4gc1bkaqi0kpuBLh5FQ"
@@ -211,6 +211,66 @@
             "uploader": "Taarak Mehta Ka Ooltah Chashmah Episodes",
             "category": "taarak_mehta",
             "thumbnail": "https://i.ytimg.com/vi/_mRJx_o_lFA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKu1aS1LhbQWJ5llqCnu9DGtwDLQ"
+        },
+        {
+            "id": "DTMfmSLG6OY",
+            "title": "Tapu के Idea से क्यों नहीं हुई Bhide को खुशी? | Taarak Mehta Ka Ooltah Chashmah | Unknown Guest",
+            "url": "https://www.youtube.com/watch?v=DTMfmSLG6OY",
+            "duration": 3510.0,
+            "view_count": 31053,
+            "uploader": "Taarak Mehta Ka Ooltah Chashmah Episodes",
+            "category": "taarak_mehta",
+            "thumbnail": "https://i.ytimg.com/vi/DTMfmSLG6OY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDM-GUQaQtjiQa2G1U5vC4hHpHwQ"
+        },
+        {
+            "id": "97LSM7GqCiE",
+            "title": "Kyu Udaya Gents Ne Popatlal Ka Majak?! | FULL MOVIE | Taarak Mehta Ka Ooltah Chashmah",
+            "url": "https://www.youtube.com/watch?v=97LSM7GqCiE",
+            "duration": 2184.0,
+            "view_count": 813906,
+            "uploader": "Taarak Mehta Ka Ooltah Chashmah",
+            "category": "taarak_mehta",
+            "thumbnail": "https://i.ytimg.com/vi/97LSM7GqCiE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvVaislQBab5Anc6niRvOdCEfOCw"
+        },
+        {
+            "id": "DoeJxtTcXtU",
+            "title": "Kis Ke karan Bapuji Gir gaye compound mai?  | FULL MOVIE | Taarak Mehta Ka Ooltah Chashmah",
+            "url": "https://www.youtube.com/watch?v=DoeJxtTcXtU",
+            "duration": 3960.0,
+            "view_count": 2039838,
+            "uploader": "Taarak Mehta Ka Ooltah Chashmah",
+            "category": "taarak_mehta",
+            "thumbnail": "https://i.ytimg.com/vi/DoeJxtTcXtU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcNAG0HqX6ph_eiWu5Qd2nx9Zzag"
+        },
+        {
+            "id": "p0nzpK9QsP4",
+            "title": "Kon bachayega Goli ka favourite khana!| FULL MOVIE | Taarak Mehta Ka Ooltah Chashmah",
+            "url": "https://www.youtube.com/watch?v=p0nzpK9QsP4",
+            "duration": 3348.0,
+            "view_count": 318027,
+            "uploader": "Taarak Mehta Ka Ooltah Chashmah",
+            "category": "taarak_mehta",
+            "thumbnail": "https://i.ytimg.com/vi/p0nzpK9QsP4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmmAG6j2rl5M0oDHCDam40KSI3ng"
+        },
+        {
+            "id": "ze_zTj8ADNo",
+            "title": "Kisne diya bhide aur popatlal ka  challenge| FULL MOVIE | Taarak Mehta Ka Ooltah Chashmah",
+            "url": "https://www.youtube.com/watch?v=ze_zTj8ADNo",
+            "duration": 3413.0,
+            "view_count": 975310,
+            "uploader": "Taarak Mehta Ka Ooltah Chashmah",
+            "category": "taarak_mehta",
+            "thumbnail": "https://i.ytimg.com/vi/ze_zTj8ADNo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlWxo_NAnqIfpYRLP8k33FUWG91A"
+        },
+        {
+            "id": "IY5WbI0vFFU",
+            "title": "Jethalal ke Sir me Dard! | FULL MOVIE | Taarak Mehta Ka Ooltah Chashmah",
+            "url": "https://www.youtube.com/watch?v=IY5WbI0vFFU",
+            "duration": 3677.0,
+            "view_count": 5133340,
+            "uploader": "Taarak Mehta Ka Ooltah Chashmah",
+            "category": "taarak_mehta",
+            "thumbnail": "https://i.ytimg.com/vi/IY5WbI0vFFU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxLEM4n2VkI28WprSBv--bc-firQ"
         }
     ]
 }

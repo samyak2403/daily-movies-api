@@ -1,13 +1,13 @@
 {
-    "last_updated": "2026-03-09T23:40:11.355947Z",
-    "total_movies": 29,
+    "last_updated": "2026-03-09T23:59:03.623970Z",
+    "total_movies": 37,
     "movies": [
         {
             "id": "MTjjOdnWF5Y",
             "title": "Samajavaragamana Comedy Drama Telugu Full Film | Reba Monica John | Sree Vishnu @tfcmaacinemalu",
             "url": "https://www.youtube.com/watch?v=MTjjOdnWF5Y",
             "duration": 7033.0,
-            "view_count": 3214698,
+            "view_count": 3214743,
             "uploader": "Maa Cinemalu",
             "category": "telugu",
             "thumbnail": "https://i.ytimg.com/vi/MTjjOdnWF5Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCraSxlLoYC2GhOJL4ZBtu1FJT3gQ"
@@ -27,7 +27,7 @@
             "title": "Manchi Kutumbam Telugu Full Movie | Krishna | Radha | Sharada | Gollapudi Maruthi Rao | Giri Babu",
             "url": "https://www.youtube.com/watch?v=DlIMEKLN_xc",
             "duration": 7673.0,
-            "view_count": 32006,
+            "view_count": 32016,
             "uploader": "Telugu Movie Bazaar",
             "category": "telugu",
             "thumbnail": "https://i.ytimg.com/vi/DlIMEKLN_xc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBj6wF9jtZRo_DDBNzJt2UNRnsDCw"
@@ -47,7 +47,7 @@
             "title": "Vishal,Keerthy Suresh,Varalaxmi Superhit Telugu Full Length HD movie | @tollywoodboxoffice",
             "url": "https://www.youtube.com/watch?v=pkb5wzXnCn0",
             "duration": 8056.0,
-            "view_count": 689189,
+            "view_count": 690272,
             "uploader": "Tollywood Box Office",
             "category": "telugu",
             "thumbnail": "https://i.ytimg.com/vi/pkb5wzXnCn0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCju_satzTpsujLrtG-QGA4JWKp9w"
@@ -67,7 +67,7 @@
             "title": "Dulquer Salman Sobhita Dhulipala Crima Thriller Telugu Full Movie HD | Tovino Thomas | 90ml movies",
             "url": "https://www.youtube.com/watch?v=BGOU5rHf_GM",
             "duration": 8279.0,
-            "view_count": 1406433,
+            "view_count": 1406446,
             "uploader": "90 ML Movies",
             "category": "telugu",
             "thumbnail": "https://i.ytimg.com/vi/BGOU5rHf_GM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfF9YHTZ-cvV2U7eSS67lXguM42Q"
@@ -97,7 +97,7 @@
             "title": "Govindudu Andarivadele Latest Telugu Full Movie | Ram Charan, Kajal Agarwal @SriBalajiMovies",
             "url": "https://www.youtube.com/watch?v=nVsJLEIMnmE",
             "duration": 8746.0,
-            "view_count": 80916252,
+            "view_count": 80916302,
             "uploader": "SriBalajiMovies",
             "category": "telugu",
             "thumbnail": "https://i.ytimg.com/vi/nVsJLEIMnmE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAESzrxhAFlVDWoVlHD1uW2A5OY4Q"
@@ -257,7 +257,7 @@
             "title": "Srimanthudu Telugu Full Movie | Mahesh Babu | Shruti Haasan | Jagapathi Babu | Latest Telugu Movies",
             "url": "https://www.youtube.com/watch?v=LS6XiINMc2s",
             "duration": 9719.0,
-            "view_count": 237254833,
+            "view_count": 237254918,
             "uploader": "Mythri Movie Makers",
             "category": "telugu",
             "thumbnail": "https://i.ytimg.com/vi/LS6XiINMc2s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0hp5VZTXMF31VCaeKd0gaCnOo2A"
@@ -291,6 +291,86 @@
             "uploader": "Mana Chitraalu",
             "category": "telugu",
             "thumbnail": "https://i.ytimg.com/vi/iK4RBmP3jR4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAI0QXEsX9DGRshkrEHoMu0PlL5qg"
+        },
+        {
+            "id": "jGUvk424TMY",
+            "title": "Mukhachitram Telugu Suspense Thriller Full Movie | Vishwak Sen, Ayesha Khan | 2025 New South Movies",
+            "url": "https://www.youtube.com/watch?v=jGUvk424TMY",
+            "duration": 7364.0,
+            "view_count": 3558002,
+            "uploader": "SriBalajiMovies",
+            "category": "telugu",
+            "thumbnail": "https://i.ytimg.com/vi/jGUvk424TMY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGkxThoF0ZjD1SyGeyNYT-zye0Og"
+        },
+        {
+            "id": "q_yGYcixvuo",
+            "title": "The Family Star Telugu Full Movie 4K | Vijay Deverakonda | Mrunal Thakur | Parasuram | Dil Raju",
+            "url": "https://www.youtube.com/watch?v=q_yGYcixvuo",
+            "duration": 9350.0,
+            "view_count": 3233419,
+            "uploader": "Telugu Filmnagar",
+            "category": "telugu",
+            "thumbnail": "https://i.ytimg.com/vi/q_yGYcixvuo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATSakjk93ddoY_rqaRIKsTJ6Juyw"
+        },
+        {
+            "id": "1RfjMwhWMeY",
+            "title": "Leharaayi Super Hit Telugu Full Movie | Ranjith Sommi | Sowmyaa Menon | Naresh | Rao Ramesh | Ali",
+            "url": "https://www.youtube.com/watch?v=1RfjMwhWMeY",
+            "duration": 8365.0,
+            "view_count": 1655106,
+            "uploader": "BhavaniHD Movies",
+            "category": "telugu",
+            "thumbnail": "https://i.ytimg.com/vi/1RfjMwhWMeY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDG_CQeYlMG9B_vAHnUYXXTTsxmqA"
+        },
+        {
+            "id": "8tExVqjkE4E",
+            "title": "Jabilamma Niku Anta Kopama Coming-Of-Age Rom-Com Telugu Film | Anikha Surendran @tfcmaacinemalu",
+            "url": "https://www.youtube.com/watch?v=8tExVqjkE4E",
+            "duration": 7320.0,
+            "view_count": 1632294,
+            "uploader": "Maa Cinemalu",
+            "category": "telugu",
+            "thumbnail": "https://i.ytimg.com/vi/8tExVqjkE4E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpXYeyQ-oVq4wz4HhLT5RlUXKvaw"
+        },
+        {
+            "id": "P9Qh4DRjcXo",
+            "title": "Kismath Latest Telugu Full Movie 4K | Abhinav Gomatam | Naresh Agastya | Srinivas Avasarala | TFN",
+            "url": "https://www.youtube.com/watch?v=P9Qh4DRjcXo",
+            "duration": 7590.0,
+            "view_count": 448308,
+            "uploader": "Telugu Filmnagar",
+            "category": "telugu",
+            "thumbnail": "https://i.ytimg.com/vi/P9Qh4DRjcXo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQZDx_NsCjnFrJKl1G9nPL_W5DzA"
+        },
+        {
+            "id": "HoFBZZFwPQQ",
+            "title": "Mayanathi Telugu Dubbed Full Movie | Mayanadhi | Love Romance Comedy |#telugumovie #romantic #family",
+            "url": "https://www.youtube.com/watch?v=HoFBZZFwPQQ",
+            "duration": 5874.0,
+            "view_count": 183370,
+            "uploader": "SRI SARAVANAA FILMS OPC TELUGU",
+            "category": "telugu",
+            "thumbnail": "https://i.ytimg.com/vi/HoFBZZFwPQQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC815qLEOPa__Exdxc4LoVtTMUfqw"
+        },
+        {
+            "id": "soe6Uxbtlxk",
+            "title": "Ishq | Telugu Full Movie | Blu-ray Version Ultra HD | Nithiin | Nithya Menen | Romantic Drama",
+            "url": "https://www.youtube.com/watch?v=soe6Uxbtlxk",
+            "duration": 9210.0,
+            "view_count": 70663,
+            "uploader": "G Entertainment Channel",
+            "category": "telugu",
+            "thumbnail": "https://i.ytimg.com/vi/soe6Uxbtlxk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrW7zqBU7d___rd-QYx6OwFZDWNg"
+        },
+        {
+            "id": "pokILk6s1q8",
+            "title": "Dhruva Telugu Full Movie | Ram Charan | Rakul Preet Singh | Arvind Swami | Delugu Movies",
+            "url": "https://www.youtube.com/watch?v=pokILk6s1q8",
+            "duration": 9279.0,
+            "view_count": 273487,
+            "uploader": "Delugu Movies",
+            "category": "telugu",
+            "thumbnail": "https://i.ytimg.com/vi/pokILk6s1q8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxX6NLkvw1yEX3F1iXn1HdjgH_kA"
         }
     ]
 }
