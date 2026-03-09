@@ -2,8 +2,10 @@ name: Daily Movie Scraper
 
 on:
   schedule:
-    # Runs every minute
-    - cron: '* * * * *'
+    # A reliable 10-minute schedule that GitHub won't penalize
+    - cron: '*/10 * * * *'
+  # Allows you to trigger the run instantly whenever you want
+  workflow_dispatch:
 jobs:
   scrape-and-update:
     runs-on: ubuntu-latest
