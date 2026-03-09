@@ -2,8 +2,8 @@ name: Daily Movie Scraper
 
 on:
   schedule:
-    # GitHub Actions minimum schedule time is 5 minutes
-    - cron: '*/5 * * * *'
+    # Runs every minute
+    - cron: '* * * * *'
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
