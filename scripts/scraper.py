@@ -6,17 +6,26 @@ from datetime import datetime
 
 # Categories to search for in YouTube
 CATEGORIES = {
-    "Hindi": "full movie hindi",
-    "Marathi": "full movie marathi",
-    "English": "full movie english",
+    "hindi": "full movie hindi",
+    "marathi": "full movie marathi",
+    "english": "full movie english",
+    "tamil": "full movie tamil",
+    "telugu": "full movie telugu",
+    "kannada": "full movie kannada",
+    "cartoons": "cartoon full movie for kids",
 }
 
 # Number of results per category to fetch
 RESULTS_PER_CATEGORY = 15
 
+# Base output directory
+OUTPUT_DIR = "movies"
+
+
 def scrape_movies():
+    """Scrape movies from YouTube and return them grouped by category."""
     all_movies = []
-    
+
     # yt-dlp options for fast metadata extraction without downloading videos
     ydl_opts = {
         'quiet': True,
@@ -29,7 +38,7 @@ def scrape_movies():
             print(f"Searching for {category} movies...")
             # Use 'ytsearch<N>:' to search YouTube directly
             search_query = f"ytsearch{RESULTS_PER_CATEGORY}:{query}"
-            
+
             try:
                 result = ydl.extract_info(search_query, download=False)
                 if 'entries' in result:
@@ -37,12 +46,14 @@ def scrape_movies():
                         # Some results might be missing, ensure it's a valid dict
                         if not video:
                             continue
-                            
-                        # Filter out shorts or very short videos (typically movies are > 3600 seconds)
+
+                        # Filter out shorts or very short videos
                         duration = video.get('duration', 0)
-                        if duration and duration < 2400: # Less than 40 minutes probably not a full movie
+                        # Cartoons can be shorter, so use a lower threshold
+                        min_duration = 1200 if category == "cartoons" else 2400
+                        if duration and duration < min_duration:
                             continue
-                            
+
                         movie_data = {
                             "id": video.get('id'),
                             "title": video.get('title'),
@@ -53,57 +64,85 @@ def scrape_movies():
                             "category": category,
                             "thumbnail": video.get('thumbnails', [{}])[-1].get('url', '') if video.get('thumbnails') else None
                         }
-                        
+
                         # Only add if we have ID and title to avoid broken data
                         if movie_data['id'] and movie_data['title']:
                             all_movies.append(movie_data)
                             print(f"[{time.strftime('%X')}] Added movie: {movie_data['title']}")
-                            time.sleep(1) # Add a 1 second delay between fetching movies
-                            
+                            time.sleep(1)  # Add a 1 second delay between fetching movies
+
             except Exception as e:
                 print(f"Error scraping category {category}: {e}")
 
-    # Remove duplicates based on video ID (in case a movie appears in multiple searches)
+    # Remove duplicates based on video ID
     unique_movies = {movie['id']: movie for movie in all_movies}.values()
-    
+
     return list(unique_movies)
 
-def save_to_json(data, filename="movies/movies.json"):
-    # Create the directory if it doesn't exist
-    os.makedirs(os.path.dirname(filename), exist_ok=True)
-    
-    existing_movies = []
-    
-    # Check if the file already exists and has movies
-    if os.path.exists(filename):
+
+def load_existing(filepath):
+    """Load existing movies from a JSON file."""
+    if os.path.exists(filepath):
         try:
-            with open(filename, 'r', encoding='utf-8') as f:
+            with open(filepath, 'r', encoding='utf-8') as f:
                 existing_data = json.load(f)
-                existing_movies = existing_data.get('movies', [])
-                print(f"Loaded {len(existing_movies)} existing movies from {filename}")
+                movies = existing_data.get('movies', [])
+                print(f"  Loaded {len(movies)} existing movies from {filepath}")
+                return movies
         except Exception as e:
-            print(f"Could not read existing file {filename}: {e}")
-    
-    # Combine old and new movies
-    combined_movies = existing_movies + data
-    
-    # Remove any duplicates based on movie 'id'
-    unique_movies = {movie['id']: movie for movie in combined_movies}.values()
-    final_movies_list = list(unique_movies)
-    
-    # Output structure perfect for a frontend store
+            print(f"  Could not read existing file {filepath}: {e}")
+    return []
+
+
+def save_json(movies_list, filepath):
+    """Save a list of movies to a JSON file with metadata."""
+    os.makedirs(os.path.dirname(filepath), exist_ok=True)
+
     output = {
         "last_updated": datetime.utcnow().isoformat() + "Z",
-        "total_movies": len(final_movies_list),
-        "movies": final_movies_list
+        "total_movies": len(movies_list),
+        "movies": movies_list
     }
-    
-    with open(filename, 'w', encoding='utf-8') as f:
+
+    with open(filepath, 'w', encoding='utf-8') as f:
         json.dump(output, f, indent=4, ensure_ascii=False)
-    print(f"Successfully saved {len(final_movies_list)} total movies (including newly scraped ones) to {filename}")
+    print(f"  Saved {len(movies_list)} movies to {filepath}")
+
+
+def save_all(new_movies):
+    """Save movies per-category into folders AND into a combined file."""
+
+    # ── 1. Group new movies by category ──
+    by_category = {}
+    for movie in new_movies:
+        cat = movie.get('category', 'uncategorized')
+        by_category.setdefault(cat, []).append(movie)
+
+    # ── 2. Save per-category files ──
+    for cat in CATEGORIES:
+        cat_dir = os.path.join(OUTPUT_DIR, cat)
+        cat_file = os.path.join(cat_dir, f"{cat}.json")
+
+        existing = load_existing(cat_file)
+        combined = existing + by_category.get(cat, [])
+        unique = list({m['id']: m for m in combined}.values())
+
+        print(f"[{cat}] {len(unique)} total movies")
+        save_json(unique, cat_file)
+
+    # ── 3. Save combined file (all categories) ──
+    combined_file = os.path.join(OUTPUT_DIR, "movies.json")
+    existing_all = load_existing(combined_file)
+    combined_all = existing_all + new_movies
+    unique_all = list({m['id']: m for m in combined_all}.values())
+
+    print(f"[all] {len(unique_all)} total movies")
+    save_json(unique_all, combined_file)
+
 
 if __name__ == "__main__":
     print(f"Starting YouTube movie discovery at {datetime.now()}...")
     movies = scrape_movies()
-    save_to_json(movies)
+    save_all(movies)
     print("Done!")
+

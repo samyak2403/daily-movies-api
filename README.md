@@ -3,8 +3,22 @@
 An automated pipeline that discovers YouTube movies daily and outputs structured JSON for a frontend to consume.
 
 ## Architecture
-- Python discovery script using `yt-dlp` to get metadata for Hindi, Marathi, and English movies without API limits.
-- GitHub Actions workflow that executes the scraper every day and pushes the generated `movies/movies.json` strictly to this repository.
+- Python scraper using `yt-dlp` to discover YouTube movies across **7 categories**: Hindi, Marathi, English, Tamil, Telugu, Kannada, and Cartoons.
+- Movies are saved into **per-category folders** (e.g., `movies/hindi/hindi.json`) as well as a **combined** `movies/movies.json`.
+- GitHub Actions runs automatically and pushes updated JSON files to this repository.
+
+## Folder Structure
+```
+movies/
+├── movies.json          ← All movies combined
+├── hindi/hindi.json
+├── marathi/marathi.json
+├── english/english.json
+├── tamil/tamil.json
+├── telugu/telugu.json
+├── kannada/kannada.json
+└── cartoons/cartoons.json
+```
 
 ## Installation
 Run `pip install -r requirements.txt` and then run `python scripts/scraper.py`.
@@ -13,10 +27,19 @@ Run `pip install -r requirements.txt` and then run `python scripts/scraper.py`.
 
 You can easily integrate this movie data into your Android app by fetching the raw JSON file hosted on this repository.
 
-### API Endpoint (Raw JSON URL)
-```text
-https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/movies.json
-```
+### API Endpoints (Raw JSON URLs)
+
+| Category | URL |
+|----------|-----|
+| **All Movies** | `https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/movies.json` |
+| Hindi | `https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/hindi/hindi.json` |
+| Marathi | `https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/marathi/marathi.json` |
+| English | `https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/english/english.json` |
+| Tamil | `https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/tamil/tamil.json` |
+| Telugu | `https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/telugu/telugu.json` |
+| Kannada | `https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/kannada/kannada.json` |
+| Cartoons | `https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/cartoons/cartoons.json` |
+
 
 ### 1. Data Model (Kotlin)
 Create a data class to represent the movie object in your app:

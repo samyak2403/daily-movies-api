@@ -39,11 +39,12 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
-          # Stage the JSON file
-          git add movies/movies.json
+          # Stage all movie JSON files (category folders + combined)
+          git add movies/
           
           # Check if there are any changes to commit
           git commit -m "Automated update: fetched latest YouTube movies" || echo "No changes to commit"
           
           # Push the changes
           git push origin HEAD:main
+
