@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>API Documentation – Movies Hub</title>
+  <meta name="description"
+    content="Learn how to integrate the Movies Hub API into your Android app. Step-by-step guide with Kotlin code examples." />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon"
+    href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎬</text></svg>" />
+</head>
+
+<body>
+
+  <!-- ═══ Navbar ═══ -->
+  <nav class="navbar" id="navbar">
+    <div class="navbar-inner">
+      <a href="index.html" class="logo">
+        <div class="logo-icon">🎬</div>
+        <div class="logo-text">Movies<span>Hub</span></div>
+      </a>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="docs.html" class="active">Docs</a></li>
+        <li><a href="https://github.com/samyak2403/daily-movies-api" target="_blank" rel="noopener">GitHub</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- ═══ Docs Content ═══ -->
+  <div class="docs-container">
+
+    <h1>📱 API Documentation</h1>
+    <p class="subtitle">Integrate Movies Hub data into your Android app in minutes. Follow the step-by-step guide below.
+    </p>
+
+    <!-- ── API Endpoints ── -->
+    <h2>🔗 API Endpoints</h2>
+    <p>All movie data is served as raw JSON from this GitHub repository. No authentication required. Data is refreshed
+      daily via GitHub Actions.</p>
+
+    <table class="api-table">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Endpoint URL</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>All Movies</strong></td>
+          <td><code>https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/movies.json</code></td>
+        </tr>
+        <tr>
+          <td>Hindi</td>
+          <td><code>https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/hindi/hindi.json</code>
+          </td>
+        </tr>
+        <tr>
+          <td>Marathi</td>
+          <td>
+            <code>https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/marathi/marathi.json</code>
+          </td>
+        </tr>
+        <tr>
+          <td>English</td>
+          <td>
+            <code>https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/english/english.json</code>
+          </td>
+        </tr>
+        <tr>
+          <td>Tamil</td>
+          <td><code>https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/tamil/tamil.json</code>
+          </td>
+        </tr>
+        <tr>
+          <td>Telugu</td>
+          <td><code>https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/telugu/telugu.json</code>
+          </td>
+        </tr>
+        <tr>
+          <td>Kannada</td>
+          <td>
+            <code>https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/kannada/kannada.json</code>
+          </td>
+        </tr>
+        <tr>
+          <td>Cartoons</td>
+          <td>
+            <code>https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/cartoons/cartoons.json</code>
+          </td>
+        </tr>
+        <tr>
+          <td>Comedy</td>
+          <td><code>https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/comedy/comedy.json</code>
+          </td>
+        </tr>
+        <tr>
+          <td>Taarak Mehta</td>
+          <td>
+            <code>https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/taarak_mehta/taarak_mehta.json</code>
+          </td>
+        </tr>
+        <tr>
+          <td>Yam Hain Hum</td>
+          <td>
+            <code>https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/yam_hain_hum/yam_hain_hum.json</code>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <!-- ── JSON Structure ── -->
+    <h2>📦 JSON Structure</h2>
+    <p>Each endpoint returns a JSON object with the following structure:</p>
+
+    <div class="code-block">
+      <div class="code-block-header">
+        <span>JSON Response</span>
+        <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+      </div>
+      <pre>{
+  <span class="string">"last_updated"</span>: <span class="string">"2026-03-09T14:38:53.918075Z"</span>,
+  <span class="string">"total_movies"</span>: <span class="type">102</span>,
+  <span class="string">"movies"</span>: [
+    {
+      <span class="string">"id"</span>: <span class="string">"qyNeS_hFyxk"</span>,
+      <span class="string">"title"</span>: <span class="string">"Movie Title Here"</span>,
+      <span class="string">"url"</span>: <span class="string">"https://www.youtube.com/watch?v=qyNeS_hFyxk"</span>,
+      <span class="string">"duration"</span>: <span class="type">8633.0</span>,
+      <span class="string">"view_count"</span>: <span class="type">2867026</span>,
+      <span class="string">"uploader"</span>: <span class="string">"Channel Name"</span>,
+      <span class="string">"category"</span>: <span class="string">"Hindi"</span>,
+      <span class="string">"thumbnail"</span>: <span class="string">"https://i.ytimg.com/vi/qyNeS_hFyxk/hqdefault.jpg"</span>
+    }
+  ]
+}</pre>
+    </div>
+
+    <!-- ── Android Integration ── -->
+    <h2>🛠️ Android Integration (Kotlin)</h2>
+    <p>Follow these steps to integrate the movie data into your Android app using Retrofit.</p>
+
+    <!-- Step 1 -->
+    <div class="step-card">
+      <h3><span class="step-number">1</span> Add Dependencies</h3>
+      <p>Add these to your app-level <code>build.gradle</code>:</p>
+      <div class="code-block">
+        <div class="code-block-header">
+          <span>build.gradle (app)</span>
+          <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+        </div>
+        <pre><span class="keyword">dependencies</span> {
+    <span class="comment">// Retrofit for networking</span>
+    <span class="function">implementation</span> <span class="string">"com.squareup.retrofit2:retrofit:2.9.0"</span>
+    <span class="function">implementation</span> <span class="string">"com.squareup.retrofit2:converter-gson:2.9.0"</span>
+
+    <span class="comment">// Coroutines for async operations</span>
+    <span class="function">implementation</span> <span class="string">"org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3"</span>
+
+    <span class="comment">// Glide for image loading</span>
+    <span class="function">implementation</span> <span class="string">"com.github.bumptech.glide:glide:4.16.0"</span>
+}</pre>
+      </div>
+    </div>
+
+    <!-- Step 2 -->
+    <div class="step-card">
+      <h3><span class="step-number">2</span> Create Data Models</h3>
+      <p>Define Kotlin data classes matching the JSON structure:</p>
+      <div class="code-block">
+        <div class="code-block-header">
+          <span>Movie.kt</span>
+          <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+        </div>
+        <pre><span class="keyword">data class</span> <span class="type">MovieResponse</span>(
+    <span class="keyword">val</span> last_updated: <span class="type">String</span>,
+    <span class="keyword">val</span> total_movies: <span class="type">Int</span>,
+    <span class="keyword">val</span> movies: <span class="type">List</span>&lt;<span class="type">Movie</span>&gt;
+)
+
+<span class="keyword">data class</span> <span class="type">Movie</span>(
+    <span class="keyword">val</span> id: <span class="type">String</span>,
+    <span class="keyword">val</span> title: <span class="type">String</span>,
+    <span class="keyword">val</span> url: <span class="type">String</span>,
+    <span class="keyword">val</span> duration: <span class="type">Double</span>?,
+    <span class="keyword">val</span> view_count: <span class="type">Long</span>?,
+    <span class="keyword">val</span> uploader: <span class="type">String</span>?,
+    <span class="keyword">val</span> category: <span class="type">String</span>,
+    <span class="keyword">val</span> thumbnail: <span class="type">String</span>?
+)</pre>
+      </div>
+    </div>
+
+    <!-- Step 3 -->
+    <div class="step-card">
+      <h3><span class="step-number">3</span> Create API Interface</h3>
+      <p>Define the Retrofit API service:</p>
+      <div class="code-block">
+        <div class="code-block-header">
+          <span>MovieApiService.kt</span>
+          <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+        </div>
+        <pre><span class="keyword">import</span> retrofit2.http.<span class="type">GET</span>
+
+<span class="keyword">interface</span> <span class="type">MovieApiService</span> {
+
+    <span class="annotation">@GET</span>(<span class="string">"samyak2403/daily-movies-api/main/movies/movies.json"</span>)
+    <span class="keyword">suspend fun</span> <span class="function">getAllMovies</span>(): <span class="type">MovieResponse</span>
+
+    <span class="annotation">@GET</span>(<span class="string">"samyak2403/daily-movies-api/main/movies/hindi/hindi.json"</span>)
+    <span class="keyword">suspend fun</span> <span class="function">getHindiMovies</span>(): <span class="type">MovieResponse</span>
+
+    <span class="annotation">@GET</span>(<span class="string">"samyak2403/daily-movies-api/main/movies/marathi/marathi.json"</span>)
+    <span class="keyword">suspend fun</span> <span class="function">getMarathiMovies</span>(): <span class="type">MovieResponse</span>
+
+    <span class="annotation">@GET</span>(<span class="string">"samyak2403/daily-movies-api/main/movies/english/english.json"</span>)
+    <span class="keyword">suspend fun</span> <span class="function">getEnglishMovies</span>(): <span class="type">MovieResponse</span>
+
+    <span class="annotation">@GET</span>(<span class="string">"samyak2403/daily-movies-api/main/movies/tamil/tamil.json"</span>)
+    <span class="keyword">suspend fun</span> <span class="function">getTamilMovies</span>(): <span class="type">MovieResponse</span>
+
+    <span class="annotation">@GET</span>(<span class="string">"samyak2403/daily-movies-api/main/movies/telugu/telugu.json"</span>)
+    <span class="keyword">suspend fun</span> <span class="function">getTeluguMovies</span>(): <span class="type">MovieResponse</span>
+
+    <span class="annotation">@GET</span>(<span class="string">"samyak2403/daily-movies-api/main/movies/kannada/kannada.json"</span>)
+    <span class="keyword">suspend fun</span> <span class="function">getKannadaMovies</span>(): <span class="type">MovieResponse</span>
+
+    <span class="annotation">@GET</span>(<span class="string">"samyak2403/daily-movies-api/main/movies/cartoons/cartoons.json"</span>)
+    <span class="keyword">suspend fun</span> <span class="function">getCartoonMovies</span>(): <span class="type">MovieResponse</span>
+
+    <span class="annotation">@GET</span>(<span class="string">"samyak2403/daily-movies-api/main/movies/comedy/comedy.json"</span>)
+    <span class="keyword">suspend fun</span> <span class="function">getComedyMovies</span>(): <span class="type">MovieResponse</span>
+
+    <span class="annotation">@GET</span>(<span class="string">"samyak2403/daily-movies-api/main/movies/taarak_mehta/taarak_mehta.json"</span>)
+    <span class="keyword">suspend fun</span> <span class="function">getTaarakMehtaMovies</span>(): <span class="type">MovieResponse</span>
+
+    <span class="annotation">@GET</span>(<span class="string">"samyak2403/daily-movies-api/main/movies/yam_hain_hum/yam_hain_hum.json"</span>)
+    <span class="keyword">suspend fun</span> <span class="function">getYamHainHumMovies</span>(): <span class="type">MovieResponse</span>
+}</pre>
+      </div>
+    </div>
+
+    <!-- Step 4 -->
+    <div class="step-card">
+      <h3><span class="step-number">4</span> Set Up Retrofit Instance</h3>
+      <p>Create a singleton Retrofit client:</p>
+      <div class="code-block">
+        <div class="code-block-header">
+          <span>RetrofitClient.kt</span>
+          <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+        </div>
+        <pre><span class="keyword">import</span> retrofit2.<span class="type">Retrofit</span>
+<span class="keyword">import</span> retrofit2.converter.gson.<span class="type">GsonConverterFactory</span>
+
+<span class="keyword">object</span> <span class="type">RetrofitClient</span> {
+
+    <span class="keyword">private const val</span> BASE_URL = <span class="string">"https://raw.githubusercontent.com/"</span>
+
+    <span class="keyword">val</span> apiService: <span class="type">MovieApiService</span> <span class="keyword">by</span> <span class="function">lazy</span> {
+        <span class="type">Retrofit</span>.<span class="function">Builder</span>()
+            .<span class="function">baseUrl</span>(BASE_URL)
+            .<span class="function">addConverterFactory</span>(<span class="type">GsonConverterFactory</span>.<span class="function">create</span>())
+            .<span class="function">build</span>()
+            .<span class="function">create</span>(<span class="type">MovieApiService</span>::<span class="keyword">class</span>.java)
+    }
+}</pre>
+      </div>
+    </div>
+
+    <!-- Step 5 -->
+    <div class="step-card">
+      <h3><span class="step-number">5</span> Use in ViewModel</h3>
+      <p>Fetch movies using Kotlin Coroutines in your ViewModel:</p>
+      <div class="code-block">
+        <div class="code-block-header">
+          <span>MovieViewModel.kt</span>
+          <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+        </div>
+        <pre><span class="keyword">import</span> androidx.lifecycle.<span class="type">ViewModel</span>
+<span class="keyword">import</span> androidx.lifecycle.<span class="type">viewModelScope</span>
+<span class="keyword">import</span> kotlinx.coroutines.<span class="function">launch</span>
+<span class="keyword">import</span> kotlinx.coroutines.flow.<span class="type">MutableStateFlow</span>
+<span class="keyword">import</span> kotlinx.coroutines.flow.<span class="type">StateFlow</span>
+
+<span class="keyword">class</span> <span class="type">MovieViewModel</span> : <span class="type">ViewModel</span>() {
+
+    <span class="keyword">private val</span> _movies = <span class="type">MutableStateFlow</span>&lt;<span class="type">List</span>&lt;<span class="type">Movie</span>&gt;&gt;(<span class="function">emptyList</span>())
+    <span class="keyword">val</span> movies: <span class="type">StateFlow</span>&lt;<span class="type">List</span>&lt;<span class="type">Movie</span>&gt;&gt; = _movies
+
+    <span class="keyword">private val</span> _isLoading = <span class="type">MutableStateFlow</span>(<span class="keyword">false</span>)
+    <span class="keyword">val</span> isLoading: <span class="type">StateFlow</span>&lt;<span class="type">Boolean</span>&gt; = _isLoading
+
+    <span class="keyword">fun</span> <span class="function">fetchAllMovies</span>() {
+        viewModelScope.<span class="function">launch</span> {
+            _isLoading.value = <span class="keyword">true</span>
+            <span class="keyword">try</span> {
+                <span class="keyword">val</span> response = <span class="type">RetrofitClient</span>.apiService.<span class="function">getAllMovies</span>()
+                _movies.value = response.movies
+            } <span class="keyword">catch</span> (e: <span class="type">Exception</span>) {
+                e.<span class="function">printStackTrace</span>()
+            } <span class="keyword">finally</span> {
+                _isLoading.value = <span class="keyword">false</span>
+            }
+        }
+    }
+
+    <span class="keyword">fun</span> <span class="function">fetchByCategory</span>(category: <span class="type">String</span>) {
+        viewModelScope.<span class="function">launch</span> {
+            _isLoading.value = <span class="keyword">true</span>
+            <span class="keyword">try</span> {
+                <span class="keyword">val</span> response = <span class="keyword">when</span> (category) {
+                    <span class="string">"hindi"</span> -> <span class="type">RetrofitClient</span>.apiService.<span class="function">getHindiMovies</span>()
+                    <span class="string">"marathi"</span> -> <span class="type">RetrofitClient</span>.apiService.<span class="function">getMarathiMovies</span>()
+                    <span class="string">"english"</span> -> <span class="type">RetrofitClient</span>.apiService.<span class="function">getEnglishMovies</span>()
+                    <span class="string">"tamil"</span> -> <span class="type">RetrofitClient</span>.apiService.<span class="function">getTamilMovies</span>()
+                    <span class="string">"telugu"</span> -> <span class="type">RetrofitClient</span>.apiService.<span class="function">getTeluguMovies</span>()
+                    <span class="string">"kannada"</span> -> <span class="type">RetrofitClient</span>.apiService.<span class="function">getKannadaMovies</span>()
+                    <span class="string">"cartoons"</span> -> <span class="type">RetrofitClient</span>.apiService.<span class="function">getCartoonMovies</span>()
+                    <span class="keyword">else</span> -> <span class="type">RetrofitClient</span>.apiService.<span class="function">getAllMovies</span>()
+                }
+                _movies.value = response.movies
+            } <span class="keyword">catch</span> (e: <span class="type">Exception</span>) {
+                e.<span class="function">printStackTrace</span>()
+            } <span class="keyword">finally</span> {
+                _isLoading.value = <span class="keyword">false</span>
+            }
+        }
+    }
+}</pre>
+      </div>
+    </div>
+
+    <!-- Step 6 -->
+    <div class="step-card">
+      <h3><span class="step-number">6</span> Display in RecyclerView</h3>
+      <p>Observe the StateFlow and populate a RecyclerView:</p>
+      <div class="code-block">
+        <div class="code-block-header">
+          <span>MainActivity.kt (snippet)</span>
+          <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+        </div>
+        <pre><span class="comment">// In your Activity or Fragment</span>
+<span class="keyword">private val</span> viewModel: <span class="type">MovieViewModel</span> <span class="keyword">by</span> <span class="function">viewModels</span>()
+
+<span class="keyword">override fun</span> <span class="function">onCreate</span>(savedInstanceState: <span class="type">Bundle</span>?) {
+    <span class="keyword">super</span>.<span class="function">onCreate</span>(savedInstanceState)
+
+    <span class="comment">// Fetch all movies on start</span>
+    viewModel.<span class="function">fetchAllMovies</span>()
+
+    <span class="comment">// Observe movies</span>
+    <span class="function">lifecycleScope</span>.<span class="function">launch</span> {
+        viewModel.movies.<span class="function">collect</span> { movieList ->
+            <span class="comment">// Update your RecyclerView adapter</span>
+            adapter.<span class="function">submitList</span>(movieList)
+        }
+    }
+
+    <span class="comment">// Observe loading state</span>
+    <span class="function">lifecycleScope</span>.<span class="function">launch</span> {
+        viewModel.isLoading.<span class="function">collect</span> { loading ->
+            progressBar.visibility = <span class="keyword">if</span> (loading) <span class="type">View</span>.VISIBLE <span class="keyword">else</span> <span class="type">View</span>.GONE
+        }
+    }
+}</pre>
+      </div>
+    </div>
+
+    <!-- Tips -->
+    <h2>💡 Tips</h2>
+    <ul>
+      <li><strong>Caching:</strong> Use OkHttp interceptors to cache responses and reduce network calls.</li>
+      <li><strong>Image Loading:</strong> Use Glide or Coil library to efficiently load movie thumbnails.</li>
+      <li><strong>Play Movies:</strong> Open the movie <code>url</code> field using an Intent to launch YouTube or a
+        WebView.</li>
+      <li><strong>Offline Support:</strong> Save the JSON response using Room database for offline access.</li>
+      <li><strong>Auto-refresh:</strong> Data is updated daily, so a daily sync using WorkManager works great.</li>
+    </ul>
+
+    <h2>🎬 Open Movie in YouTube</h2>
+    <div class="code-block">
+      <div class="code-block-header">
+        <span>Kotlin</span>
+        <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+      </div>
+      <pre><span class="keyword">fun</span> <span class="function">openMovie</span>(context: <span class="type">Context</span>, movieUrl: <span class="type">String</span>) {
+    <span class="keyword">val</span> intent = <span class="type">Intent</span>(<span class="type">Intent</span>.ACTION_VIEW, <span class="type">Uri</span>.<span class="function">parse</span>(movieUrl))
+    context.<span class="function">startActivity</span>(intent)
+}</pre>
+    </div>
+
+  </div>
+
+  <!-- ═══ Footer ═══ -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <h3>Movies<span>Hub</span></h3>
+        <p>A free, open-source video discovery platform powered by YouTube. New videos are added daily through an
+          automated scraper across 10 categories.</p>
+      </div>
+
+      <div class="footer-col">
+        <h4>Categories</h4>
+        <ul>
+          <li><a href="index.html">Hindi</a></li>
+          <li><a href="index.html">Marathi</a></li>
+          <li><a href="index.html">English</a></li>
+          <li><a href="index.html">Tamil</a></li>
+          <li><a href="index.html">Telugu</a></li>
+          <li><a href="index.html">Kannada</a></li>
+          <li><a href="index.html">Cartoons</a></li>
+          <li><a href="index.html">Comedy</a></li>
+          <li><a href="index.html">Taarak Mehta</a></li>
+          <li><a href="index.html">Yam Hain Hum</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Resources</h4>
+        <ul>
+          <li><a href="docs.html">API Documentation</a></li>
+          <li><a href="https://github.com/samyak2403/daily-movies-api" target="_blank" rel="noopener">GitHub Repo</a>
+          </li>
+          <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/movies.json"
+              target="_blank" rel="noopener">JSON API</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>API Endpoints</h4>
+        <ul>
+          <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/hindi/hindi.json"
+              target="_blank" rel="noopener">Hindi API</a></li>
+          <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/marathi/marathi.json"
+              target="_blank" rel="noopener">Marathi API</a></li>
+          <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/english/english.json"
+              target="_blank" rel="noopener">English API</a></li>
+          <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/tamil/tamil.json"
+              target="_blank" rel="noopener">Tamil API</a></li>
+          <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/telugu/telugu.json"
+              target="_blank" rel="noopener">Telugu API</a></li>
+          <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/kannada/kannada.json"
+              target="_blank" rel="noopener">Kannada API</a></li>
+          <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/cartoons/cartoons.json"
+              target="_blank" rel="noopener">Cartoons API</a></li>
+          <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/comedy/comedy.json"
+              target="_blank" rel="noopener">Comedy API</a></li>
+          <li><a
+              href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/taarak_mehta/taarak_mehta.json"
+              target="_blank" rel="noopener">Taarak Mehta API</a></li>
+          <li><a
+              href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/yam_hain_hum/yam_hain_hum.json"
+              target="_blank" rel="noopener">Yam Hain Hum API</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <span>© 2026 Movies Hub. Powered by <a href="https://github.com/samyak2403/daily-movies-api" target="_blank"
+          rel="noopener">daily-movies-api</a></span>
+      <span>Updated daily via GitHub Actions</span>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+
+</html>

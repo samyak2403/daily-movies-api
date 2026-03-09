@@ -1,0 +1,776 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Now Playing – Movies Hub</title>
+    <meta name="description" content="Watch free full-length movies on Movies Hub powered by YouTube." />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon"
+        href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎬</text></svg>" />
+    <style>
+        /* ── Player Page Specific Styles ── */
+        .player-wrapper {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 1.5rem 2rem 3rem;
+        }
+
+        .back-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            font-weight: 500;
+            margin-bottom: 1.2rem;
+            transition: color var(--transition);
+            cursor: pointer;
+            background: none;
+            border: none;
+            font-family: inherit;
+            padding: 0;
+        }
+
+        .back-btn:hover {
+            color: var(--accent-2);
+        }
+
+        .back-btn svg {
+            width: 18px;
+            height: 18px;
+        }
+
+        /* Video Container */
+        .video-container {
+            position: relative;
+            width: 100%;
+            aspect-ratio: 16 / 9;
+            border-radius: var(--radius-lg);
+            overflow: hidden;
+            background: #000;
+            box-shadow: 0 8px 48px rgba(124, 58, 237, 0.2);
+            border: 1px solid rgba(124, 58, 237, 0.2);
+        }
+
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        .video-loading {
+            position: absolute;
+            inset: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background: var(--bg-secondary);
+            gap: 1rem;
+            z-index: 2;
+        }
+
+        .video-loading.hidden {
+            display: none;
+        }
+
+        .spinner {
+            width: 48px;
+            height: 48px;
+            border: 3px solid var(--border-color);
+            border-top-color: var(--accent-2);
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+        }
+
+        @keyframes spin {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+
+        /* Video Info */
+        .video-info {
+            margin-top: 1.5rem;
+        }
+
+        .video-title {
+            font-size: 1.4rem;
+            font-weight: 700;
+            line-height: 1.4;
+            margin-bottom: 1rem;
+        }
+
+        .video-meta-bar {
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+            padding-bottom: 1.2rem;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .meta-item {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 0.88rem;
+            color: var(--text-muted);
+        }
+
+        .meta-item svg {
+            width: 16px;
+            height: 16px;
+            flex-shrink: 0;
+        }
+
+        .meta-category {
+            background: linear-gradient(135deg, var(--accent-1), var(--accent-3));
+            color: #fff;
+            padding: 3px 12px;
+            border-radius: 50px;
+            font-size: 0.78rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        /* Action Buttons */
+        .video-actions {
+            display: flex;
+            gap: 0.8rem;
+            margin-top: 1.2rem;
+            flex-wrap: wrap;
+        }
+
+        .action-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 0.65rem 1.3rem;
+            border-radius: 50px;
+            font-size: 0.88rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all var(--transition);
+            font-family: inherit;
+            border: 1px solid var(--border-color);
+            background: var(--bg-glass);
+            color: var(--text-secondary);
+        }
+
+        .action-btn:hover {
+            border-color: var(--accent-2);
+            color: var(--text-primary);
+            background: rgba(168, 85, 247, 0.1);
+        }
+
+        .action-btn.primary {
+            background: linear-gradient(135deg, #dc2626, #ef4444);
+            border-color: transparent;
+            color: #fff;
+        }
+
+        .action-btn.primary:hover {
+            background: linear-gradient(135deg, #b91c1c, #dc2626);
+            box-shadow: 0 4px 20px rgba(220, 38, 38, 0.3);
+        }
+
+        .action-btn svg {
+            width: 18px;
+            height: 18px;
+        }
+
+        /* Player Controls Bar */
+        .player-controls {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.6rem;
+            margin-top: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .ctrl-btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 6px;
+            padding: 0.5rem 1rem;
+            border-radius: var(--radius-sm);
+            font-size: 0.82rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all var(--transition);
+            font-family: inherit;
+            border: 1px solid var(--border-color);
+            background: var(--bg-card);
+            color: var(--text-secondary);
+        }
+
+        .ctrl-btn:hover {
+            background: rgba(168, 85, 247, 0.15);
+            border-color: var(--accent-2);
+            color: var(--text-primary);
+        }
+
+        .ctrl-btn.active {
+            background: rgba(168, 85, 247, 0.2);
+            border-color: var(--accent-2);
+            color: var(--accent-2);
+        }
+
+        .ctrl-btn svg {
+            width: 16px;
+            height: 16px;
+        }
+
+        /* Related Movies */
+        .related-section {
+            margin-top: 3rem;
+        }
+
+        .related-section h2 {
+            font-size: 1.3rem;
+            font-weight: 700;
+            margin-bottom: 1.2rem;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .related-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+            gap: 1.2rem;
+        }
+
+        /* Error State */
+        .player-error {
+            text-align: center;
+            padding: 4rem 2rem;
+        }
+
+        .player-error svg {
+            width: 72px;
+            height: 72px;
+            color: var(--accent-3);
+            margin-bottom: 1.5rem;
+            opacity: 0.6;
+        }
+
+        .player-error h2 {
+            font-size: 1.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .player-error p {
+            color: var(--text-muted);
+            margin-bottom: 1.5rem;
+        }
+
+        @media (max-width: 768px) {
+            .player-wrapper {
+                padding: 1rem 1rem 2rem;
+            }
+
+            .video-title {
+                font-size: 1.15rem;
+            }
+
+            .video-meta-bar {
+                gap: 1rem;
+            }
+
+            .video-actions {
+                gap: 0.5rem;
+            }
+
+            .action-btn {
+                padding: 0.5rem 1rem;
+                font-size: 0.82rem;
+            }
+
+            .related-grid {
+                grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- ═══ Navbar ═══ -->
+    <nav class="navbar" id="navbar">
+        <div class="navbar-inner">
+            <a href="index.html" class="logo">
+                <div class="logo-icon">🎬</div>
+                <div class="logo-text">Movies<span>Hub</span></div>
+            </a>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="docs.html">Docs</a></li>
+                <li><a href="https://github.com/samyak2403/daily-movies-api" target="_blank" rel="noopener">GitHub</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- ═══ Player ═══ -->
+    <div class="player-wrapper" id="playerWrapper">
+
+        <button class="back-btn" onclick="history.back()">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M19 12H5M12 19l-7-7 7-7" />
+            </svg>
+            Back to Movies
+        </button>
+
+        <!-- Video Player -->
+        <div class="video-container" id="videoContainer">
+            <div class="video-loading" id="videoLoading">
+                <div class="spinner"></div>
+                <span style="color: var(--text-muted); font-size: 0.9rem;">Loading player...</span>
+            </div>
+            <!-- iframe injected by JS -->
+        </div>
+
+        <!-- Player Controls -->
+        <div class="player-controls" id="playerControls">
+            <button class="ctrl-btn" onclick="toggleAutoplay(this)" title="Autoplay next">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M17.5 12l-10 6V6l10 6zM21 6v12" />
+                </svg>
+                Autoplay
+            </button>
+            <button class="ctrl-btn" onclick="toggleLoop()" id="loopBtn" title="Loop video">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M17 1l4 4-4 4" />
+                    <path d="M3 11V9a4 4 0 014-4h14" />
+                    <path d="M7 23l-4-4 4-4" />
+                    <path d="M21 13v2a4 4 0 01-4 4H3" />
+                </svg>
+                Loop
+            </button>
+            <button class="ctrl-btn" onclick="toggleTheater()" id="theaterBtn" title="Theater mode">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <rect x="2" y="4" width="20" height="16" rx="2" />
+                </svg>
+                Theater
+            </button>
+            <button class="ctrl-btn" onclick="openPiP()" title="Picture-in-Picture">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <rect x="2" y="3" width="20" height="14" rx="2" />
+                    <rect x="11" y="10" width="9" height="6" rx="1" />
+                </svg>
+                PiP
+            </button>
+            <button class="ctrl-btn" onclick="goFullscreen()" title="Fullscreen">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <polyline points="15 3 21 3 21 9" />
+                    <polyline points="9 21 3 21 3 15" />
+                    <line x1="21" y1="3" x2="14" y2="10" />
+                    <line x1="3" y1="21" x2="10" y2="14" />
+                </svg>
+                Fullscreen
+            </button>
+        </div>
+
+        <!-- Video Info -->
+        <div class="video-info" id="videoInfo">
+            <h1 class="video-title" id="videoTitle">Loading...</h1>
+
+            <div class="video-meta-bar">
+                <span class="meta-category" id="videoCategory">--</span>
+                <div class="meta-item">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z" />
+                        <circle cx="12" cy="12" r="3" />
+                    </svg>
+                    <span id="videoViews">--</span>
+                </div>
+                <div class="meta-item">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="12" cy="12" r="10" />
+                        <polyline points="12 6 12 12 16 14" />
+                    </svg>
+                    <span id="videoDuration">--</span>
+                </div>
+                <div class="meta-item">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2" />
+                        <circle cx="12" cy="7" r="4" />
+                    </svg>
+                    <span id="videoUploader">--</span>
+                </div>
+            </div>
+
+            <!-- Action Buttons -->
+            <div class="video-actions">
+                <a class="action-btn primary" id="youtubeLink" href="#" target="_blank" rel="noopener">
+                    <svg viewBox="0 0 24 24" fill="currentColor">
+                        <path
+                            d="M23.498 6.186a3.016 3.016 0 00-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 00.502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 002.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 002.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814z" />
+                        <path fill="#fff" d="M9.545 15.568V8.432L15.818 12l-6.273 3.568z" />
+                    </svg>
+                    Watch on YouTube
+                </a>
+                <button class="action-btn" onclick="shareVideo()">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="18" cy="5" r="3" />
+                        <circle cx="6" cy="12" r="3" />
+                        <circle cx="18" cy="19" r="3" />
+                        <line x1="8.59" y1="13.51" x2="15.42" y2="17.49" />
+                        <line x1="15.41" y1="6.51" x2="8.59" y2="10.49" />
+                    </svg>
+                    Share
+                </button>
+                <button class="action-btn" onclick="copyLink()">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M10 13a5 5 0 007.54.54l3-3a5 5 0 00-7.07-7.07l-1.72 1.71" />
+                        <path d="M14 11a5 5 0 00-7.54-.54l-3 3a5 5 0 007.07 7.07l1.71-1.71" />
+                    </svg>
+                    Copy Link
+                </button>
+            </div>
+        </div>
+
+        <!-- Related Movies -->
+        <div class="related-section" id="relatedSection">
+            <h2>🎬 More Movies</h2>
+            <div class="related-grid" id="relatedGrid">
+                <!-- Populated by JS -->
+            </div>
+        </div>
+
+    </div>
+
+    <!-- ═══ Footer ═══ -->
+    <footer class="footer">
+        <div class="footer-inner">
+            <div class="footer-brand">
+                <h3>Movies<span>Hub</span></h3>
+                <p>A free, open-source video discovery platform powered by YouTube. New videos are added daily through
+                    an automated scraper across 10 categories.</p>
+            </div>
+            <div class="footer-col">
+                <h4>Categories</h4>
+                <ul>
+                    <li><a href="index.html">Hindi</a></li>
+                    <li><a href="index.html">Marathi</a></li>
+                    <li><a href="index.html">English</a></li>
+                    <li><a href="index.html">Tamil</a></li>
+                    <li><a href="index.html">Telugu</a></li>
+                    <li><a href="index.html">Kannada</a></li>
+                    <li><a href="index.html">Cartoons</a></li>
+                    <li><a href="index.html">Comedy</a></li>
+                    <li><a href="index.html">Taarak Mehta</a></li>
+                    <li><a href="index.html">Yam Hain Hum</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Resources</h4>
+                <ul>
+                    <li><a href="docs.html">API Documentation</a></li>
+                    <li><a href="https://github.com/samyak2403/daily-movies-api" target="_blank" rel="noopener">GitHub
+                            Repo</a></li>
+                    <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/movies.json"
+                            target="_blank" rel="noopener">JSON API</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>API Endpoints</h4>
+                <ul>
+                    <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/hindi/hindi.json"
+                            target="_blank">Hindi API</a></li>
+                    <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/marathi/marathi.json"
+                            target="_blank">Marathi API</a></li>
+                    <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/english/english.json"
+                            target="_blank">English API</a></li>
+                    <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/tamil/tamil.json"
+                            target="_blank">Tamil API</a></li>
+                    <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/telugu/telugu.json"
+                            target="_blank">Telugu API</a></li>
+                    <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/kannada/kannada.json"
+                            target="_blank">Kannada API</a></li>
+                    <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/cartoons/cartoons.json"
+                            target="_blank">Cartoons API</a></li>
+                    <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/comedy/comedy.json"
+                            target="_blank">Comedy API</a></li>
+                    <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/taarak_mehta/taarak_mehta.json"
+                            target="_blank">Taarak Mehta API</a></li>
+                    <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/yam_hain_hum/yam_hain_hum.json"
+                            target="_blank">Yam Hain Hum API</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <span>© 2026 Movies Hub. Powered by <a href="https://github.com/samyak2403/daily-movies-api" target="_blank"
+                    rel="noopener">daily-movies-api</a></span>
+            <span>Updated daily via GitHub Actions</span>
+        </div>
+    </footer>
+
+    <script>
+        // ── Player State ──
+        const API_URL = 'https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/movies.json';
+        let currentMovie = null;
+        let allMovies = [];
+        let isLoop = false;
+        let isTheater = false;
+
+        // ── Get video ID from URL params ──
+        function getVideoId() {
+            const params = new URLSearchParams(window.location.search);
+            return params.get('v');
+        }
+
+        // ── Format helpers ──
+        function formatDuration(seconds) {
+            if (!seconds) return '--:--';
+            const h = Math.floor(seconds / 3600);
+            const m = Math.floor((seconds % 3600) / 60);
+            const s = Math.floor(seconds % 60);
+            if (h > 0) return `${h}h ${m}m`;
+            return `${m}m ${s}s`;
+        }
+
+        function formatViews(count) {
+            if (!count) return '0 views';
+            if (count >= 1_000_000) return `${(count / 1_000_000).toFixed(1)}M views`;
+            if (count >= 1_000) return `${(count / 1_000).toFixed(1)}K views`;
+            return `${count} views`;
+        }
+
+        function escapeHtml(text) {
+            if (!text) return '';
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // ── Load and embed YouTube player ──
+        function loadPlayer(videoId) {
+            const container = document.getElementById('videoContainer');
+            const loading = document.getElementById('videoLoading');
+
+            const iframe = document.createElement('iframe');
+            iframe.id = 'ytPlayer';
+            iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1&rel=0&modestbranding=1&iv_load_policy=3&enablejsapi=1`;
+            iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
+            iframe.allowFullscreen = true;
+            iframe.title = 'Movie Player';
+
+            iframe.onload = () => {
+                loading.classList.add('hidden');
+            };
+
+            container.appendChild(iframe);
+        }
+
+        // ── Populate movie info ──
+        function setMovieInfo(movie) {
+            document.getElementById('videoTitle').textContent = movie.title;
+            document.getElementById('videoCategory').textContent = movie.category || 'Unknown';
+            document.getElementById('videoViews').textContent = formatViews(movie.view_count);
+            document.getElementById('videoDuration').textContent = formatDuration(movie.duration);
+            document.getElementById('videoUploader').textContent = movie.uploader || 'Unknown';
+            document.getElementById('youtubeLink').href = movie.url;
+            document.title = `${movie.title} – Movies Hub`;
+        }
+
+        // ── Player Controls ──
+        function toggleLoop() {
+            isLoop = !isLoop;
+            const btn = document.getElementById('loopBtn');
+            btn.classList.toggle('active', isLoop);
+            const iframe = document.getElementById('ytPlayer');
+            if (iframe) {
+                const src = new URL(iframe.src);
+                src.searchParams.set('loop', isLoop ? '1' : '0');
+                if (isLoop) src.searchParams.set('playlist', getVideoId());
+                iframe.src = src.toString();
+            }
+        }
+
+        function toggleTheater() {
+            isTheater = !isTheater;
+            const btn = document.getElementById('theaterBtn');
+            btn.classList.toggle('active', isTheater);
+            const container = document.getElementById('videoContainer');
+            const wrapper = document.getElementById('playerWrapper');
+            if (isTheater) {
+                wrapper.style.maxWidth = '100%';
+                wrapper.style.padding = '0 0 3rem';
+                container.style.borderRadius = '0';
+                container.style.aspectRatio = '21/9';
+            } else {
+                wrapper.style.maxWidth = '1100px';
+                wrapper.style.padding = '1.5rem 2rem 3rem';
+                container.style.borderRadius = 'var(--radius-lg)';
+                container.style.aspectRatio = '16/9';
+            }
+        }
+
+        function toggleAutoplay(btn) {
+            btn.classList.toggle('active');
+        }
+
+        function goFullscreen() {
+            const iframe = document.getElementById('ytPlayer');
+            if (iframe) {
+                if (iframe.requestFullscreen) iframe.requestFullscreen();
+                else if (iframe.webkitRequestFullscreen) iframe.webkitRequestFullscreen();
+                else if (iframe.msRequestFullscreen) iframe.msRequestFullscreen();
+            }
+        }
+
+        function openPiP() {
+            // PiP works on video elements, not iframes directly
+            // Show a hint to the user
+            alert('Tip: Right-click the video twice while it\'s playing and select "Picture in Picture" from the YouTube player menu.');
+        }
+
+        function shareVideo() {
+            const url = window.location.href;
+            if (navigator.share) {
+                navigator.share({ title: currentMovie?.title || 'Movie', url });
+            } else {
+                navigator.clipboard.writeText(url).then(() => alert('Link copied to clipboard!'));
+            }
+        }
+
+        function copyLink() {
+            navigator.clipboard.writeText(window.location.href).then(() => {
+                alert('Player link copied!');
+            });
+        }
+
+        // ── Create related movie card ──
+        function createRelatedCard(movie) {
+            const card = document.createElement('a');
+            card.className = 'movie-card';
+            card.href = `player.html?v=${movie.id}`;
+            card.dataset.category = (movie.category || '').toLowerCase();
+
+            const thumb = movie.thumbnail || `https://i.ytimg.com/vi/${movie.id}/hqdefault.jpg`;
+
+            card.innerHTML = `
+        <div class="card-thumbnail">
+          <img src="${thumb}" alt="${escapeHtml(movie.title)}" loading="lazy" />
+          <span class="card-duration">${formatDurationShort(movie.duration)}</span>
+          <span class="card-category-badge">${escapeHtml(movie.category || '')}</span>
+          <div class="play-overlay">
+            <svg viewBox="0 0 24 24"><polygon points="5,3 19,12 5,21"></polygon></svg>
+          </div>
+        </div>
+        <div class="card-body">
+          <h3 class="card-title">${escapeHtml(movie.title)}</h3>
+          <div class="card-meta">
+            <span class="card-views">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
+                <circle cx="12" cy="12" r="3"></circle>
+              </svg>
+              ${formatViews(movie.view_count)}
+            </span>
+            <span class="card-uploader">${escapeHtml(movie.uploader || '')}</span>
+          </div>
+        </div>
+      `;
+            return card;
+        }
+
+        function formatDurationShort(seconds) {
+            if (!seconds) return '--:--';
+            const h = Math.floor(seconds / 3600);
+            const m = Math.floor((seconds % 3600) / 60);
+            const s = Math.floor(seconds % 60);
+            if (h > 0) return `${h}:${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`;
+            return `${m}:${String(s).padStart(2, '0')}`;
+        }
+
+        // ── Show related movies ──
+        function showRelated(movies, currentId) {
+            const grid = document.getElementById('relatedGrid');
+            const currentCat = currentMovie ? currentMovie.category : '';
+
+            // Prioritize same category, then random
+            let related = movies
+                .filter(m => m.id !== currentId)
+                .sort((a, b) => {
+                    if (a.category === currentCat && b.category !== currentCat) return -1;
+                    if (a.category !== currentCat && b.category === currentCat) return 1;
+                    return (b.view_count || 0) - (a.view_count || 0);
+                })
+                .slice(0, 8);
+
+            grid.innerHTML = '';
+            related.forEach(m => grid.appendChild(createRelatedCard(m)));
+        }
+
+        // ── Show error ──
+        function showError(msg) {
+            const wrapper = document.getElementById('playerWrapper');
+            wrapper.innerHTML = `
+        <div class="player-error">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+            <circle cx="12" cy="12" r="10"/>
+            <line x1="15" y1="9" x2="9" y2="15"/>
+            <line x1="9" y1="9" x2="15" y2="15"/>
+          </svg>
+          <h2>Video Not Found</h2>
+          <p>${msg}</p>
+          <a href="index.html" class="action-btn primary" style="display: inline-flex; text-decoration: none;">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12l9-9 9 9"/><path d="M9 21V12h6v9"/></svg>
+            Back to Home
+          </a>
+        </div>
+      `;
+        }
+
+        // ── Initialize ──
+        async function init() {
+            const videoId = getVideoId();
+            if (!videoId) {
+                showError('No video ID provided. Please select a movie from the home page.');
+                return;
+            }
+
+            // Load player immediately
+            loadPlayer(videoId);
+
+            // Fetch movie data
+            try {
+                const res = await fetch(API_URL);
+                const data = await res.json();
+                allMovies = data.movies || [];
+
+                currentMovie = allMovies.find(m => m.id === videoId);
+
+                if (currentMovie) {
+                    setMovieInfo(currentMovie);
+                } else {
+                    // Still play the video even if not in our DB
+                    document.getElementById('videoTitle').textContent = 'YouTube Video';
+                    document.getElementById('youtubeLink').href = `https://www.youtube.com/watch?v=${videoId}`;
+                }
+
+                showRelated(allMovies, videoId);
+
+            } catch (err) {
+                console.error('Error fetching movie data:', err);
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', init);
+    </script>
+
+</body>
+
+</html>

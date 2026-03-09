@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Movies Hub – Free YouTube Movies</title>
+  <meta name="description"
+    content="Discover free full-length movies and comedy shows on YouTube across multiple languages and categories. Updated daily." />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon"
+    href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎬</text></svg>" />
+</head>
+
+<body>
+
+  <!-- ═══ Navbar ═══ -->
+  <nav class="navbar" id="navbar">
+    <div class="navbar-inner">
+      <a href="index.html" class="logo">
+        <div class="logo-icon">🎬</div>
+        <div class="logo-text">Movies<span>Hub</span></div>
+      </a>
+      <ul class="nav-links">
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="docs.html">Docs</a></li>
+        <li><a href="https://github.com/samyak2403/daily-movies-api" target="_blank" rel="noopener">GitHub</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- ═══ Hero Section ═══ -->
+  <section class="hero">
+    <div class="hero-content">
+      <h1>Movies Hub</h1>
+      <p>Discover free full-length movies and comedy shows on YouTube — updated daily across 10 categories.</p>
+      <div class="hero-stats">
+        <div class="stat">
+          <div class="stat-value" id="totalMovies">--</div>
+          <div class="stat-label">Movies</div>
+        </div>
+        <div class="stat">
+          <div class="stat-value" id="totalCategories">10</div>
+          <div class="stat-label">Categories</div>
+        </div>
+        <div class="stat">
+          <div class="stat-value" id="totalViews">--</div>
+          <div class="stat-label">Total Views</div>
+        </div>
+      </div>
+
+      <!-- Search Bar -->
+      <div class="search-section">
+        <div class="search-wrapper">
+          <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="11" cy="11" r="8"></circle>
+            <path d="M21 21l-4.35-4.35"></path>
+          </svg>
+          <input type="text" class="search-input" id="searchInput"
+            placeholder="Search movies by title, actor, language..." autocomplete="off" />
+          <button class="search-clear" id="searchClear" onclick="clearSearch()">✕</button>
+        </div>
+        <div class="search-result-count" id="searchResultCount"></div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ═══ Category Filters ═══ -->
+  <section class="filter-section">
+    <div class="filter-bar" id="filterBar">
+      <button class="filter-btn active" data-category="all">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+          style="width: 16px; height: 16px; margin-right: 6px; vertical-align: text-bottom;">
+          <rect x="2" y="2" width="20" height="20" rx="2.18" ry="2.18"></rect>
+          <line x1="7" y1="2" x2="7" y2="22"></line>
+          <line x1="17" y1="2" x2="17" y2="22"></line>
+          <line x1="2" y1="12" x2="22" y2="12"></line>
+          <line x1="2" y1="7" x2="7" y2="7"></line>
+          <line x1="2" y1="17" x2="7" y2="17"></line>
+          <line x1="17" y1="17" x2="22" y2="17"></line>
+          <line x1="17" y1="7" x2="22" y2="7"></line>
+        </svg>
+        All
+      </button>
+      <button class="filter-btn" data-category="hindi">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+          style="width: 16px; height: 16px; margin-right: 6px; vertical-align: text-bottom;">
+          <circle cx="12" cy="12" r="10"></circle>
+          <line x1="2" y1="12" x2="22" y2="12"></line>
+          <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
+        </svg>
+        Hindi
+      </button>
+      <button class="filter-btn" data-category="marathi">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+          style="width: 16px; height: 16px; margin-right: 6px; vertical-align: text-bottom;">
+          <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+          <polyline points="14 2 14 8 20 8"></polyline>
+          <line x1="16" y1="13" x2="8" y2="13"></line>
+          <line x1="16" y1="17" x2="8" y2="17"></line>
+          <polyline points="10 9 9 9 8 9"></polyline>
+        </svg>
+        Marathi
+      </button>
+      <button class="filter-btn" data-category="english">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+          style="width: 16px; height: 16px; margin-right: 6px; vertical-align: text-bottom;">
+          <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+        </svg>
+        English
+      </button>
+      <button class="filter-btn" data-category="tamil">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+          style="width: 16px; height: 16px; margin-right: 6px; vertical-align: text-bottom;">
+          <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"></path>
+        </svg>
+        Tamil
+      </button>
+      <button class="filter-btn" data-category="telugu">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+          style="width: 16px; height: 16px; margin-right: 6px; vertical-align: text-bottom;">
+          <circle cx="12" cy="12" r="10"></circle>
+          <polygon points="10 8 16 12 10 16 10 8"></polygon>
+        </svg>
+        Telugu
+      </button>
+      <button class="filter-btn" data-category="kannada">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+          style="width: 16px; height: 16px; margin-right: 6px; vertical-align: text-bottom;">
+          <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
+        </svg>
+        Kannada
+      </button>
+      <button class="filter-btn" data-category="cartoons">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+          style="width: 16px; height: 16px; margin-right: 6px; vertical-align: text-bottom;">
+          <circle cx="12" cy="12" r="10"></circle>
+          <path d="M8 14s1.5 2 4 2 4-2 4-2"></path>
+          <line x1="9" y1="9" x2="9.01" y2="9"></line>
+          <line x1="15" y1="9" x2="15.01" y2="9"></line>
+        </svg>
+        Cartoons
+      </button>
+      <button class="filter-btn" data-category="comedy">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+          style="width: 16px; height: 16px; margin-right: 6px; vertical-align: text-bottom;">
+          <path
+            d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3zM7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3">
+          </path>
+        </svg>
+        Comedy
+      </button>
+      <button class="filter-btn" data-category="taarak_mehta">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+          style="width: 16px; height: 16px; margin-right: 6px; vertical-align: text-bottom;">
+          <circle cx="6" cy="15" r="4"></circle>
+          <circle cx="18" cy="15" r="4"></circle>
+          <path d="M14 15a2 2 0 0 0-2-2 2 2 0 0 0-2 2"></path>
+          <path d="M2.5 13L5 7c.7-1.3 2.1-2 3.5-2h7c1.4 0 2.8.7 3.5 2l2.5 6"></path>
+        </svg>
+        Taarak Mehta
+      </button>
+      <button class="filter-btn" data-category="yam_hain_hum">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+          style="width: 16px; height: 16px; margin-right: 6px; vertical-align: text-bottom;">
+          <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+          <circle cx="12" cy="7" r="4"></circle>
+        </svg>
+        Yam Hain Hum
+      </button>
+    </div>
+  </section>
+
+  <!-- ═══ Movies Grid ═══ -->
+  <section class="movies-section">
+    <div class="movies-grid" id="moviesGrid">
+      <!-- Movie cards are rendered by script.js -->
+    </div>
+  </section>
+
+  <!-- ═══ Footer ═══ -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <h3>Movies<span>Hub</span></h3>
+        <p>A free, open-source video discovery platform powered by YouTube. New videos are added daily through an
+          automated scraper across 10 categories.</p>
+      </div>
+
+      <div class="footer-col">
+        <h4>Categories</h4>
+        <ul>
+          <li><a href="#"
+              onclick="filterMovies('hindi'); window.scrollTo({top:0,behavior:'smooth'}); return false;">Hindi</a></li>
+          <li><a href="#"
+              onclick="filterMovies('marathi'); window.scrollTo({top:0,behavior:'smooth'}); return false;">Marathi</a>
+          </li>
+          <li><a href="#"
+              onclick="filterMovies('english'); window.scrollTo({top:0,behavior:'smooth'}); return false;">English</a>
+          </li>
+          <li><a href="#"
+              onclick="filterMovies('tamil'); window.scrollTo({top:0,behavior:'smooth'}); return false;">Tamil</a></li>
+          <li><a href="#"
+              onclick="filterMovies('telugu'); window.scrollTo({top:0,behavior:'smooth'}); return false;">Telugu</a>
+          </li>
+          <li><a href="#"
+              onclick="filterMovies('kannada'); window.scrollTo({top:0,behavior:'smooth'}); return false;">Kannada</a>
+          </li>
+          <li><a href="#"
+              onclick="filterMovies('cartoons'); window.scrollTo({top:0,behavior:'smooth'}); return false;">Cartoons</a>
+          </li>
+          <li><a href="#"
+              onclick="filterMovies('comedy'); window.scrollTo({top:0,behavior:'smooth'}); return false;">Comedy</a>
+          </li>
+          <li><a href="#"
+              onclick="filterMovies('taarak_mehta'); window.scrollTo({top:0,behavior:'smooth'}); return false;">Taarak
+              Mehta</a>
+          </li>
+          <li><a href="#"
+              onclick="filterMovies('yam_hain_hum'); window.scrollTo({top:0,behavior:'smooth'}); return false;">Yam Hain
+              Hum</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Resources</h4>
+        <ul>
+          <li><a href="docs.html">API Documentation</a></li>
+          <li><a href="https://github.com/samyak2403/daily-movies-api" target="_blank" rel="noopener">GitHub Repo</a>
+          </li>
+          <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/movies.json"
+              target="_blank" rel="noopener">JSON API</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>API Endpoints</h4>
+        <ul>
+          <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/hindi/hindi.json"
+              target="_blank" rel="noopener">Hindi API</a></li>
+          <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/marathi/marathi.json"
+              target="_blank" rel="noopener">Marathi API</a></li>
+          <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/english/english.json"
+              target="_blank" rel="noopener">English API</a></li>
+          <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/tamil/tamil.json"
+              target="_blank" rel="noopener">Tamil API</a></li>
+          <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/telugu/telugu.json"
+              target="_blank" rel="noopener">Telugu API</a></li>
+          <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/kannada/kannada.json"
+              target="_blank" rel="noopener">Kannada API</a></li>
+          <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/cartoons/cartoons.json"
+              target="_blank" rel="noopener">Cartoons API</a></li>
+          <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/comedy/comedy.json"
+              target="_blank" rel="noopener">Comedy API</a></li>
+          <li><a
+              href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/taarak_mehta/taarak_mehta.json"
+              target="_blank" rel="noopener">Taarak Mehta API</a></li>
+          <li><a
+              href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/yam_hain_hum/yam_hain_hum.json"
+              target="_blank" rel="noopener">Yam Hain Hum API</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <span>© 2026 Movies Hub. Powered by <a href="https://github.com/samyak2403/daily-movies-api" target="_blank"
+          rel="noopener">daily-movies-api</a></span>
+      <span>Updated daily via GitHub Actions</span>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+
+</html>

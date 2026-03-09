@@ -13,6 +13,9 @@ CATEGORIES = {
     "telugu": "full movie telugu",
     "kannada": "full movie kannada",
     "cartoons": "cartoon full movie for kids",
+    "comedy": "hindi comedy videos",
+    "taarak_mehta": "taarak mehta ka ooltah chashmah",
+    "yam_hain_hum": "yam hain hum",
 }
 
 # Number of results per category to fetch
@@ -49,8 +52,9 @@ def scrape_movies():
 
                         # Filter out shorts or very short videos
                         duration = video.get('duration', 0)
-                        # Cartoons can be shorter, so use a lower threshold
-                        min_duration = 1200 if category == "cartoons" else 2400
+                        # Cartoons and comedy shows can be shorter, so use a lower threshold
+                        short_categories = ["cartoons", "comedy", "taarak_mehta", "yam_hain_hum"]
+                        min_duration = 600 if category in short_categories else 2400
                         if duration and duration < min_duration:
                             continue
 
