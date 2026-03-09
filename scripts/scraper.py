@@ -72,16 +72,35 @@ def save_to_json(data, filename="movies/movies.json"):
     # Create the directory if it doesn't exist
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     
+    existing_movies = []
+    
+    # Check if the file already exists and has movies
+    if os.path.exists(filename):
+        try:
+            with open(filename, 'r', encoding='utf-8') as f:
+                existing_data = json.load(f)
+                existing_movies = existing_data.get('movies', [])
+                print(f"Loaded {len(existing_movies)} existing movies from {filename}")
+        except Exception as e:
+            print(f"Could not read existing file {filename}: {e}")
+    
+    # Combine old and new movies
+    combined_movies = existing_movies + data
+    
+    # Remove any duplicates based on movie 'id'
+    unique_movies = {movie['id']: movie for movie in combined_movies}.values()
+    final_movies_list = list(unique_movies)
+    
     # Output structure perfect for a frontend store
     output = {
         "last_updated": datetime.utcnow().isoformat() + "Z",
-        "total_movies": len(data),
-        "movies": data
+        "total_movies": len(final_movies_list),
+        "movies": final_movies_list
     }
     
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(output, f, indent=4, ensure_ascii=False)
-    print(f"Successfully saved {len(data)} movies to {filename}")
+    print(f"Successfully saved {len(final_movies_list)} total movies (including newly scraped ones) to {filename}")
 
 if __name__ == "__main__":
     print(f"Starting YouTube movie discovery at {datetime.now()}...")
