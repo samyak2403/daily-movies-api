@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-12T18:48:47.693517Z",
+    "last_updated": "2026-03-12T19:20:12.435187Z",
     "show_name": "Bapu",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Bapu.",
-    "total_episodes": 14,
+    "total_episodes": 16,
     "episodes": [
         {
             "id": "tvT3j09ZBR0",
@@ -101,7 +101,7 @@
             "title": "Peppa Pig in Hindi - Shopping - हिंदी Kahaniya - Hindi Cartoons for Kids",
             "url": "https://www.youtube.com/watch?v=1R_Wg95QotE",
             "duration": 3801.0,
-            "view_count": 25395090,
+            "view_count": 25395664,
             "uploader": "पेप्पा पिग हिंदी - आधिकारिक चैनल",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/1R_Wg95QotE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbVOWU_gGvgDdsQgj7QOGlYVYoig"
@@ -111,7 +111,7 @@
             "title": "Peppa Pig in Hindi | बेबी बंप्स | Hindi Cartoons for Kids",
             "url": "https://www.youtube.com/watch?v=KECatvWQwKw",
             "duration": 3640.0,
-            "view_count": 7959560,
+            "view_count": 7959872,
             "uploader": "पेप्पा पिग हिंदी - आधिकारिक चैनल",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/KECatvWQwKw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsO1P6rDKJC90nHNTwxkjMcr2xkA"
@@ -145,6 +145,26 @@
             "uploader": "KidZ",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/HYEOILg14M0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiEzicJfiSUPiNPwnvE3ViIIx32w"
+        },
+        {
+            "id": "6akoUi_C3hw",
+            "title": "cycle race | Bapu Catoon Ep - 5 | and Hindi cartoon |",
+            "url": "https://www.youtube.com/watch?v=6akoUi_C3hw",
+            "duration": 697.0,
+            "view_count": 2129,
+            "uploader": "BAPU KIDS PLAY TV",
+            "category": "cartoons/bapu",
+            "thumbnail": "https://i.ytimg.com/vi/6akoUi_C3hw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcUcswIbwxqiH2us91ebpGVwjipQ"
+        },
+        {
+            "id": "ekH6V3f3uC0",
+            "title": "Bapu Ki Kahaniyaan || EP-5 || Tel Ki Khoj",
+            "url": "https://www.youtube.com/watch?v=ekH6V3f3uC0",
+            "duration": 691.0,
+            "view_count": 4422,
+            "uploader": "KIDS TV LIVE",
+            "category": "cartoons/bapu",
+            "thumbnail": "https://i.ytimg.com/vi/ekH6V3f3uC0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjEc5RY0MhZQkb0u_eUNpEOJucFw"
         }
     ]
 }

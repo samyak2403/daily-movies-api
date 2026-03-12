@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-12T18:48:47.684799Z",
+    "last_updated": "2026-03-12T19:20:12.440991Z",
     "show_name": "Pokemon",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pokemon.",
-    "total_episodes": 15,
+    "total_episodes": 17,
     "episodes": [
         {
             "id": "sk9AScPi7Jc",
@@ -21,7 +21,7 @@
             "title": "Here Comes the Squirtle Squad | POKÉMON FULL EPISODE 12 | Season 1",
             "url": "https://www.youtube.com/watch?v=1TlOcjJodHw",
             "duration": 1343.0,
-            "view_count": 5038337,
+            "view_count": 5038634,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/1TlOcjJodHw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIIPwgwptR6xZ0CXYH4MIurOhOBQ"
@@ -31,7 +31,7 @@
             "title": "The Flame Pokémon-athon! | FULL EPISODE 32 | Season 1",
             "url": "https://www.youtube.com/watch?v=RYdXQlBjjPI",
             "duration": 1343.0,
-            "view_count": 2649910,
+            "view_count": 2650024,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/RYdXQlBjjPI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCznL3EiW8DiZCz7_8cHrMiuidWZA"
@@ -41,7 +41,7 @@
             "title": "Can't Beat the Heat | POKÉMON FULL EPISODE 60 | Season 5",
             "url": "https://www.youtube.com/watch?v=dHPTV4AHUyc",
             "duration": 1274.0,
-            "view_count": 2582619,
+            "view_count": 2582935,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/dHPTV4AHUyc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdqUbugHfbtViyxDesJ-JzQxVovA"
@@ -51,7 +51,7 @@
             "title": "Volcanic Panic  | POKÉMON FULL EPISODE 4 | Season 2",
             "url": "https://www.youtube.com/watch?v=fokk0u5Yr5Y",
             "duration": 1418.0,
-            "view_count": 2676367,
+            "view_count": 2676515,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/fokk0u5Yr5Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwIfmTeIQtiDih0Wtdf7EEFKXC-w"
@@ -61,7 +61,7 @@
             "title": "Electric Shock Showdown | POKÉMON FULL EPISODE 14 | Season 1",
             "url": "https://www.youtube.com/watch?v=Cd-3_QOIjgU",
             "duration": 1343.0,
-            "view_count": 3907290,
+            "view_count": 3907717,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/Cd-3_QOIjgU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9APINRS6hc-GLF8Kaffktn-idaA"
@@ -71,7 +71,7 @@
             "title": "Pokémon - I Choose You! | FULL EPISODE 1 | Season 1",
             "url": "https://www.youtube.com/watch?v=z3hMX65Khtg",
             "duration": 1343.0,
-            "view_count": 11205006,
+            "view_count": 11205622,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/z3hMX65Khtg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDygnxDeS8UP_8pcJQcw3mruHK1KQ"
@@ -111,7 +111,7 @@
             "title": "Ash & Pikachu Challenge the Pokémon League! | 3 HOURS | Pokémon Season 2",
             "url": "https://www.youtube.com/watch?v=yteSsb4_QTU",
             "duration": 10861.0,
-            "view_count": 1121492,
+            "view_count": 1121760,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/yteSsb4_QTU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTxsjAmFfLBKi89_AT7lKLcKsb9g"
@@ -155,6 +155,26 @@
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/XaWreTXENiY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-rHvJzhruXBwV_FWgqPe_FxoRQA"
+        },
+        {
+            "id": "SeJkcF6gYjA",
+            "title": "Kalos, Where Dreams and Adventures Begin  [FULL EPISODE] 📺 | Pokémon the Series: XY Episode 1",
+            "url": "https://www.youtube.com/watch?v=SeJkcF6gYjA",
+            "duration": 1283.0,
+            "view_count": 6737675,
+            "uploader": "The Official Pokémon YouTube channel",
+            "category": "cartoons/pokemon",
+            "thumbnail": "https://i.ytimg.com/vi/SeJkcF6gYjA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_eYBumXeW8tt6zGlcvcZ_3PLVOg"
+        },
+        {
+            "id": "3l1lSNQxJA0",
+            "title": "Mystery at the Lighthouse | POKÉMON FULL EPISODE 13 | Season 1",
+            "url": "https://www.youtube.com/watch?v=3l1lSNQxJA0",
+            "duration": 1343.0,
+            "view_count": 2426915,
+            "uploader": "Pokémon TV",
+            "category": "cartoons/pokemon",
+            "thumbnail": "https://i.ytimg.com/vi/3l1lSNQxJA0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLpUshfjy-LbhIvv75uCHy0k-ztQ"
         }
     ]
 }
