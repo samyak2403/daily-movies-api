@@ -4,6 +4,18 @@
 
 const API_URL = 'https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/movies.json';
 
+// Individual cartoon show API endpoints
+const CARTOON_APIS = {
+  'cartoons/oggy_and_the_cockroaches': 'https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/cartoons/oggy_and_the_cockroaches/oggy_and_the_cockroaches.json',
+  'cartoons/bandbudh_aur_budbak': 'https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/cartoons/bandbudh_aur_budbak/bandbudh_aur_budbak.json',
+  'cartoons/chhota_bheem': 'https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/cartoons/chhota_bheem/chhota_bheem.json',
+  'cartoons/motu_patlu': 'https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/cartoons/motu_patlu/motu_patlu.json',
+  'cartoons/gattu_battu': 'https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/cartoons/gattu_battu/gattu_battu.json',
+  'cartoons/doraemon': 'https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/cartoons/doraemon/doraemon.json',
+  'cartoons/ninja_hattori': 'https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/cartoons/ninja_hattori/ninja_hattori.json',
+  'cartoons/chacha_bhatija': 'https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/cartoons/chacha_bhatija/chacha_bhatija.json',
+};
+
 let allMovies = [];
 let currentFilter = 'all';
 
@@ -223,11 +235,35 @@ async function init() {
   showSkeletons(grid);
 
   try {
-    const response = await fetch(API_URL);
-    if (!response.ok) throw new Error('Failed to fetch movies');
+    // Fetch main movies API
+    const mainResponse = await fetch(API_URL);
+    if (!mainResponse.ok) throw new Error('Failed to fetch movies');
+    const mainData = await mainResponse.json();
+    let movies = mainData.movies || [];
 
-    const data = await response.json();
-    allMovies = data.movies || [];
+    // Fetch all cartoon show APIs in parallel
+    const cartoonPromises = Object.entries(CARTOON_APIS).map(async ([category, url]) => {
+      try {
+        const res = await fetch(url);
+        if (!res.ok) return [];
+        const data = await res.json();
+        const episodes = data.episodes || data.movies || [];
+        // Tag each episode with its cartoon category
+        return episodes.map(ep => ({ ...ep, category: category }));
+      } catch (e) {
+        console.warn(`Could not fetch ${category}:`, e);
+        return [];
+      }
+    });
+
+    const cartoonResults = await Promise.all(cartoonPromises);
+    const cartoonMovies = cartoonResults.flat();
+
+    // Merge all movies and deduplicate by ID
+    const allMerged = [...movies, ...cartoonMovies];
+    const uniqueMap = {};
+    allMerged.forEach(m => { if (m.id) uniqueMap[m.id] = m; });
+    allMovies = Object.values(uniqueMap);
 
     updateStats(allMovies);
     renderMovies(allMovies);

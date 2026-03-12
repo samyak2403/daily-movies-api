@@ -33,14 +33,14 @@
   <section class="hero">
     <div class="hero-content">
       <h1>Movies Hub</h1>
-      <p>Discover free full-length movies and comedy shows on YouTube — updated daily across 10 categories.</p>
+      <p>Discover free full-length movies, comedy shows and Hindi cartoons on YouTube — updated daily across 18 categories.</p>
       <div class="hero-stats">
         <div class="stat">
           <div class="stat-value" id="totalMovies">--</div>
           <div class="stat-label">Movies</div>
         </div>
         <div class="stat">
-          <div class="stat-value" id="totalCategories">10</div>
+          <div class="stat-value" id="totalCategories">18</div>
           <div class="stat-label">Categories</div>
         </div>
         <div class="stat">
@@ -142,6 +142,30 @@
         </svg>
         Cartoons
       </button>
+      <button class="filter-btn" data-category="cartoons/oggy_and_the_cockroaches">
+        🪳 Oggy & Cockroaches
+      </button>
+      <button class="filter-btn" data-category="cartoons/bandbudh_aur_budbak">
+        👦 Bandbudh Aur Budbak
+      </button>
+      <button class="filter-btn" data-category="cartoons/chhota_bheem">
+        💪 Chhota Bheem
+      </button>
+      <button class="filter-btn" data-category="cartoons/motu_patlu">
+        🍩 Motu Patlu
+      </button>
+      <button class="filter-btn" data-category="cartoons/gattu_battu">
+        🔍 Gattu Battu
+      </button>
+      <button class="filter-btn" data-category="cartoons/doraemon">
+        🤖 Doraemon
+      </button>
+      <button class="filter-btn" data-category="cartoons/ninja_hattori">
+        🥷 Ninja Hattori
+      </button>
+      <button class="filter-btn" data-category="cartoons/chacha_bhatija">
+        👨‍👦 Chacha Bhatija
+      </button>
       <button class="filter-btn" data-category="comedy">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
           style="width: 16px; height: 16px; margin-right: 6px; vertical-align: text-bottom;">
@@ -211,6 +235,21 @@
               onclick="filterMovies('cartoons'); window.scrollTo({top:0,behavior:'smooth'}); return false;">Cartoons</a>
           </li>
           <li><a href="#"
+              onclick="filterMovies('cartoons/oggy_and_the_cockroaches'); window.scrollTo({top:0,behavior:'smooth'}); return false;">Oggy & Cockroaches</a>
+          </li>
+          <li><a href="#"
+              onclick="filterMovies('cartoons/chhota_bheem'); window.scrollTo({top:0,behavior:'smooth'}); return false;">Chhota Bheem</a>
+          </li>
+          <li><a href="#"
+              onclick="filterMovies('cartoons/doraemon'); window.scrollTo({top:0,behavior:'smooth'}); return false;">Doraemon</a>
+          </li>
+          <li><a href="#"
+              onclick="filterMovies('cartoons/motu_patlu'); window.scrollTo({top:0,behavior:'smooth'}); return false;">Motu Patlu</a>
+          </li>
+          <li><a href="#"
+              onclick="filterMovies('cartoons/ninja_hattori'); window.scrollTo({top:0,behavior:'smooth'}); return false;">Ninja Hattori</a>
+          </li>
+          <li><a href="#"
               onclick="filterMovies('comedy'); window.scrollTo({top:0,behavior:'smooth'}); return false;">Comedy</a>
           </li>
           <li><a href="#"
@@ -260,6 +299,25 @@
           <li><a
               href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/yam_hain_hum/yam_hain_hum.json"
               target="_blank" rel="noopener">Yam Hain Hum API</a></li>
+        </ul>
+        <h4>Cartoon Shows API</h4>
+        <ul>
+          <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/cartoons/oggy_and_the_cockroaches/oggy_and_the_cockroaches.json"
+              target="_blank" rel="noopener">Oggy & Cockroaches</a></li>
+          <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/cartoons/chhota_bheem/chhota_bheem.json"
+              target="_blank" rel="noopener">Chhota Bheem</a></li>
+          <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/cartoons/doraemon/doraemon.json"
+              target="_blank" rel="noopener">Doraemon</a></li>
+          <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/cartoons/motu_patlu/motu_patlu.json"
+              target="_blank" rel="noopener">Motu Patlu</a></li>
+          <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/cartoons/ninja_hattori/ninja_hattori.json"
+              target="_blank" rel="noopener">Ninja Hattori</a></li>
+          <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/cartoons/gattu_battu/gattu_battu.json"
+              target="_blank" rel="noopener">Gattu Battu</a></li>
+          <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/cartoons/bandbudh_aur_budbak/bandbudh_aur_budbak.json"
+              target="_blank" rel="noopener">Bandbudh Aur Budbak</a></li>
+          <li><a href="https://raw.githubusercontent.com/samyak2403/daily-movies-api/main/movies/cartoons/chacha_bhatija/chacha_bhatija.json"
+              target="_blank" rel="noopener">Chacha Bhatija</a></li>
         </ul>
       </div>
     </div>

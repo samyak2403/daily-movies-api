@@ -18,6 +18,21 @@ CATEGORIES = {
     "yam_hain_hum": "yam hain hum",
 }
 
+# Hindi Cartoon Show Categories (subfolders inside cartoons/)
+CARTOON_CATEGORIES = {
+    "cartoons/oggy_and_the_cockroaches": "oggy and the cockroaches hindi full episodes",
+    "cartoons/bandbudh_aur_budbak": "bandbudh aur budbak hindi full episodes",
+    "cartoons/chhota_bheem": "chhota bheem hindi full episodes",
+    "cartoons/motu_patlu": "motu patlu hindi full episodes",
+    "cartoons/gattu_battu": "gattu battu hindi full episodes",
+    "cartoons/doraemon": "doraemon hindi full episodes",
+    "cartoons/ninja_hattori": "ninja hattori hindi full episodes",
+    "cartoons/chacha_bhatija": "chacha bhatija hindi full episodes",
+}
+
+# Merge all categories
+ALL_CATEGORIES = {**CATEGORIES, **CARTOON_CATEGORIES}
+
 # Number of results per category to fetch
 RESULTS_PER_CATEGORY = 15
 
@@ -37,8 +52,8 @@ def scrape_movies():
     }
 
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-        for category, query in CATEGORIES.items():
-            print(f"Searching for {category} movies...")
+        for category, query in ALL_CATEGORIES.items():
+            print(f"Searching for {category}...")
             # Use 'ytsearch<N>:' to search YouTube directly
             search_query = f"ytsearch{RESULTS_PER_CATEGORY}:{query}"
 
@@ -53,7 +68,17 @@ def scrape_movies():
                         # Filter out shorts or very short videos
                         duration = video.get('duration', 0)
                         # Cartoons and comedy shows can be shorter, so use a lower threshold
-                        short_categories = ["cartoons", "comedy", "taarak_mehta", "yam_hain_hum"]
+                        short_categories = [
+                            "cartoons", "comedy", "taarak_mehta", "yam_hain_hum",
+                            "cartoons/oggy_and_the_cockroaches",
+                            "cartoons/bandbudh_aur_budbak",
+                            "cartoons/chhota_bheem",
+                            "cartoons/motu_patlu",
+                            "cartoons/gattu_battu",
+                            "cartoons/doraemon",
+                            "cartoons/ninja_hattori",
+                            "cartoons/chacha_bhatija",
+                        ]
                         min_duration = 600 if category in short_categories else 2400
                         if duration and duration < min_duration:
                             continue
@@ -123,9 +148,12 @@ def save_all(new_movies):
         by_category.setdefault(cat, []).append(movie)
 
     # ── 2. Save per-category files ──
-    for cat in CATEGORIES:
+    for cat in ALL_CATEGORIES:
         cat_dir = os.path.join(OUTPUT_DIR, cat)
-        cat_file = os.path.join(cat_dir, f"{cat}.json")
+        # For cartoon subcategories like "cartoons/oggy_and_the_cockroaches",
+        # the filename should be the last part (e.g. "oggy_and_the_cockroaches.json")
+        cat_basename = cat.split("/")[-1]
+        cat_file = os.path.join(cat_dir, f"{cat_basename}.json")
 
         existing = load_existing(cat_file)
         combined = existing + by_category.get(cat, [])
