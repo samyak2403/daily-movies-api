@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-12T22:22:33.122449Z",
+    "last_updated": "2026-03-12T22:57:58.334759Z",
     "show_name": "Super Bheem",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Super Bheem.",
-    "total_episodes": 24,
+    "total_episodes": 25,
     "episodes": [
         {
             "id": "hVoxSdJ_fyA",
@@ -101,7 +101,7 @@
             "title": "Super Bheem - Power Stone of Alpha God | Cartoons for Kids | Adventure Videos in Hindi",
             "url": "https://www.youtube.com/watch?v=f1GxgikTUOg",
             "duration": 1841.0,
-            "view_count": 98793,
+            "view_count": 98797,
             "uploader": "Super Bheem",
             "category": "cartoons/super_bheem",
             "thumbnail": "https://i.ytimg.com/vi/f1GxgikTUOg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlKWXkxg4_zqt4mPyApnj8KDqHBg"
@@ -131,7 +131,7 @@
             "title": "Super Bheem - A Wish Granting Butterfly | Animated cartoons for kids | Stories for Kids",
             "url": "https://www.youtube.com/watch?v=82JqBL7r3bc",
             "duration": 1858.0,
-            "view_count": 126932,
+            "view_count": 126935,
             "uploader": "Super Bheem",
             "category": "cartoons/super_bheem",
             "thumbnail": "https://i.ytimg.com/vi/82JqBL7r3bc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMZbUYeDyStKzNXcgnTW6CxHRE0g"
@@ -191,7 +191,7 @@
             "title": "Super Bheem Vs Super Villains - Chapter 1 - Hokum Strikes Again | Battle for Freedom | Cartoons",
             "url": "https://www.youtube.com/watch?v=P2VidljQE9w",
             "duration": 1836.0,
-            "view_count": 146026,
+            "view_count": 146030,
             "uploader": "Super Bheem",
             "category": "cartoons/super_bheem",
             "thumbnail": "https://i.ytimg.com/vi/P2VidljQE9w/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATpZmzX0RTdGch6RZdAAHkjZ-q-Q"
@@ -245,6 +245,16 @@
             "uploader": "Super Bheem",
             "category": "cartoons/super_bheem",
             "thumbnail": "https://i.ytimg.com/vi/ur4qEoNowiI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5Uj3ucjtqENrn4cEqLG3c_TmRLQ"
+        },
+        {
+            "id": "P6IHpXlpfHY",
+            "title": "Super Bheem - Chocolate River | Animated Adventure Videos | Cartoons for Kids in Hindi",
+            "url": "https://www.youtube.com/watch?v=P6IHpXlpfHY",
+            "duration": 632.0,
+            "view_count": 421540,
+            "uploader": "Super Bheem",
+            "category": "cartoons/super_bheem",
+            "thumbnail": "https://i.ytimg.com/vi/P6IHpXlpfHY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCV3AxCDnDUy8f2m__J5jDXwJMVfA"
         }
     ]
 }

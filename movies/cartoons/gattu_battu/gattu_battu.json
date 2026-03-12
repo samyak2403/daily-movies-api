@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-12T22:22:33.108988Z",
+    "last_updated": "2026-03-12T22:57:58.361563Z",
     "show_name": "Gattu Battu",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Gattu Battu.",
-    "total_episodes": 32,
+    "total_episodes": 33,
     "episodes": [
         {
             "id": "0dXItEHSgwI",
@@ -31,7 +31,7 @@
             "title": "Gattu Battu | Full Episode | Invisibility Powder",
             "url": "https://www.youtube.com/watch?v=J4Z27usKIA0",
             "duration": 1222.0,
-            "view_count": 1761531,
+            "view_count": 1761544,
             "uploader": "Sonic Gang",
             "category": "cartoons/gattu_battu",
             "thumbnail": "https://i.ytimg.com/vi/J4Z27usKIA0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWhspXvalWW3F2jFi9TWw2oH--uA"
@@ -51,7 +51,7 @@
             "title": "Gattu Battu | Full Episode | Bhoot Train का राज! Gattu Battu की जासूसी",
             "url": "https://www.youtube.com/watch?v=r3pShF8qV-0",
             "duration": 1176.0,
-            "view_count": 1267989,
+            "view_count": 1268039,
             "uploader": "Sonic Gang",
             "category": "cartoons/gattu_battu",
             "thumbnail": "https://i.ytimg.com/vi/r3pShF8qV-0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGtZIwFO3ieft41EIQVxgrBBD0FQ"
@@ -61,7 +61,7 @@
             "title": "जब Gattu Battu भिड़े Desh Ke Dushmano Se | Gattu Battu - Secret of the Computer Chip",
             "url": "https://www.youtube.com/watch?v=9CXoyCFXQDU",
             "duration": 5374.0,
-            "view_count": 714411,
+            "view_count": 714433,
             "uploader": "Sonic Gang Hindi Movies",
             "category": "cartoons/gattu_battu",
             "thumbnail": "https://i.ytimg.com/vi/9CXoyCFXQDU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCPYtW9qfNFQEMD1L9p-qcQ4nUWA"
@@ -231,7 +231,7 @@
             "title": "Gattu Battu | Full Episode | Rainbow man",
             "url": "https://www.youtube.com/watch?v=Wy05uh0U1wc",
             "duration": 1467.0,
-            "view_count": 2316554,
+            "view_count": 2316621,
             "uploader": "Sonic Gang",
             "category": "cartoons/gattu_battu",
             "thumbnail": "https://i.ytimg.com/vi/Wy05uh0U1wc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAK-3FlyZbMYZbj3Lh7jc3etxN8Fw"
@@ -321,10 +321,20 @@
             "title": "Gattu Battu | Full Episode | Detective suit",
             "url": "https://www.youtube.com/watch?v=bcsGGwJ085g",
             "duration": 1318.0,
-            "view_count": 713868,
+            "view_count": 713893,
             "uploader": "Sonic Gang",
             "category": "cartoons/gattu_battu",
             "thumbnail": "https://i.ytimg.com/vi/bcsGGwJ085g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHG7EwJV9sdz9KOpF1HTdDBk013w"
+        },
+        {
+            "id": "HXRcA5SnmwU",
+            "title": "Gattu Battu | Full Episode | Invisible Map",
+            "url": "https://www.youtube.com/watch?v=HXRcA5SnmwU",
+            "duration": 1132.0,
+            "view_count": 826739,
+            "uploader": "Sonic Gang",
+            "category": "cartoons/gattu_battu",
+            "thumbnail": "https://i.ytimg.com/vi/HXRcA5SnmwU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEnhY_kZOLtICatwVumzdGTDpqBA"
         }
     ]
 }
