@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-12T21:16:07.263075Z",
+    "last_updated": "2026-03-12T21:57:22.269477Z",
     "show_name": "Super Bheem",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Super Bheem.",
-    "total_episodes": 21,
+    "total_episodes": 23,
     "episodes": [
         {
             "id": "hVoxSdJ_fyA",
@@ -31,7 +31,7 @@
             "title": "Super Bheem - Kalia ka Naya Dost | Adventure Cartoons for Kids | Fun Kids Videos",
             "url": "https://www.youtube.com/watch?v=v-5bsikCjSo",
             "duration": 1815.0,
-            "view_count": 6695672,
+            "view_count": 6695725,
             "uploader": "Super Bheem",
             "category": "cartoons/super_bheem",
             "thumbnail": "https://i.ytimg.com/vi/v-5bsikCjSo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANwhgfEZtxTzjwMunF4935UXvZuQ"
@@ -51,7 +51,7 @@
             "title": "Super Bheem - Dragons ki Duniya | Cartoons for Kids | Funny Kids Videos",
             "url": "https://www.youtube.com/watch?v=Odz_x-pnPTg",
             "duration": 1846.0,
-            "view_count": 8084355,
+            "view_count": 8084362,
             "uploader": "Super Bheem",
             "category": "cartoons/super_bheem",
             "thumbnail": "https://i.ytimg.com/vi/Odz_x-pnPTg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiGh8vZ9BNEYShVasYa9HWDMfTcQ"
@@ -81,7 +81,7 @@
             "title": "Super Bheem - Marshmallow Planet Adventure | Cartoons for Kids | Funny Kids Videos",
             "url": "https://www.youtube.com/watch?v=Hwlqeui63f0",
             "duration": 1850.0,
-            "view_count": 5533294,
+            "view_count": 5533299,
             "uploader": "Super Bheem",
             "category": "cartoons/super_bheem",
             "thumbnail": "https://i.ytimg.com/vi/Hwlqeui63f0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrDRnJ-Hf2zvRsFDmXvm29TBFieQ"
@@ -121,7 +121,7 @@
             "title": "Super Bheem - Twinkle, Twinkle, Little Unicorn | Cartoon for Kids in Hindi | Adventure Videos",
             "url": "https://www.youtube.com/watch?v=Atn0iQa2Ivg",
             "duration": 1859.0,
-            "view_count": 255916,
+            "view_count": 255922,
             "uploader": "Super Bheem",
             "category": "cartoons/super_bheem",
             "thumbnail": "https://i.ytimg.com/vi/Atn0iQa2Ivg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvXIr3NLO17Sv7kKA60cJ1SVrlZw"
@@ -201,7 +201,7 @@
             "title": "Super Bheem - Rise of Dragonpur | Epic Tales for Kids | Cartoons for Kids in Hindi",
             "url": "https://www.youtube.com/watch?v=UAtaci4FEBQ",
             "duration": 1806.0,
-            "view_count": 7455951,
+            "view_count": 7455974,
             "uploader": "Super Bheem",
             "category": "cartoons/super_bheem",
             "thumbnail": "https://i.ytimg.com/vi/UAtaci4FEBQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzxR4RxWfr9KAyQvlSGCRm7u9IUQ"
@@ -211,10 +211,30 @@
             "title": "Super Bheem VS Super Villain Kirmada | Adventure Videos for Kids | Cartoons for Kids",
             "url": "https://www.youtube.com/watch?v=tWwwKN1Zn_U",
             "duration": 1848.0,
-            "view_count": 7842182,
+            "view_count": 7842198,
             "uploader": "Super Bheem",
             "category": "cartoons/super_bheem",
             "thumbnail": "https://i.ytimg.com/vi/tWwwKN1Zn_U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5uKlWoSnGY7ibNHBjElFgxn_2DA"
+        },
+        {
+            "id": "PxlvcytnorE",
+            "title": "Super Bheem - Planet Of Sharks | Animated cartoons for kids | Stories for Kids",
+            "url": "https://www.youtube.com/watch?v=PxlvcytnorE",
+            "duration": 1837.0,
+            "view_count": 1596034,
+            "uploader": "Super Bheem",
+            "category": "cartoons/super_bheem",
+            "thumbnail": "https://i.ytimg.com/vi/PxlvcytnorE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_HVmQG-SZcpN5Kx2uJFVPSYNAlw"
+        },
+        {
+            "id": "Rfbh9_lIeds",
+            "title": "Super Bheem - Bhoot Ki Kahani | Scary Stories | Cartoon for Kids in Hindi | Funny Videos",
+            "url": "https://www.youtube.com/watch?v=Rfbh9_lIeds",
+            "duration": 1845.0,
+            "view_count": 74924,
+            "uploader": "Super Bheem",
+            "category": "cartoons/super_bheem",
+            "thumbnail": "https://i.ytimg.com/vi/Rfbh9_lIeds/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKjSwmwuTJ9fbdHLJ3ZM0UieT9mQ"
         }
     ]
 }

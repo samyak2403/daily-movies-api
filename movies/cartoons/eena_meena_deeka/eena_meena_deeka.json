@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-03-12T21:16:07.241837Z",
+    "last_updated": "2026-03-12T21:57:22.259099Z",
     "show_name": "Eena Meena Deeka",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Eena Meena Deeka.",
-    "total_episodes": 23,
+    "total_episodes": 24,
     "episodes": [
         {
             "id": "cXh1zpCILgI",
             "title": "Yes Sensei!🥋 | Eena Meena Deeka | Full Episodes | Cartoons For Kids",
             "url": "https://www.youtube.com/watch?v=cXh1zpCILgI",
             "duration": 3393.0,
-            "view_count": 12385,
+            "view_count": 12386,
             "uploader": "Eena Meena Deeka",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/cXh1zpCILgI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlD7RjA8Yuysi8XRCltbmtyNBKkA"
@@ -111,7 +111,7 @@
             "title": "Bollywood Dangal - Office Dhamaal | To The West - Eena Meena Deeka",
             "url": "https://www.youtube.com/watch?v=O82i8Vh2ja8",
             "duration": 939.0,
-            "view_count": 752512,
+            "view_count": 752530,
             "uploader": "WowKidz",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/O82i8Vh2ja8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7cQME6Qpz4TnX_ea3t5opQa-RDw"
@@ -131,7 +131,7 @@
             "title": "Bollywood Dangal - Happy Diwali | Cake Bhai Cake - Eena Meena Deeka",
             "url": "https://www.youtube.com/watch?v=GjFwXDSGHCY",
             "duration": 921.0,
-            "view_count": 1987331,
+            "view_count": 1987352,
             "uploader": "WowKidz",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/GjFwXDSGHCY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWFdCTNCIcbHd4yNZTQWMXJYzaPw"
@@ -161,7 +161,7 @@
             "title": "Eena Meena Deeka In Hindi | Funny Animated Series | Compilation 03 | Wow Kidz",
             "url": "https://www.youtube.com/watch?v=uo3Xwt0W8kA",
             "duration": 845.0,
-            "view_count": 3423475,
+            "view_count": 3423482,
             "uploader": "WowKidz",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/uo3Xwt0W8kA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASwYyX8_aXu-W5LtXjoXGO4rOSmA"
@@ -191,7 +191,7 @@
             "title": "Bollywood Dangal - The Game Show | American Football - Eena Meena Deeka",
             "url": "https://www.youtube.com/watch?v=qDfqS21W744",
             "duration": 936.0,
-            "view_count": 429435,
+            "view_count": 429535,
             "uploader": "WowKidz",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/qDfqS21W744/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWetLtaJwzUuP6E5VVu3PyGjCLQQ"
@@ -235,6 +235,16 @@
             "uploader": "WowKidz",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/YgWAmZx4WhQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ5JYOmk6O0ae9oPzfU_CYeeHB6g"
+        },
+        {
+            "id": "EBMJpckOcIg",
+            "title": "Eena Meena Deeka 8 episodes in 1 hour | 3D Animation for kids | #5",
+            "url": "https://www.youtube.com/watch?v=EBMJpckOcIg",
+            "duration": 3843.0,
+            "view_count": 47710038,
+            "uploader": "WowKidz",
+            "category": "cartoons/eena_meena_deeka",
+            "thumbnail": "https://i.ytimg.com/vi/EBMJpckOcIg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSj0mzDWeeXXYhviwFRNxo8ZyJ5w"
         }
     ]
 }
