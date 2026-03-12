@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-12T23:25:31.577074Z",
+    "last_updated": "2026-03-12T23:56:11.838040Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 6,
+    "total_episodes": 7,
     "episodes": [
         {
             "id": "1sARdYKPDL0",
@@ -65,6 +65,16 @@
             "uploader": "WildBrain Action Arena",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/2LqmMWnEHJA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHPciUbLjF4QSJ5_r3ibvQOM9NNg"
+        },
+        {
+            "id": "JrlonPwUO2k",
+            "title": "การ์ตูน ไทย Tik Tak Tail - การ์ตูน ไทย เสือซน ตอนที่ 39 (Best Episode)| หนังการ์ตูน ตลก",
+            "url": "https://www.youtube.com/watch?v=JrlonPwUO2k",
+            "duration": 2552.0,
+            "view_count": 4605,
+            "uploader": "Kids Thailand",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/JrlonPwUO2k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWNegIoJVLdYkatZLJW41zI7_e8A"
         }
     ]
 }
