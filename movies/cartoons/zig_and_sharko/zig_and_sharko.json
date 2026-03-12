@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-03-12T22:57:58.353576Z",
+    "last_updated": "2026-03-12T23:25:31.593260Z",
     "show_name": "Zig And Sharko",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Zig And Sharko.",
-    "total_episodes": 18,
+    "total_episodes": 19,
     "episodes": [
         {
             "id": "uwYq-0VUaN8",
             "title": "हिंदी Zig & Sharko 😱 बाढ़ ! 😱 Hindi Cartoons for Kids",
             "url": "https://www.youtube.com/watch?v=uwYq-0VUaN8",
             "duration": 1682.0,
-            "view_count": 6529728,
+            "view_count": 6529798,
             "uploader": "Zig & Sharko Hindi - हिन्दी",
             "category": "cartoons/zig_and_sharko",
             "thumbnail": "https://i.ytimg.com/vi/uwYq-0VUaN8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2SZadRpRjZ1CO0wgyYuXegDGuWA"
@@ -121,7 +121,7 @@
             "title": "Zig and sharko episode in hindi. cartoons for kid.",
             "url": "https://www.youtube.com/watch?v=59vk5JxyfGI",
             "duration": 826.0,
-            "view_count": 313879,
+            "view_count": 313888,
             "uploader": "KTV CARTOON",
             "category": "cartoons/zig_and_sharko",
             "thumbnail": "https://i.ytimg.com/vi/59vk5JxyfGI/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQ_ep_SBrz1eQsxxuYCjwMQV0BEw"
@@ -185,6 +185,16 @@
             "uploader": "Jumpy Bumpy",
             "category": "cartoons/zig_and_sharko",
             "thumbnail": "https://i.ytimg.com/vi/Sz-Rps9m3Ns/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAdQCj8IP_qzRohucO9J5ioppMjg"
+        },
+        {
+            "id": "H-XnmOt_Az0",
+            "title": "ZIG AND SHARKO | Marina Turbo Delivery  (2 Hours Compilation) New episodes | Cartoon for kids",
+            "url": "https://www.youtube.com/watch?v=H-XnmOt_Az0",
+            "duration": 7619.0,
+            "view_count": 2965196,
+            "uploader": "Zig & Sharko TV - Cartoon for kids",
+            "category": "cartoons/zig_and_sharko",
+            "thumbnail": "https://i.ytimg.com/vi/H-XnmOt_Az0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6IIcXT_B_P6E_UvZeQFFkej4Kbg"
         }
     ]
 }

@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-12T22:57:58.330347Z",
+    "last_updated": "2026-03-12T23:25:31.597979Z",
     "show_name": "Bapu",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Bapu.",
-    "total_episodes": 18,
+    "total_episodes": 19,
     "episodes": [
         {
             "id": "tvT3j09ZBR0",
@@ -131,7 +131,7 @@
             "title": "Baap Re Baap! Saanp - Bandbudh Aur Budbak New Episode - Funny Hindi Cartoon For Kids",
             "url": "https://www.youtube.com/watch?v=07KuETMXNcY",
             "duration": 626.0,
-            "view_count": 32797200,
+            "view_count": 32797237,
             "uploader": "KidZ",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/07KuETMXNcY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEkNdwKxEfgPEqadaOVRa4xdAcOg"
@@ -185,6 +185,16 @@
             "uploader": "Sony YAY!",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/5O5GvAuiIZg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpVQ7cx8p-Kob20GyX1WgO6bWBJQ"
+        },
+        {
+            "id": "4zv_rXmoDmE",
+            "title": "Motu Patlu aur Bapu Ki Seekh ��️  Gandhi Jayanti Special | Motu-Patlu",
+            "url": "https://www.youtube.com/watch?v=4zv_rXmoDmE",
+            "duration": 6556.0,
+            "view_count": 2273090,
+            "uploader": "Sonic Gang Motu Patlu ",
+            "category": "cartoons/bapu",
+            "thumbnail": "https://i.ytimg.com/vi/4zv_rXmoDmE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFddBXOSqrDzLB69Y1idXy-XdLfQ"
         }
     ]
 }

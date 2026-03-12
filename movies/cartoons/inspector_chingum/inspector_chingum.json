@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-03-12T22:57:58.349958Z",
+    "last_updated": "2026-03-12T23:25:31.586610Z",
     "show_name": "Inspector Chingum",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Inspector Chingum.",
-    "total_episodes": 27,
+    "total_episodes": 28,
     "episodes": [
         {
             "id": "vJCiPz922ug",
             "title": "Animated Series   Inspector Chingum  kids zone Hindi Cartoons For Kids 2022/23",
             "url": "https://www.youtube.com/watch?v=vJCiPz922ug",
             "duration": 1233.0,
-            "view_count": 207684,
+            "view_count": 207717,
             "uploader": "CARTOON ZONE",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/vJCiPz922ug/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuJ7Glo-Pr6pe0k3X3ZnGWa5FW0g"
@@ -71,7 +71,7 @@
             "title": "Motu Patlu | हिंदी कार्टून | Motu Patlu in Hindi | 2019 | Chingum Hi Chingum",
             "url": "https://www.youtube.com/watch?v=qH672kB7rdM",
             "duration": 676.0,
-            "view_count": 31063433,
+            "view_count": 31063452,
             "uploader": "Motu Patlu",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/qH672kB7rdM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAK40mpKUaL1PDijjc7sukeZ11TvQ"
@@ -211,7 +211,7 @@
             "title": "Allien Story | Inspector Chingum | 3D Comedy Cartoon In Hindi | Wow Comedy",
             "url": "https://www.youtube.com/watch?v=7g6nJMm_ylc",
             "duration": 1129.0,
-            "view_count": 8385,
+            "view_count": 8395,
             "uploader": "Wow Kidz Comedy",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/7g6nJMm_ylc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkMZzhYwFxbnLiTCB3ttZjSYfyxQ"
@@ -275,6 +275,16 @@
             "uploader": "WowKidz",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/2uyFX46vQaE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJsir1l9iy5fUKgiCC_pb13nqxlg"
+        },
+        {
+            "id": "ttmI9p9go7M",
+            "title": "Motu Patlu | हिंदी कार्टून | Motu Patlu in Hindi | 2019 | Inspector Patlu",
+            "url": "https://www.youtube.com/watch?v=ttmI9p9go7M",
+            "duration": 691.0,
+            "view_count": 11449722,
+            "uploader": "Motu Patlu",
+            "category": "cartoons/inspector_chingum",
+            "thumbnail": "https://i.ytimg.com/vi/ttmI9p9go7M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWmAdRPnUJn20AYKDZYSKeTw69QQ"
         }
     ]
 }
