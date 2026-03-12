@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-03-12T20:49:03.655485Z",
+    "last_updated": "2026-03-12T21:16:07.246322Z",
     "show_name": "Fukrey Boyzzz",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Fukrey Boyzzz.",
-    "total_episodes": 18,
+    "total_episodes": 19,
     "episodes": [
         {
             "id": "pJlEiDwclX0",
             "title": "Fukrey Boyzzz 🤩| Choocha Ke Sapnon Ka Paradise! | Compilation | @DiscoveryKidsIN",
             "url": "https://www.youtube.com/watch?v=pJlEiDwclX0",
             "duration": 1568.0,
-            "view_count": 2689529,
+            "view_count": 2689549,
             "uploader": "Discovery Kids In",
             "category": "cartoons/fukrey_boyzzz",
             "thumbnail": "https://i.ytimg.com/vi/pJlEiDwclX0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTd33bylH7IYiOz39oRWUv0IhZug"
@@ -185,6 +185,16 @@
             "uploader": "Discovery Kids In",
             "category": "cartoons/fukrey_boyzzz",
             "thumbnail": "https://i.ytimg.com/vi/kwUe6pe63Ik/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbjQ9tsdZK5N5otzLD_X3mThRikw"
+        },
+        {
+            "id": "-FJujS83T-g",
+            "title": "Fukrey Boyzzz 🤩| Sapno Ki Udaan! | Cartoon for Kids 🤩| Fukron Ki Fukrapanti | @DiscoveryKidsIN",
+            "url": "https://www.youtube.com/watch?v=-FJujS83T-g",
+            "duration": 1491.0,
+            "view_count": 270123,
+            "uploader": "Discovery Kids In",
+            "category": "cartoons/fukrey_boyzzz",
+            "thumbnail": "https://i.ytimg.com/vi/-FJujS83T-g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZGF2p13bpBvneUx5CgJ0Vo579_g"
         }
     ]
 }

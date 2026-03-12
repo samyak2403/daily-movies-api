@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-12T20:49:03.666609Z",
+    "last_updated": "2026-03-12T21:16:07.241837Z",
     "show_name": "Eena Meena Deeka",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Eena Meena Deeka.",
-    "total_episodes": 22,
+    "total_episodes": 23,
     "episodes": [
         {
             "id": "cXh1zpCILgI",
@@ -51,7 +51,7 @@
             "title": "Bollywood Dangal - Geela Geela Pani | Mummy O Mummy - Eena Meena Deeka",
             "url": "https://www.youtube.com/watch?v=JXrBJoMCOKQ",
             "duration": 909.0,
-            "view_count": 1392819,
+            "view_count": 1392831,
             "uploader": "WowKidz",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/JXrBJoMCOKQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmIAI8bzv_a-vqHSDyev7dP216Zw"
@@ -141,7 +141,7 @@
             "title": "Eena Meena Deeka 8 episodes in 1 hour | 3D Animation for kids | #2",
             "url": "https://www.youtube.com/watch?v=hgC-5jIPHi4",
             "duration": 3452.0,
-            "view_count": 67342326,
+            "view_count": 67342336,
             "uploader": "WowKidz",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/hgC-5jIPHi4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOjGpy0Gp4Oa8DOkp7ClLLsgYlUQ"
@@ -225,6 +225,16 @@
             "uploader": "WowKidz",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/mFzsV9_yPCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpjDjYffDg8-9CaBUMJy8fSuuatA"
+        },
+        {
+            "id": "YgWAmZx4WhQ",
+            "title": "Bollywood Dangal - Dhobi Ghat | Merry Christmas | In the Park - Eena Meena Deeka",
+            "url": "https://www.youtube.com/watch?v=YgWAmZx4WhQ",
+            "duration": 1324.0,
+            "view_count": 1007031,
+            "uploader": "WowKidz",
+            "category": "cartoons/eena_meena_deeka",
+            "thumbnail": "https://i.ytimg.com/vi/YgWAmZx4WhQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ5JYOmk6O0ae9oPzfU_CYeeHB6g"
         }
     ]
 }
