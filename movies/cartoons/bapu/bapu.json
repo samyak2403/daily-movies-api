@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-12T18:22:26.906505Z",
+    "last_updated": "2026-03-12T18:48:47.693517Z",
     "show_name": "Bapu",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Bapu.",
-    "total_episodes": 13,
+    "total_episodes": 14,
     "episodes": [
         {
             "id": "tvT3j09ZBR0",
@@ -101,7 +101,7 @@
             "title": "Peppa Pig in Hindi - Shopping - हिंदी Kahaniya - Hindi Cartoons for Kids",
             "url": "https://www.youtube.com/watch?v=1R_Wg95QotE",
             "duration": 3801.0,
-            "view_count": 25394456,
+            "view_count": 25395090,
             "uploader": "पेप्पा पिग हिंदी - आधिकारिक चैनल",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/1R_Wg95QotE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbVOWU_gGvgDdsQgj7QOGlYVYoig"
@@ -131,10 +131,20 @@
             "title": "Baap Re Baap! Saanp - Bandbudh Aur Budbak New Episode - Funny Hindi Cartoon For Kids",
             "url": "https://www.youtube.com/watch?v=07KuETMXNcY",
             "duration": 626.0,
-            "view_count": 32794269,
+            "view_count": 32795058,
             "uploader": "KidZ",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/07KuETMXNcY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEkNdwKxEfgPEqadaOVRa4xdAcOg"
+        },
+        {
+            "id": "HYEOILg14M0",
+            "title": "Churan Ka Chakkar - Bandbudh Aur Budbak New Episode - Funny Hindi Cartoon For Kids",
+            "url": "https://www.youtube.com/watch?v=HYEOILg14M0",
+            "duration": 635.0,
+            "view_count": 20603696,
+            "uploader": "KidZ",
+            "category": "cartoons/bapu",
+            "thumbnail": "https://i.ytimg.com/vi/HYEOILg14M0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiEzicJfiSUPiNPwnvE3ViIIx32w"
         }
     ]
 }
