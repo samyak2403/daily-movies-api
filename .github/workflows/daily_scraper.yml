@@ -36,8 +36,8 @@ jobs:
       - name: Commit and Push changes
         run: |
           # Set up git config for the bot
-          git config --global user.name 'Samyak Kamble'
-          git config --global user.email 'samyakkamble6659@gmail.com'
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
           # Stage all movie JSON files (category folders + combined)
           git add movies/
