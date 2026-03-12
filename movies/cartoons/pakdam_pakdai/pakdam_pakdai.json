@@ -1,0 +1,30 @@
+{
+    "last_updated": "2026-03-12T18:22:26.904174Z",
+    "show_name": "Pakdam Pakdai",
+    "language": "Hindi",
+    "category": "cartoons",
+    "description": "Auto-generated category for Pakdam Pakdai.",
+    "total_episodes": 2,
+    "episodes": [
+        {
+            "id": "Lr9guLa0Ego",
+            "title": "Doggy Don आया Chinese Restaurant | Pakdam Pakdai",
+            "url": "https://www.youtube.com/watch?v=Lr9guLa0Ego",
+            "duration": 1450.0,
+            "view_count": 114694,
+            "uploader": "Pakdam Pakdai",
+            "category": "cartoons/pakdam_pakdai",
+            "thumbnail": "https://i.ytimg.com/vi/Lr9guLa0Ego/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXANP62YuG9PtFnnZS88qWneGxRw"
+        },
+        {
+            "id": "5AdCNNxdVyc",
+            "title": "Raja Doggy Don ने बनाया चूहों का भरता 😱🐭 | Pakdam Pakdai",
+            "url": "https://www.youtube.com/watch?v=5AdCNNxdVyc",
+            "duration": 1251.0,
+            "view_count": 227952,
+            "uploader": "Pakdam Pakdai",
+            "category": "cartoons/pakdam_pakdai",
+            "thumbnail": "https://i.ytimg.com/vi/5AdCNNxdVyc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKX6tnIq6mq8q5kTWsSV1taDcEWA"
+        }
+    ]
+}
