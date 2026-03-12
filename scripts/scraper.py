@@ -30,6 +30,31 @@ CARTOON_CATEGORIES = {
     "cartoons/doraemon": "doraemon hindi full episodes",
     "cartoons/ninja_hattori": "ninja hattori hindi full episodes",
     "cartoons/chacha_bhatija": "chacha bhatija hindi full episodes",
+    "cartoons/shinchan": "shinchan hindi full episodes",
+    "cartoons/pokemon": "pokemon hindi full episodes",
+    "cartoons/roll_no_21": "roll no 21 hindi full episodes",
+    "cartoons/little_singham": "little singham hindi full episodes",
+    "cartoons/shiva": "shiva cartoon hindi full episodes",
+    "cartoons/rudra": "rudra boom chik chik boom hindi full episodes",
+    "cartoons/vir_the_robot_boy": "vir the robot boy hindi full episodes",
+    "cartoons/pakdam_pakdai": "pakdam pakdai hindi full episodes",
+    "cartoons/mighty_raju": "mighty raju hindi full episodes",
+    "cartoons/honey_bunny_ka_jholmaal": "honey bunny ka jholmaal hindi full episodes",
+    "cartoons/guru_aur_bhole": "guru aur bhole hindi full episodes",
+    "cartoons/eena_meena_deeka": "eena meena deeka hindi full episodes",
+    "cartoons/inspector_chingum": "inspector chingum hindi full episodes",
+    "cartoons/fukrey_boyzzz": "fukrey boyzzz hindi full episodes",
+    "cartoons/golmaal_jr": "golmaal jr hindi full episodes",
+    "cartoons/masha_and_the_bear": "masha and the bear hindi full episodes",
+    "cartoons/peppa_pig": "peppa pig hindi full episodes",
+    "cartoons/tom_and_jerry": "tom and jerry hindi full episodes",
+    "cartoons/ben_10": "ben 10 hindi full episodes",
+    "cartoons/mr_bean": "mr bean cartoon hindi full episodes",
+    "cartoons/zig_and_sharko": "zig and sharko hindi full episodes",
+    "cartoons/bapu": "bapu cartoon hindi full episodes",
+    "cartoons/tik_tak_tail": "tik tak tail hindi full episodes",
+    "cartoons/keymon_ache": "keymon ache hindi full episodes",
+    "cartoons/super_bheem": "super bheem hindi full episodes"
 }
 
 # Merge all categories
@@ -88,18 +113,9 @@ def scrape_movies():
                         # Filter out shorts or very short videos
                         duration = video.get('duration', 0)
                         # Cartoons and comedy shows can be shorter, so use a lower threshold
-                        short_categories = [
-                            "cartoons", "comedy", "taarak_mehta", "yam_hain_hum",
-                            "cartoons/oggy_and_the_cockroaches",
-                            "cartoons/bandbudh_aur_budbak",
-                            "cartoons/chhota_bheem",
-                            "cartoons/motu_patlu",
-                            "cartoons/gattu_battu",
-                            "cartoons/doraemon",
-                            "cartoons/ninja_hattori",
-                            "cartoons/chacha_bhatija",
-                        ]
-                        min_duration = 600 if category in short_categories else 2400
+                        short_categories = ["cartoons", "comedy", "taarak_mehta", "yam_hain_hum"]
+                        is_short = category in short_categories or category.startswith("cartoons/")
+                        min_duration = 600 if is_short else 2400
                         if duration and duration < min_duration:
                             continue
 
