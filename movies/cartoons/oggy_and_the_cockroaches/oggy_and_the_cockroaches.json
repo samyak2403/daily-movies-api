@@ -1,9 +1,146 @@
 {
-    "last_updated": "2026-03-12T20:19:00.000000Z",
-    "show_name": "Oggy and the Cockroaches",
-    "language": "Hindi",
-    "category": "cartoons",
-    "description": "Oggy and the Cockroaches is a French animated comedy series. The show centers on Oggy, a fat blue cat who lives a comfortable, lazy life. His existence is disrupted by three cockroaches: Joey, Dee Dee, and Marky.",
-    "total_episodes": 0,
-    "episodes": []
+    "last_updated": "2026-03-12T15:13:16.667989Z",
+    "total_movies": 14,
+    "movies": [
+        {
+            "id": "TuqJMvRCWUM",
+            "title": "जूँ! Oggy and the Cockroaches हिंदी  Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=TuqJMvRCWUM",
+            "duration": 1921.0,
+            "view_count": 333003,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/oggy_and_the_cockroaches",
+            "thumbnail": "https://i.ytimg.com/vi/TuqJMvRCWUM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxdaN7qO4JK3THUQN-w5GtntZutg"
+        },
+        {
+            "id": "63O7X1BrH7E",
+            "title": "हिंदी Oggy and the Cockroaches 😆🧀 GRATED COCKROACHES 🧀😆 Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=63O7X1BrH7E",
+            "duration": 1547.0,
+            "view_count": 63359250,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/oggy_and_the_cockroaches",
+            "thumbnail": "https://i.ytimg.com/vi/63O7X1BrH7E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB15GMsrZUUObGan219xPJr5F_nVw"
+        },
+        {
+            "id": "25anZmYgYPE",
+            "title": "हिंदी Oggy and the Cockroaches 👑 किंग जैक Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=25anZmYgYPE",
+            "duration": 3175.0,
+            "view_count": 14218285,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/oggy_and_the_cockroaches",
+            "thumbnail": "https://i.ytimg.com/vi/25anZmYgYPE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOMlcA0bRmoYWmJ9kqEW5cKak1aQ"
+        },
+        {
+            "id": "LSQsNeH2WLc",
+            "title": "हिंदी Oggy and the Cockroaches 💤😪 SLEEPING MOOD 💤😪 Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=LSQsNeH2WLc",
+            "duration": 1589.0,
+            "view_count": 84496466,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/oggy_and_the_cockroaches",
+            "thumbnail": "https://i.ytimg.com/vi/LSQsNeH2WLc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1yIGKDLma2qML7i-P6oI2euBmPA"
+        },
+        {
+            "id": "0Y1ktn2hujM",
+            "title": "हिंदी Oggy and the Cockroaches 🖍️✨जादुई पेंसिल  Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=0Y1ktn2hujM",
+            "duration": 3185.0,
+            "view_count": 6320611,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/oggy_and_the_cockroaches",
+            "thumbnail": "https://i.ytimg.com/vi/0Y1ktn2hujM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVOsDLSCeqZQ9rgqyCuQDrrSwysQ"
+        },
+        {
+            "id": "byjBoTBpduU",
+            "title": "हिंदी Oggy and the Cockroaches पनडुब्बी में दहशत Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=byjBoTBpduU",
+            "duration": 1964.0,
+            "view_count": 557651,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/oggy_and_the_cockroaches",
+            "thumbnail": "https://i.ytimg.com/vi/byjBoTBpduU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJAvVkuA-dvQ__NQ9vdsL2O0prXQ"
+        },
+        {
+            "id": "_Fh-wVwAgY0",
+            "title": "चोरी Oggy and the Cockroaches हिंदी Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=_Fh-wVwAgY0",
+            "duration": 3493.0,
+            "view_count": 390930,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/oggy_and_the_cockroaches",
+            "thumbnail": "https://i.ytimg.com/vi/_Fh-wVwAgY0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWvj_BS8Flcqr_NJ9PUCSAkUqvIA"
+        },
+        {
+            "id": "7txdXCnInVk",
+            "title": "हिंदी Oggy and the Cockroaches 😱 अनुसंधान Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=7txdXCnInVk",
+            "duration": 3187.0,
+            "view_count": 7222715,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/oggy_and_the_cockroaches",
+            "thumbnail": "https://i.ytimg.com/vi/7txdXCnInVk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhZVFYXI4D_KZUKUFudWqXO1HIiA"
+        },
+        {
+            "id": "oxELb66SWBk",
+            "title": "हिंदी Oggy and the Cockroaches गुप्त परियोजना Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=oxELb66SWBk",
+            "duration": 3595.0,
+            "view_count": 1156624,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/oggy_and_the_cockroaches",
+            "thumbnail": "https://i.ytimg.com/vi/oxELb66SWBk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCitsa3g25oFlCqwntI1DlLLh0b0g"
+        },
+        {
+            "id": "04IG_2KeJNU",
+            "title": "कुश्ती का मुकाबला Oggy and the Cockroaches हिंदी  Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=04IG_2KeJNU",
+            "duration": 1999.0,
+            "view_count": 596164,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/oggy_and_the_cockroaches",
+            "thumbnail": "https://i.ytimg.com/vi/04IG_2KeJNU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaol8Mtq90kiE_k95qxrkFd9K71w"
+        },
+        {
+            "id": "Bdb8BPjABtM",
+            "title": "एक नया दोस्त Oggy and the Cockroaches हिंदी  Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=Bdb8BPjABtM",
+            "duration": 3566.0,
+            "view_count": 508343,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/oggy_and_the_cockroaches",
+            "thumbnail": "https://i.ytimg.com/vi/Bdb8BPjABtM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAD3lxduob8a6vnCh-gb_Zojgjs4A"
+        },
+        {
+            "id": "imhlM6FHB6o",
+            "title": "ओग्गी की नई नौकरी Oggy and the Cockroaches हिंदी Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=imhlM6FHB6o",
+            "duration": 3601.0,
+            "view_count": 163278,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/oggy_and_the_cockroaches",
+            "thumbnail": "https://i.ytimg.com/vi/imhlM6FHB6o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFRqI8motoFeZOFUidtems3ax9Sw"
+        },
+        {
+            "id": "vUXLUG7_ZmU",
+            "title": "योजना Oggy and the Cockroaches हिंदी Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=vUXLUG7_ZmU",
+            "duration": 3563.0,
+            "view_count": 719227,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/oggy_and_the_cockroaches",
+            "thumbnail": "https://i.ytimg.com/vi/vUXLUG7_ZmU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDf6wA86TwxFFFt0hZeXjMzyx-n8A"
+        },
+        {
+            "id": "54wrQ5GYC_w",
+            "title": "क्रिसमस पर आपदा Oggy and the Cockroaches हिंदी Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=54wrQ5GYC_w",
+            "duration": 2011.0,
+            "view_count": 301424,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/oggy_and_the_cockroaches",
+            "thumbnail": "https://i.ytimg.com/vi/54wrQ5GYC_w/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzTk4VPnOetqxLm-fJkVjp3IPDfw"
+        }
+    ]
 }

@@ -1,9 +1,156 @@
 {
-    "last_updated": "2026-03-12T20:19:00.000000Z",
-    "show_name": "Gattu Battu",
-    "language": "Hindi",
-    "category": "cartoons",
-    "description": "Gattu Battu is an Indian animated comedy television series. The show follows the adventures of two friends Gattu and Battu who solve mysteries and fight crime in their town.",
-    "total_episodes": 0,
-    "episodes": []
+    "last_updated": "2026-03-12T15:13:16.669455Z",
+    "total_movies": 15,
+    "movies": [
+        {
+            "id": "0dXItEHSgwI",
+            "title": "Gattu Battu | Full Episode | चोर Bekarilal की चालाकी 🏃‍♂️💨 Gattu-Battu फंसे!",
+            "url": "https://www.youtube.com/watch?v=0dXItEHSgwI",
+            "duration": 1278.0,
+            "view_count": 306565,
+            "uploader": "Sonic Gang",
+            "category": "cartoons/gattu_battu",
+            "thumbnail": "https://i.ytimg.com/vi/0dXItEHSgwI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAS5Xb0a57cKarciMIg7IBTfsuV_Q"
+        },
+        {
+            "id": "IaHPZ2V8D7M",
+            "title": "Gattu Battu | Full Episode | छोटी सी चिंगारी को बड़ी सी आग बनाना इन न्यूज़ वालों को बखूबी आता है! 🔥📢",
+            "url": "https://www.youtube.com/watch?v=IaHPZ2V8D7M",
+            "duration": 1169.0,
+            "view_count": 101740,
+            "uploader": "Sonic Gang",
+            "category": "cartoons/gattu_battu",
+            "thumbnail": "https://i.ytimg.com/vi/IaHPZ2V8D7M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQqerD5HrB0P5fngSj2BwicXfmQg"
+        },
+        {
+            "id": "J4Z27usKIA0",
+            "title": "Gattu Battu | Full Episode | Invisibility Powder",
+            "url": "https://www.youtube.com/watch?v=J4Z27usKIA0",
+            "duration": 1222.0,
+            "view_count": 1760139,
+            "uploader": "Sonic Gang",
+            "category": "cartoons/gattu_battu",
+            "thumbnail": "https://i.ytimg.com/vi/J4Z27usKIA0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWhspXvalWW3F2jFi9TWw2oH--uA"
+        },
+        {
+            "id": "diUEZ6ztJ8I",
+            "title": "Gattu Battu | Full Episode | हाय रे! मैं तो लुट गयो बर्बाद हो गयो! 😭💔",
+            "url": "https://www.youtube.com/watch?v=diUEZ6ztJ8I",
+            "duration": 1289.0,
+            "view_count": 747905,
+            "uploader": "Sonic Gang",
+            "category": "cartoons/gattu_battu",
+            "thumbnail": "https://i.ytimg.com/vi/diUEZ6ztJ8I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDs9bxPL1epBFB7NP9lZMiHx7KhdA"
+        },
+        {
+            "id": "r3pShF8qV-0",
+            "title": "Gattu Battu | Full Episode | Bhoot Train का राज! Gattu Battu की जासूसी",
+            "url": "https://www.youtube.com/watch?v=r3pShF8qV-0",
+            "duration": 1176.0,
+            "view_count": 1267585,
+            "uploader": "Sonic Gang",
+            "category": "cartoons/gattu_battu",
+            "thumbnail": "https://i.ytimg.com/vi/r3pShF8qV-0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGtZIwFO3ieft41EIQVxgrBBD0FQ"
+        },
+        {
+            "id": "9CXoyCFXQDU",
+            "title": "जब Gattu Battu भिड़े Desh Ke Dushmano Se | Gattu Battu - Secret of the Computer Chip",
+            "url": "https://www.youtube.com/watch?v=9CXoyCFXQDU",
+            "duration": 5374.0,
+            "view_count": 712890,
+            "uploader": "Sonic Gang Hindi Movies",
+            "category": "cartoons/gattu_battu",
+            "thumbnail": "https://i.ytimg.com/vi/9CXoyCFXQDU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCPYtW9qfNFQEMD1L9p-qcQ4nUWA"
+        },
+        {
+            "id": "Iys5McEdkiQ",
+            "title": "Gattu Battu Cartoon New Episode 2024 In Hindi | Chhota Alien | Legend Kidz TV Hindi",
+            "url": "https://www.youtube.com/watch?v=Iys5McEdkiQ",
+            "duration": 1263.0,
+            "view_count": 178009,
+            "uploader": "Legend Kidz TV Hindi",
+            "category": "cartoons/gattu_battu",
+            "thumbnail": "https://i.ytimg.com/vi/Iys5McEdkiQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvQKpsKfCjBuvZNW79Wn2zU3FKNQ"
+        },
+        {
+            "id": "kScXhy1LkNE",
+            "title": "Gattu Battu | Full Episode | Gattu Battu Vs Kung Fu चोर! 🔥 कौन जीतेगा? 🥋🤔",
+            "url": "https://www.youtube.com/watch?v=kScXhy1LkNE",
+            "duration": 1190.0,
+            "view_count": 400782,
+            "uploader": "Sonic Gang",
+            "category": "cartoons/gattu_battu",
+            "thumbnail": "https://i.ytimg.com/vi/kScXhy1LkNE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCw_bjNMs8GpvuJW3fiOBUXpNtt_g"
+        },
+        {
+            "id": "ePiFzB7J5bI",
+            "title": "Past में अटके Gattu Battu के यार | Gattu Battu - The Time Machine | Full Movie",
+            "url": "https://www.youtube.com/watch?v=ePiFzB7J5bI",
+            "duration": 2589.0,
+            "view_count": 476327,
+            "uploader": "Sonic Gang Hindi Movies",
+            "category": "cartoons/gattu_battu",
+            "thumbnail": "https://i.ytimg.com/vi/ePiFzB7J5bI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCf503OuHATPlhKen1MdoOoiWuywQ"
+        },
+        {
+            "id": "zP_vccZLTiM",
+            "title": "Gattu Battu | Full Episode | Shaadi Mein Barbadi",
+            "url": "https://www.youtube.com/watch?v=zP_vccZLTiM",
+            "duration": 1210.0,
+            "view_count": 170213,
+            "uploader": "Sonic Gang",
+            "category": "cartoons/gattu_battu",
+            "thumbnail": "https://i.ytimg.com/vi/zP_vccZLTiM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDr0gwCuWZ-UPqlnh9cC-yAldgIIg"
+        },
+        {
+            "id": "xaovurhY59A",
+            "title": "Gattu battu New Cartoon | Adventure & Comedy",
+            "url": "https://www.youtube.com/watch?v=xaovurhY59A",
+            "duration": 1324.0,
+            "view_count": 542621,
+            "uploader": "TOON LAGAON",
+            "category": "cartoons/gattu_battu",
+            "thumbnail": "https://i.ytimg.com/vi/xaovurhY59A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDA5_fhVVzzbCrMsAuKFjBbqGE-ig"
+        },
+        {
+            "id": "QnkfN1uRvXI",
+            "title": "Double Trouble || Gattu Battu || Full Episode",
+            "url": "https://www.youtube.com/watch?v=QnkfN1uRvXI",
+            "duration": 1208.0,
+            "view_count": 53526,
+            "uploader": "ToonStationX",
+            "category": "cartoons/gattu_battu",
+            "thumbnail": "https://i.ytimg.com/vi/QnkfN1uRvXI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNuJ0fFoGlTvT1FcQVbupBCxruAQ"
+        },
+        {
+            "id": "tD_z6fAr4VM",
+            "title": "Gattu Battu Vs Cheeth Singh || Full Episode || Season 07 Episode 10 ||",
+            "url": "https://www.youtube.com/watch?v=tD_z6fAr4VM",
+            "duration": 1258.0,
+            "view_count": 4333,
+            "uploader": "ToonStationX",
+            "category": "cartoons/gattu_battu",
+            "thumbnail": "https://i.ytimg.com/vi/tD_z6fAr4VM/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmZrNMPGiaGmxXIcIpcj8ZkpDMrA"
+        },
+        {
+            "id": "cE0dvmNn85I",
+            "title": "Gattu Battu | Vishrampur Museum | New Episode 2026",
+            "url": "https://www.youtube.com/watch?v=cE0dvmNn85I",
+            "duration": 602.0,
+            "view_count": 5978,
+            "uploader": "Cartoon Worlds Craft",
+            "category": "cartoons/gattu_battu",
+            "thumbnail": "https://i.ytimg.com/vi/cE0dvmNn85I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPlmSxKd3tezpjebEb02Gkbsu9EA"
+        },
+        {
+            "id": "KLpL-NlAai8",
+            "title": "Battu का चेहरा कैसे हो गया Gattu जैसा? 🤔👀 | Gattu Battu | Full Episode 103",
+            "url": "https://www.youtube.com/watch?v=KLpL-NlAai8",
+            "duration": 1243.0,
+            "view_count": 327848,
+            "uploader": "JioHotstar Kids",
+            "category": "cartoons/gattu_battu",
+            "thumbnail": "https://i.ytimg.com/vi/KLpL-NlAai8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5y3wFc8iqK-J13nwBtHyOWMz-GA"
+        }
+    ]
 }
