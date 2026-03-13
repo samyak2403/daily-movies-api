@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-13T00:11:50.295547Z",
+    "last_updated": "2026-03-13T03:01:39.923189Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 8,
+    "total_episodes": 9,
     "episodes": [
         {
             "id": "1sARdYKPDL0",
@@ -41,7 +41,7 @@
             "title": "การ์ตูน ไทย Tik Tak Tail - การ์ตูน ไทย เสือซน ตอนที่ 37 (Best Episode)| หนังการ์ตูน ตลก",
             "url": "https://www.youtube.com/watch?v=lBoLspGsTCY",
             "duration": 2554.0,
-            "view_count": 4694,
+            "view_count": 4695,
             "uploader": "Kids Thailand",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/lBoLspGsTCY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbK8yhTY35UojZUtjn6G2PeS9SJw"
@@ -85,6 +85,16 @@
             "uploader": "WildBrain Zoo",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/kdJIheLE4ok/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWvr4t_InSmoq_XIxKFXUf4r7giQ"
+        },
+        {
+            "id": "AJuopvdYsQI",
+            "title": "Tik Tak Tail | Shooting Range | Funny Cartoon Compilation | Wildbrain Cartoons For Kids",
+            "url": "https://www.youtube.com/watch?v=AJuopvdYsQI",
+            "duration": 851.0,
+            "view_count": 917,
+            "uploader": "WildBrain Preschool",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/AJuopvdYsQI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_5HE3XmlZkLn1wg85-u0OrFyF-A"
         }
     ]
 }
