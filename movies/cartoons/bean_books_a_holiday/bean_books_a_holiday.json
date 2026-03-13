@@ -1,0 +1,21 @@
+{
+    "last_updated": "2026-03-13T21:45:45.690810Z",
+    "show_name": "Bean Books a Holiday",
+    "language": "Hindi",
+    "category": "cartoons",
+    "description": "Auto-generated category for Bean Books a Holiday.",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "id": "yBTZmd3hwwc",
+            "title": "Bean Books a Holiday! | Mr Bean Animated Full Episodes | Mr Bean World",
+            "url": "https://www.youtube.com/watch?v=yBTZmd3hwwc",
+            "duration": 2642.0,
+            "view_count": 2716943,
+            "uploader": "Mr Bean World",
+            "category": "cartoons/bean_books_a_holiday",
+            "thumbnail": "https://i.ytimg.com/vi/yBTZmd3hwwc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4bWXy2PbMyxHe_mEgEZDLeYG85Q",
+            "show_name": "Bean Books a Holiday"
+        }
+    ]
+}

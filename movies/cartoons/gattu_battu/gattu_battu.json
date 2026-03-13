@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-13T21:02:01.606259Z",
+    "last_updated": "2026-03-13T21:45:45.665730Z",
     "show_name": "Gattu Battu",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Gattu Battu.",
-    "total_episodes": 44,
+    "total_episodes": 45,
     "episodes": [
         {
             "id": "0dXItEHSgwI",
@@ -31,7 +31,7 @@
             "title": "Gattu Battu | Full Episode | Invisibility Powder",
             "url": "https://www.youtube.com/watch?v=J4Z27usKIA0",
             "duration": 1222.0,
-            "view_count": 1765329,
+            "view_count": 1765354,
             "uploader": "Sonic Gang",
             "category": "cartoons/gattu_battu",
             "thumbnail": "https://i.ytimg.com/vi/J4Z27usKIA0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWhspXvalWW3F2jFi9TWw2oH--uA"
@@ -111,7 +111,7 @@
             "title": "Gattu battu New Cartoon | Adventure & Comedy",
             "url": "https://www.youtube.com/watch?v=xaovurhY59A",
             "duration": 1324.0,
-            "view_count": 546203,
+            "view_count": 546208,
             "uploader": "TOON LAGAON",
             "category": "cartoons/gattu_battu",
             "thumbnail": "https://i.ytimg.com/vi/xaovurhY59A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDA5_fhVVzzbCrMsAuKFjBbqGE-ig"
@@ -411,7 +411,7 @@
             "title": "Gattu Battu | Full Episode | Sher Singh Ke Laser Gloves",
             "url": "https://www.youtube.com/watch?v=kBGzYGnseGw",
             "duration": 1265.0,
-            "view_count": 246598,
+            "view_count": 246685,
             "uploader": "Sonic Gang",
             "category": "cartoons/gattu_battu",
             "thumbnail": "https://i.ytimg.com/vi/kBGzYGnseGw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBv4h8xy4ylEuUGEF6d58IN9dhMFA"
@@ -421,7 +421,7 @@
             "title": "Gattu Battu | Full Episode 112 | सच ही कहा है! झुकती है दुनिया, झुकाने वाला चाहिए! 😏🌍",
             "url": "https://www.youtube.com/watch?v=GVHTwmpWJfY",
             "duration": 1216.0,
-            "view_count": 101910,
+            "view_count": 102062,
             "uploader": "JioHotstar Kids",
             "category": "cartoons/gattu_battu",
             "thumbnail": "https://i.ytimg.com/vi/GVHTwmpWJfY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBm3NJmC4zcHBkd6XPL9RTItVBvag"
@@ -445,6 +445,16 @@
             "uploader": "Sonic Gang",
             "category": "cartoons/gattu_battu",
             "thumbnail": "https://i.ytimg.com/vi/rRIsT6Ho37Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGeR8bMXjHBEZo7DCWYiUToT7lDQ"
+        },
+        {
+            "id": "LF3dw3COLEo",
+            "title": "Gattu Battu | Full Episode | 🚀Robot King की चालाकी! Gattu Battu Ready? 🤖",
+            "url": "https://www.youtube.com/watch?v=LF3dw3COLEo",
+            "duration": 1306.0,
+            "view_count": 251626,
+            "uploader": "Sonic Gang",
+            "category": "cartoons/gattu_battu",
+            "thumbnail": "https://i.ytimg.com/vi/LF3dw3COLEo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAgZtP12JdOS4vqKbIQ9t8oTyVpw"
         }
     ]
 }

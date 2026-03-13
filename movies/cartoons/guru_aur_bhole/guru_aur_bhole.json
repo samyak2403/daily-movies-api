@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-13T21:02:01.618663Z",
+    "last_updated": "2026-03-13T21:45:45.655333Z",
     "show_name": "Guru Aur Bhole",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Guru Aur Bhole.",
-    "total_episodes": 39,
+    "total_episodes": 41,
     "episodes": [
         {
             "id": "dIB77XZkiGo",
@@ -41,7 +41,7 @@
             "title": "अच्छा समय बुरा समय | Moral Stories for Children in Hindi | बच्चों की कहानियाँ | Cartoon for kids",
             "url": "https://www.youtube.com/watch?v=T7cP-DeuwmA",
             "duration": 1271.0,
-            "view_count": 1064273,
+            "view_count": 1064307,
             "uploader": "YAY! Time With Guru Bhole",
             "category": "cartoons/guru_aur_bhole",
             "thumbnail": "https://i.ytimg.com/vi/T7cP-DeuwmA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZxZvXQoqe9_o6oxmzJcuT9Bdj_g"
@@ -151,7 +151,7 @@
             "title": "Guru Aur Bhole In Magic Kingdom I Guru Bhole New Hindi Movie I Kids Galaxy",
             "url": "https://www.youtube.com/watch?v=8bX7b_Zi0Gg",
             "duration": 3973.0,
-            "view_count": 411164,
+            "view_count": 411219,
             "uploader": "Kids Galaxy",
             "category": "cartoons/guru_aur_bhole",
             "thumbnail": "https://i.ytimg.com/vi/8bX7b_Zi0Gg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeOL1EWkASMrFovzGrpZ4N4K1CIg"
@@ -191,7 +191,7 @@
             "title": "भोले ने बनाये बुलबुले I Moral Stories for Children in Hindi | बच्चों की कहानियाँ | Cartoon for kids",
             "url": "https://www.youtube.com/watch?v=xL2GQ0O7z0s",
             "duration": 682.0,
-            "view_count": 200751,
+            "view_count": 200758,
             "uploader": "YAY! Time With Guru Bhole",
             "category": "cartoons/guru_aur_bhole",
             "thumbnail": "https://i.ytimg.com/vi/xL2GQ0O7z0s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIrTqofUYZDj2J-RMtFbu09Inefg"
@@ -395,6 +395,26 @@
             "uploader": "YAY! Time With Guru Bhole",
             "category": "cartoons/guru_aur_bhole",
             "thumbnail": "https://i.ytimg.com/vi/cmNu6RVtdZg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCw7FMS5uaUxSjcm3e83R7ijHbKuQ"
+        },
+        {
+            "id": "PtZwfQHzYRM",
+            "title": "मानव सीढ़ी| Moral Stories for Children in Hindi | बच्चों की कहानियाँ | Cartoon for kids",
+            "url": "https://www.youtube.com/watch?v=PtZwfQHzYRM",
+            "duration": 697.0,
+            "view_count": 848283,
+            "uploader": "YAY! Time With Guru Bhole",
+            "category": "cartoons/guru_aur_bhole",
+            "thumbnail": "https://i.ytimg.com/vi/PtZwfQHzYRM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCW19fq3xInVxIL8c33-a6mxCVg1w"
+        },
+        {
+            "id": "pIniwQF7GaI",
+            "title": "साइक्लेथॉन का किस्सा | Guru Aur Bhole | Cartoon for Kids",
+            "url": "https://www.youtube.com/watch?v=pIniwQF7GaI",
+            "duration": 649.0,
+            "view_count": 91941,
+            "uploader": "YAY! Time With Guru Bhole",
+            "category": "cartoons/guru_aur_bhole",
+            "thumbnail": "https://i.ytimg.com/vi/pIniwQF7GaI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD92j5r8xJZIcbWUUUE5j1ziY5kgQ"
         }
     ]
 }
