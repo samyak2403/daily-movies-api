@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-13T19:50:07.851715Z",
+    "last_updated": "2026-03-13T20:12:12.811925Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 10,
+    "total_episodes": 11,
     "episodes": [
         {
             "id": "1sARdYKPDL0",
@@ -105,6 +105,16 @@
             "uploader": "Kids Thailand",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/SduMu9JXy88/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6Zg_IkW4OniikEG1J5xbm2-nrXQ"
+        },
+        {
+            "id": "zU4qyBk5g9o",
+            "title": "Tik Tak Tail | Invisible Menace | Cartoon Compilation | Funny Cartoons| WildBrain Kids",
+            "url": "https://www.youtube.com/watch?v=zU4qyBk5g9o",
+            "duration": 826.0,
+            "view_count": 1190,
+            "uploader": "WildBrain Action Arena",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/zU4qyBk5g9o/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHC7u15_znoThXBfbzRX4T8q5khg"
         }
     ]
 }
