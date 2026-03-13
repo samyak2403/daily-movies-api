@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-13T10:50:28.329371Z",
+    "last_updated": "2026-03-13T11:29:14.434201Z",
     "show_name": "Pakdam Pakdai",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pakdam Pakdai.",
-    "total_episodes": 6,
+    "total_episodes": 8,
     "episodes": [
         {
             "id": "Lr9guLa0Ego",
@@ -21,7 +21,7 @@
             "title": "Raja Doggy Don ने बनाया चूहों का भरता 😱🐭 | Pakdam Pakdai",
             "url": "https://www.youtube.com/watch?v=5AdCNNxdVyc",
             "duration": 1251.0,
-            "view_count": 229763,
+            "view_count": 229881,
             "uploader": "Pakdam Pakdai",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/5AdCNNxdVyc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKX6tnIq6mq8q5kTWsSV1taDcEWA"
@@ -31,7 +31,7 @@
             "title": "Pakdam Pakdai | Full Episode | वाह! इसे कहते हैं—जिस थाली में खाना, उसी में छेद करना! 🍽️😲🔪",
             "url": "https://www.youtube.com/watch?v=rcOThdhKYyM",
             "duration": 1065.0,
-            "view_count": 784642,
+            "view_count": 784681,
             "uploader": "Sonic Gang",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/rcOThdhKYyM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoqsQiPFJBpJAFpPNEI4yRgSzZ9A"
@@ -65,6 +65,26 @@
             "uploader": "Sonic Gang",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/wMRhi-F6Zdw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB763vOQBIWTOArkhSZUY-9KjFJCQ"
+        },
+        {
+            "id": "7hmV_b7Sqdc",
+            "title": "Pakdam Pakdai | Full Episode | Doggy Don बना Rajdhani, पूँछ में आग लगने पर 🚂🔥🐾",
+            "url": "https://www.youtube.com/watch?v=7hmV_b7Sqdc",
+            "duration": 891.0,
+            "view_count": 207064,
+            "uploader": "Sonic Gang",
+            "category": "cartoons/pakdam_pakdai",
+            "thumbnail": "https://i.ytimg.com/vi/7hmV_b7Sqdc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIE11Fs7sq6ARkxFDHS7ryx4wK_g"
+        },
+        {
+            "id": "_X1KTp2MBso",
+            "title": "Doggy Don और चूहे साथ मे रोए | Pakdam Pakdai",
+            "url": "https://www.youtube.com/watch?v=_X1KTp2MBso",
+            "duration": 1402.0,
+            "view_count": 96744,
+            "uploader": "Pakdam Pakdai",
+            "category": "cartoons/pakdam_pakdai",
+            "thumbnail": "https://i.ytimg.com/vi/_X1KTp2MBso/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGQnVYKc9EJ7jfbzblqNcXe8fl7A"
         }
     ]
 }
