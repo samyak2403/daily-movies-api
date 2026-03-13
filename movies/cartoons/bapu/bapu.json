@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-13T13:51:33.980875Z",
+    "last_updated": "2026-03-13T14:42:41.045852Z",
     "show_name": "Bapu",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Bapu.",
-    "total_episodes": 22,
+    "total_episodes": 23,
     "episodes": [
         {
             "id": "tvT3j09ZBR0",
@@ -101,7 +101,7 @@
             "title": "Peppa Pig in Hindi - Shopping - हिंदी Kahaniya - Hindi Cartoons for Kids",
             "url": "https://www.youtube.com/watch?v=1R_Wg95QotE",
             "duration": 3801.0,
-            "view_count": 25418002,
+            "view_count": 25419048,
             "uploader": "पेप्पा पिग हिंदी - आधिकारिक चैनल",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/1R_Wg95QotE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbVOWU_gGvgDdsQgj7QOGlYVYoig"
@@ -225,6 +225,16 @@
             "uploader": "Sony YAY!",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/nnnMwaE7aTg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoDOFlFzycrfaqajCecCBfpoBGQQ"
+        },
+        {
+            "id": "6ynUY_yw5wU",
+            "title": "principal Entry | Bapu catoon Ep - 9 | all' bast  cartoon |",
+            "url": "https://www.youtube.com/watch?v=6ynUY_yw5wU",
+            "duration": 704.0,
+            "view_count": 1294,
+            "uploader": "BAPU KIDS PLAY TV",
+            "category": "cartoons/bapu",
+            "thumbnail": "https://i.ytimg.com/vi/6ynUY_yw5wU/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVHOkZeN444eTPs4AwepLC7r5NDA"
         }
     ]
 }
