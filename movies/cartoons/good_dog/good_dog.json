@@ -1,0 +1,21 @@
+{
+    "last_updated": "2026-03-13T10:01:14.843102Z",
+    "show_name": "Good Dog",
+    "language": "Hindi",
+    "category": "cartoons",
+    "description": "Auto-generated category for Good Dog.",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "id": "j1fYTtD-uhk",
+            "title": "Good Dog | Jungle Beat: Munki & Trunk | Full Episodes | Kids Cartoon 2024",
+            "url": "https://www.youtube.com/watch?v=j1fYTtD-uhk",
+            "duration": 10103.0,
+            "view_count": 1411575,
+            "uploader": "Jungle Beat",
+            "category": "cartoons/good_dog",
+            "thumbnail": "https://i.ytimg.com/vi/j1fYTtD-uhk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB14NLzJiQchQEAUX-bwD3-5oYI9A",
+            "show_name": "Good Dog"
+        }
+    ]
+}

@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-13T09:07:43.066653Z",
+    "last_updated": "2026-03-13T10:01:14.860262Z",
     "show_name": "Bapu",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Bapu.",
-    "total_episodes": 20,
+    "total_episodes": 21,
     "episodes": [
         {
             "id": "tvT3j09ZBR0",
@@ -101,7 +101,7 @@
             "title": "Peppa Pig in Hindi - Shopping - हिंदी Kahaniya - Hindi Cartoons for Kids",
             "url": "https://www.youtube.com/watch?v=1R_Wg95QotE",
             "duration": 3801.0,
-            "view_count": 25407056,
+            "view_count": 25410092,
             "uploader": "पेप्पा पिग हिंदी - आधिकारिक चैनल",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/1R_Wg95QotE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbVOWU_gGvgDdsQgj7QOGlYVYoig"
@@ -131,7 +131,7 @@
             "title": "Baap Re Baap! Saanp - Bandbudh Aur Budbak New Episode - Funny Hindi Cartoon For Kids",
             "url": "https://www.youtube.com/watch?v=07KuETMXNcY",
             "duration": 626.0,
-            "view_count": 32803035,
+            "view_count": 32804443,
             "uploader": "KidZ",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/07KuETMXNcY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEkNdwKxEfgPEqadaOVRa4xdAcOg"
@@ -141,7 +141,7 @@
             "title": "Churan Ka Chakkar - Bandbudh Aur Budbak New Episode - Funny Hindi Cartoon For Kids",
             "url": "https://www.youtube.com/watch?v=HYEOILg14M0",
             "duration": 635.0,
-            "view_count": 20613836,
+            "view_count": 20616120,
             "uploader": "KidZ",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/HYEOILg14M0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiEzicJfiSUPiNPwnvE3ViIIx32w"
@@ -205,6 +205,16 @@
             "uploader": "As Adventure kids",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/tDMezCJkqJ8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjmhS3fM9Qj5sn7Eq1L7xlkODg1g"
+        },
+        {
+            "id": "emp3RSDk2a4",
+            "title": "Kalam Ka Kamaal - Bandbudh Aur Budbak New Episode - Funny Hindi Cartoon For Kids",
+            "url": "https://www.youtube.com/watch?v=emp3RSDk2a4",
+            "duration": 607.0,
+            "view_count": 51071414,
+            "uploader": "KidZ",
+            "category": "cartoons/bapu",
+            "thumbnail": "https://i.ytimg.com/vi/emp3RSDk2a4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzg3b-UwIsozXS_mYrxapy1cA38Q"
         }
     ]
 }
