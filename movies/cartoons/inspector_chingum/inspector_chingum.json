@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-14T21:08:41.459846Z",
+    "last_updated": "2026-03-14T21:45:42.985270Z",
     "show_name": "Inspector Chingum",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Inspector Chingum.",
-    "total_episodes": 39,
+    "total_episodes": 40,
     "episodes": [
         {
             "id": "vJCiPz922ug",
@@ -31,7 +31,7 @@
             "title": "Aakhri Ravan | Ep 01 | Inspector Chingum | 3D Comedy Cartoon In Hindi | Wow Comedy",
             "url": "https://www.youtube.com/watch?v=mu8p4Q3vVV0",
             "duration": 1296.0,
-            "view_count": 85233,
+            "view_count": 85285,
             "uploader": "Wow Kidz Comedy",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/mu8p4Q3vVV0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcr8kMUfrk5jwDPlKaCPWUbl29gg"
@@ -71,7 +71,7 @@
             "title": "Motu Patlu | हिंदी कार्टून | Motu Patlu in Hindi | 2019 | Chingum Hi Chingum",
             "url": "https://www.youtube.com/watch?v=qH672kB7rdM",
             "duration": 676.0,
-            "view_count": 31072564,
+            "view_count": 31072642,
             "uploader": "Motu Patlu",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/qH672kB7rdM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAK40mpKUaL1PDijjc7sukeZ11TvQ"
@@ -131,7 +131,7 @@
             "title": "Motu Patlu Cartoons In Hindi | Animated cartoon | Chingum ka farmhouse | Wow Kidz",
             "url": "https://www.youtube.com/watch?v=XoSm_JZ-Z0s",
             "duration": 655.0,
-            "view_count": 9030958,
+            "view_count": 9030969,
             "uploader": "WowKidz",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/XoSm_JZ-Z0s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqGUMMWbxkDEm_JhqcrMDbKUJytQ"
@@ -391,10 +391,20 @@
             "title": "Transmit | Ep 29 | Inspector Chingum | 3D Comedy Cartoon In Hindi | Wow Comedy",
             "url": "https://www.youtube.com/watch?v=YRFgDHZ7-3w",
             "duration": 1283.0,
-            "view_count": 7782,
+            "view_count": 7784,
             "uploader": "Wow Kidz Comedy",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/YRFgDHZ7-3w/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAxt6JM_k0Cqr8_S7Og674OjOaXA"
+        },
+        {
+            "id": "zq8H4kzWe68",
+            "title": "Animated Series | Inspector Chingum | Wow Kidz | Hindi Cartoons For Kids | Ep 48",
+            "url": "https://www.youtube.com/watch?v=zq8H4kzWe68",
+            "duration": 1164.0,
+            "view_count": 1332183,
+            "uploader": "WowKidz",
+            "category": "cartoons/inspector_chingum",
+            "thumbnail": "https://i.ytimg.com/vi/zq8H4kzWe68/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4TnIJwt6-pa3R_vTGw_y-oP7BJA"
         }
     ]
 }
