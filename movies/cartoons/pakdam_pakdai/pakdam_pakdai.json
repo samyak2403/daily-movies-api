@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-14T18:12:46.244065Z",
+    "last_updated": "2026-03-14T19:06:59.405850Z",
     "show_name": "Pakdam Pakdai",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pakdam Pakdai.",
-    "total_episodes": 8,
+    "total_episodes": 9,
     "episodes": [
         {
             "id": "Lr9guLa0Ego",
@@ -31,7 +31,7 @@
             "title": "Pakdam Pakdai | Full Episode | वाह! इसे कहते हैं—जिस थाली में खाना, उसी में छेद करना! 🍽️😲🔪",
             "url": "https://www.youtube.com/watch?v=rcOThdhKYyM",
             "duration": 1065.0,
-            "view_count": 784957,
+            "view_count": 785050,
             "uploader": "Sonic Gang",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/rcOThdhKYyM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoqsQiPFJBpJAFpPNEI4yRgSzZ9A"
@@ -85,6 +85,16 @@
             "uploader": "Pakdam Pakdai",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/_X1KTp2MBso/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGQnVYKc9EJ7jfbzblqNcXe8fl7A"
+        },
+        {
+            "id": "ZdvQj7PzFfM",
+            "title": "Ballu ने दी Doggy Don को सज़ा | Pakdam Pakdai",
+            "url": "https://www.youtube.com/watch?v=ZdvQj7PzFfM",
+            "duration": 1269.0,
+            "view_count": 500925,
+            "uploader": "Pakdam Pakdai",
+            "category": "cartoons/pakdam_pakdai",
+            "thumbnail": "https://i.ytimg.com/vi/ZdvQj7PzFfM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpt1UPQatJejUThINbrZqQ4wU9jw"
         }
     ]
 }
