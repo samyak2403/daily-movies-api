@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-15T17:26:47.553902Z",
+    "last_updated": "2026-03-15T17:58:45.284282Z",
     "show_name": "Pakdam Pakdai",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pakdam Pakdai.",
-    "total_episodes": 9,
+    "total_episodes": 10,
     "episodes": [
         {
             "id": "Lr9guLa0Ego",
@@ -51,7 +51,7 @@
             "title": "PAKDAM PAKDAI SPACE ATTACK FULL MOVIE HD | DOGGY DON AUR COLONEL KA NAYA SPACE MISSION!",
             "url": "https://www.youtube.com/watch?v=DagzzkrCVkU",
             "duration": 3264.0,
-            "view_count": 171168,
+            "view_count": 171365,
             "uploader": "Pakdai Party",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/DagzzkrCVkU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOZOkcA_HeS3OHw4XoqJctKDMOcw"
@@ -95,6 +95,16 @@
             "uploader": "Pakdam Pakdai",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/ZdvQj7PzFfM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpt1UPQatJejUThINbrZqQ4wU9jw"
+        },
+        {
+            "id": "Mefm8n-nOd4",
+            "title": "चूहा पार्टी ने किया Doggy Don की नाक में Dum | Pakdam Pakdai",
+            "url": "https://www.youtube.com/watch?v=Mefm8n-nOd4",
+            "duration": 1285.0,
+            "view_count": 733786,
+            "uploader": "Pakdam Pakdai",
+            "category": "cartoons/pakdam_pakdai",
+            "thumbnail": "https://i.ytimg.com/vi/Mefm8n-nOd4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQJZfxFoVAs7a3Shq56biPkRmxxA"
         }
     ]
 }
