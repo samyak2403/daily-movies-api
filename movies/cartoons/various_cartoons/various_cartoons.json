@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-15T08:52:25.084449Z",
+    "last_updated": "2026-03-15T09:29:51.626039Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 2,
+    "total_episodes": 3,
     "episodes": [
         {
             "id": "B8Jr34UL3x8",
@@ -26,6 +26,17 @@
             "uploader": "MAHARAJ PRODUCTION ",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/GI8n08_lWS8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbbbnX1-bPd4xtOs1xluSPhdgm_Q",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "ldouKXyJQZM",
+            "title": "OGGY'S NEW HOME 😱 Oggy and the Cockroaches  - Full Episodes HD",
+            "url": "https://www.youtube.com/watch?v=ldouKXyJQZM",
+            "duration": 3684.0,
+            "view_count": 4901417,
+            "uploader": "Oggy & his friends",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/ldouKXyJQZM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuBgLNfAI9M6r73KxSD00wrgyTxA",
             "show_name": "Various Cartoons"
         }
     ]
