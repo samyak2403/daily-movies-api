@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-17T22:27:54.785790Z",
+    "last_updated": "2026-03-17T23:06:05.975458Z",
     "show_name": "Eena Meena Deeka",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Eena Meena Deeka.",
-    "total_episodes": 39,
+    "total_episodes": 40,
     "episodes": [
         {
             "id": "cXh1zpCILgI",
@@ -291,7 +291,7 @@
             "title": "Eena Meena Deeka Hindi 4K Full Movie | Rishi Kapoor comedy Film | Vinod Khanna | Juhi Chawla",
             "url": "https://www.youtube.com/watch?v=fxm6L7BXJuU",
             "duration": 8092.0,
-            "view_count": 709566,
+            "view_count": 709903,
             "uploader": "Film City HD",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/fxm6L7BXJuU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZfdxQsRaQjIp3pmZUx3aPe1bQNQ"
@@ -395,6 +395,16 @@
             "uploader": "WowKidz",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/VU_HQfzG1Ko/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4VZub9JvNxk8maub9Qev_2Q1UKA"
+        },
+        {
+            "id": "_j_BcUdZaRs",
+            "title": "Hide And Seek! | Eena Meena Deeka | Full Episodes | Cartoons For Kids",
+            "url": "https://www.youtube.com/watch?v=_j_BcUdZaRs",
+            "duration": 5064.0,
+            "view_count": 21667,
+            "uploader": "Eena Meena Deeka",
+            "category": "cartoons/eena_meena_deeka",
+            "thumbnail": "https://i.ytimg.com/vi/_j_BcUdZaRs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBs8V3aPyNBfdHh-vu3i6EbHtGwdA"
         }
     ]
 }
