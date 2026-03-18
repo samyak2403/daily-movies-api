@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-18T21:47:51.590492Z",
+    "last_updated": "2026-03-18T22:13:12.931949Z",
     "show_name": "Super Bheem",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Super Bheem.",
-    "total_episodes": 35,
+    "total_episodes": 36,
     "episodes": [
         {
             "id": "hVoxSdJ_fyA",
@@ -21,7 +21,7 @@
             "title": "Super Bheem - Ram Horns Attack | Cartoons for Kids in Hindi | Adventure Videos",
             "url": "https://www.youtube.com/watch?v=9lfUuLJbKBw",
             "duration": 1790.0,
-            "view_count": 72554,
+            "view_count": 72557,
             "uploader": "Super Bheem",
             "category": "cartoons/super_bheem",
             "thumbnail": "https://i.ytimg.com/vi/9lfUuLJbKBw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8dDDJm9AYOUynt2ml8IhB_PQZIQ"
@@ -31,7 +31,7 @@
             "title": "Super Bheem - Kalia ka Naya Dost | Adventure Cartoons for Kids | Fun Kids Videos",
             "url": "https://www.youtube.com/watch?v=v-5bsikCjSo",
             "duration": 1815.0,
-            "view_count": 6743538,
+            "view_count": 6743553,
             "uploader": "Super Bheem",
             "category": "cartoons/super_bheem",
             "thumbnail": "https://i.ytimg.com/vi/v-5bsikCjSo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANwhgfEZtxTzjwMunF4935UXvZuQ"
@@ -41,7 +41,7 @@
             "title": "Super Bheem and Chutki - Dance Time in Space | Cartoon for Kids in Hindi | Funny Videos",
             "url": "https://www.youtube.com/watch?v=S4ZxTVhoTVw",
             "duration": 1831.0,
-            "view_count": 207760,
+            "view_count": 207788,
             "uploader": "Super Bheem",
             "category": "cartoons/super_bheem",
             "thumbnail": "https://i.ytimg.com/vi/S4ZxTVhoTVw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW42doxJhBcEw-lQ5h_a19SV6rxw"
@@ -171,7 +171,7 @@
             "title": "Super Bheem - Kalia Ki Mermaid Jodi | Cartoons for Kids in Hindi | Funny Videos",
             "url": "https://www.youtube.com/watch?v=R_2N6mKJmS0",
             "duration": 1192.0,
-            "view_count": 3456678,
+            "view_count": 3456804,
             "uploader": "Super Bheem",
             "category": "cartoons/super_bheem",
             "thumbnail": "https://i.ytimg.com/vi/R_2N6mKJmS0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmBlXvS2jr_O-Jfwly2Q1eKmXWvQ"
@@ -311,7 +311,7 @@
             "title": "Chhota Bheem - Little Singham In Trouble | Rescue Mission for Kids | 4K Cartoons Stories in Hindi",
             "url": "https://www.youtube.com/watch?v=xrUYEJi0X1k",
             "duration": 1969.0,
-            "view_count": 335707,
+            "view_count": 335883,
             "uploader": "Green Gold TV - Official Channel",
             "category": "cartoons/super_bheem",
             "thumbnail": "https://i.ytimg.com/vi/xrUYEJi0X1k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGLoLJ-x2Uh73fsYW4H8Xsb6ngGw"
@@ -355,6 +355,16 @@
             "uploader": "Super Bheem",
             "category": "cartoons/super_bheem",
             "thumbnail": "https://i.ytimg.com/vi/DtabyofXEpM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5BlUwlFS8u8CtLwwBuB3LtdiX4g"
+        },
+        {
+            "id": "A_BHk7_Zh5I",
+            "title": "Super Bheem - Raju Trapped in the Ants’ Territory | Adventure Videos for Kids | Hindi Kahaniya",
+            "url": "https://www.youtube.com/watch?v=A_BHk7_Zh5I",
+            "duration": 1816.0,
+            "view_count": 1629749,
+            "uploader": "Super Bheem",
+            "category": "cartoons/super_bheem",
+            "thumbnail": "https://i.ytimg.com/vi/A_BHk7_Zh5I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6tmwJ_i2jQil6NAPl0diZe4hiYA"
         }
     ]
 }
