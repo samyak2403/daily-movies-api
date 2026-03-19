@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-03-19T09:07:36.331020Z",
+    "last_updated": "2026-03-19T10:05:57.724719Z",
     "show_name": "Bapu",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Bapu.",
-    "total_episodes": 29,
+    "total_episodes": 30,
     "episodes": [
         {
             "id": "tvT3j09ZBR0",
             "title": "Labhu Shaq chaggan is Chor  | Bapu Catoon Ep -1 | and Hindi cartoon |",
             "url": "https://www.youtube.com/watch?v=tvT3j09ZBR0",
             "duration": 677.0,
-            "view_count": 4436,
+            "view_count": 4432,
             "uploader": "BAPU KIDS PLAY TV",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/tvT3j09ZBR0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaWQ-KK5Jtp7WKWYRqtdhnOlEx4Q"
@@ -41,7 +41,7 @@
             "title": "Suraj Ki High-Tech Cycle || Bapu catoon Ep - 10  | all' comedy catoon and family members catoon",
             "url": "https://www.youtube.com/watch?v=whiZLGgONP0",
             "duration": 668.0,
-            "view_count": 3487,
+            "view_count": 3486,
             "uploader": "BAPU KIDS PLAY TV",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/whiZLGgONP0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6HZMnVqKm-EujHrmqlj43yYW59w"
@@ -81,7 +81,7 @@
             "title": "Shopping competition | Bapu catoon Ep -6 | all' bast comedy catoon bapu animation |",
             "url": "https://www.youtube.com/watch?v=RJrIfDkjpeQ",
             "duration": 696.0,
-            "view_count": 11308,
+            "view_count": 11305,
             "uploader": "BAPU KIDS PLAY TV",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/RJrIfDkjpeQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcSKCWkgCQUtriw2McIdqMNU27Lg"
@@ -131,7 +131,7 @@
             "title": "Baap Re Baap! Saanp - Bandbudh Aur Budbak New Episode - Funny Hindi Cartoon For Kids",
             "url": "https://www.youtube.com/watch?v=07KuETMXNcY",
             "duration": 626.0,
-            "view_count": 32965928,
+            "view_count": 32968142,
             "uploader": "KidZ",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/07KuETMXNcY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEkNdwKxEfgPEqadaOVRa4xdAcOg"
@@ -211,7 +211,7 @@
             "title": "Kalam Ka Kamaal - Bandbudh Aur Budbak New Episode - Funny Hindi Cartoon For Kids",
             "url": "https://www.youtube.com/watch?v=emp3RSDk2a4",
             "duration": 607.0,
-            "view_count": 51610835,
+            "view_count": 51629181,
             "uploader": "KidZ",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/emp3RSDk2a4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzg3b-UwIsozXS_mYrxapy1cA38Q"
@@ -295,6 +295,16 @@
             "uploader": "Bhoot Boss Diaries",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/63kHHCgTCvI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCx5MFvaWUldYLwOgK8BLVTPObtcw"
+        },
+        {
+            "id": "4wJ1OYpDh2E",
+            "title": "Dadaji Se Baatein - Bandbudh Aur Budbak New Episode - Funny Hindi Cartoon For Kids",
+            "url": "https://www.youtube.com/watch?v=4wJ1OYpDh2E",
+            "duration": 630.0,
+            "view_count": 14607400,
+            "uploader": "KidZ",
+            "category": "cartoons/bapu",
+            "thumbnail": "https://i.ytimg.com/vi/4wJ1OYpDh2E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDA2o4XUlcqK4nUBPbmjHLNTHaOTg"
         }
     ]
 }
