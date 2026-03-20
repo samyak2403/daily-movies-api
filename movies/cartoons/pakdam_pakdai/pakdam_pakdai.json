@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-20T11:55:08.555042Z",
+    "last_updated": "2026-03-20T12:35:13.815006Z",
     "show_name": "Pakdam Pakdai",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pakdam Pakdai.",
-    "total_episodes": 10,
+    "total_episodes": 11,
     "episodes": [
         {
             "id": "Lr9guLa0Ego",
@@ -105,6 +105,16 @@
             "uploader": "Pakdam Pakdai",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/Mefm8n-nOd4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQJZfxFoVAs7a3Shq56biPkRmxxA"
+        },
+        {
+            "id": "xCn188Ak20M",
+            "title": "Doggy Don और चूहा party फसे underwater | Pakdam Pakdai",
+            "url": "https://www.youtube.com/watch?v=xCn188Ak20M",
+            "duration": 1231.0,
+            "view_count": 82251,
+            "uploader": "Pakdam Pakdai",
+            "category": "cartoons/pakdam_pakdai",
+            "thumbnail": "https://i.ytimg.com/vi/xCn188Ak20M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5PklQ0Eo_A-HfU4nYri7yIeFfvA"
         }
     ]
 }
