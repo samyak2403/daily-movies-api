@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-03-27T14:51:28.197224Z",
+    "last_updated": "2026-03-27T15:49:02.608846Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 3,
+    "total_episodes": 4,
     "episodes": [
         {
             "id": "B8Jr34UL3x8",
             "title": "Doraemon In hindi without zoom all favorite episodes.    doraemon special 1.5 hours",
             "url": "https://www.youtube.com/watch?v=B8Jr34UL3x8",
             "duration": 4663.0,
-            "view_count": 220131,
+            "view_count": 220265,
             "uploader": "All the Help",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/B8Jr34UL3x8/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuYCigIMCAAQARheIGUoTTAP&rs=AOn4CLAkE8a1uym5drnjw0MuBGLa6p7q-w",
@@ -37,6 +37,17 @@
             "uploader": "Oggy & his friends",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/ldouKXyJQZM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuBgLNfAI9M6r73KxSD00wrgyTxA",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "g7W6Oofa9Fo",
+            "title": "Peppa Pig NEW BABY EVIE Episodes LIVE 🍼 Cutest & Funniest Moments 🥹💛 Kids Cartoons",
+            "url": "https://www.youtube.com/watch?v=g7W6Oofa9Fo",
+            "duration": null,
+            "view_count": null,
+            "uploader": "Peppa Pig - Official Channel",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/g7W6Oofa9Fo/hq720.jpg?v=69c651e2&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxz2TC2OFVmO6WhYmGrXnNtOfYtw",
             "show_name": "Various Cartoons"
         }
     ]
