@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-03-29T11:14:29.771072Z",
+    "last_updated": "2026-03-29T11:51:03.585147Z",
     "show_name": "Bapu",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Bapu.",
-    "total_episodes": 33,
+    "total_episodes": 34,
     "episodes": [
         {
             "id": "tvT3j09ZBR0",
             "title": "Labhu Shaq chaggan is Chor  | Bapu Catoon Ep -1 | and Hindi cartoon |",
             "url": "https://www.youtube.com/watch?v=tvT3j09ZBR0",
             "duration": 677.0,
-            "view_count": 4515,
+            "view_count": 4516,
             "uploader": "BAPU KIDS PLAY TV",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/tvT3j09ZBR0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaWQ-KK5Jtp7WKWYRqtdhnOlEx4Q"
@@ -91,7 +91,7 @@
             "title": "Bapu Ki Kahaniyaan || EP-2 || The Puncture Road",
             "url": "https://www.youtube.com/watch?v=b993eY3quEI",
             "duration": 652.0,
-            "view_count": 17366,
+            "view_count": 17365,
             "uploader": "KIDS TV LIVE",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/b993eY3quEI/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2uXyqpC1KkHlm0NrEPIA8LVyosA"
@@ -101,7 +101,7 @@
             "title": "Peppa Pig in Hindi - Shopping - हिंदी Kahaniya - Hindi Cartoons for Kids",
             "url": "https://www.youtube.com/watch?v=1R_Wg95QotE",
             "duration": 3801.0,
-            "view_count": 26142257,
+            "view_count": 26143894,
             "uploader": "पेप्पा पिग हिंदी - आधिकारिक चैनल",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/1R_Wg95QotE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbVOWU_gGvgDdsQgj7QOGlYVYoig"
@@ -201,7 +201,7 @@
             "title": "बापू V/S  भुत in Hindi Bapu HD cartoon in Hindi  //    As Adventure kids// Babu episode-2",
             "url": "https://www.youtube.com/watch?v=tDMezCJkqJ8",
             "duration": 651.0,
-            "view_count": 9888,
+            "view_count": 9889,
             "uploader": "As Adventure kids",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/tDMezCJkqJ8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjmhS3fM9Qj5sn7Eq1L7xlkODg1g"
@@ -221,7 +221,7 @@
             "title": "घमंडी  राजा का पार्क | बच्चों की कहानियाँ | Moral Stories for Children in Hindi | भूत बॉस डायरीज़",
             "url": "https://www.youtube.com/watch?v=nnnMwaE7aTg",
             "duration": 1362.0,
-            "view_count": 41546562,
+            "view_count": 41546647,
             "uploader": "Sony YAY!",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/nnnMwaE7aTg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoDOFlFzycrfaqajCecCBfpoBGQQ"
@@ -335,6 +335,16 @@
             "uploader": "KidZ",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/1GVwk5ZEwSM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC98gVCtO38LPqCOnm22uIv_Ghjcw"
+        },
+        {
+            "id": "7vAKvHX_w6M",
+            "title": "Bapu ki Kahaniyaan|| EP-3 || Monkey s Weight Loss",
+            "url": "https://www.youtube.com/watch?v=7vAKvHX_w6M",
+            "duration": 662.0,
+            "view_count": 12084,
+            "uploader": "KIDS TV LIVE",
+            "category": "cartoons/bapu",
+            "thumbnail": "https://i.ytimg.com/vi/7vAKvHX_w6M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC55wYixalpcDH4OmGQRUWThHbg8w"
         }
     ]
 }
