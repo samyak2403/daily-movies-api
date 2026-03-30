@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-30T19:25:08.643427Z",
+    "last_updated": "2026-03-30T20:13:09.312647Z",
     "show_name": "Eena Meena Deeka",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Eena Meena Deeka.",
-    "total_episodes": 49,
+    "total_episodes": 50,
     "episodes": [
         {
             "id": "cXh1zpCILgI",
@@ -51,7 +51,7 @@
             "title": "Bollywood Dangal - Geela Geela Pani | Mummy O Mummy - Eena Meena Deeka",
             "url": "https://www.youtube.com/watch?v=JXrBJoMCOKQ",
             "duration": 909.0,
-            "view_count": 1416444,
+            "view_count": 1416482,
             "uploader": "WowKidz",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/JXrBJoMCOKQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmIAI8bzv_a-vqHSDyev7dP216Zw"
@@ -61,7 +61,7 @@
             "title": "Bollywood Dangal - Tree House | Science Lab - Eena Meena Deeka",
             "url": "https://www.youtube.com/watch?v=Qce-evfmUZQ",
             "duration": 878.0,
-            "view_count": 2081723,
+            "view_count": 2081750,
             "uploader": "WowKidz",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/Qce-evfmUZQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyakfQyPbgWa29NmESeK_xIOMzZQ"
@@ -71,7 +71,7 @@
             "title": "Bollywood Dangal - Khel Khel Mein | London Tour - Eena Meena Deeka",
             "url": "https://www.youtube.com/watch?v=yG32RsrL9Zs",
             "duration": 946.0,
-            "view_count": 497379,
+            "view_count": 497419,
             "uploader": "WowKidz",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/yG32RsrL9Zs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWThP-gGIUX8ZB6vr9wiGRzTsFVQ"
@@ -261,7 +261,7 @@
             "title": "Bollywood Dangal - Computer World | Ninja Foxie - Eena Meena Deeka",
             "url": "https://www.youtube.com/watch?v=hYUdd0gchRI",
             "duration": 923.0,
-            "view_count": 728234,
+            "view_count": 728240,
             "uploader": "WowKidz",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/hYUdd0gchRI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1SHRo3VYMx1fxOJXsPMJVlYP_wQ"
@@ -495,6 +495,16 @@
             "uploader": "WowKidz",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/CqY-rZ8vtkQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6pjnaAkQRpVJOxOqpWG5qBelXog"
+        },
+        {
+            "id": "tx4AzdHWVDA",
+            "title": "Bollywood Dangal - Formula No 1 | Triple Seat - Eena Meena Deeka",
+            "url": "https://www.youtube.com/watch?v=tx4AzdHWVDA",
+            "duration": 906.0,
+            "view_count": 866323,
+            "uploader": "WowKidz",
+            "category": "cartoons/eena_meena_deeka",
+            "thumbnail": "https://i.ytimg.com/vi/tx4AzdHWVDA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMV5NrMP8MZKew5-RvFvuIaYXvkA"
         }
     ]
 }
