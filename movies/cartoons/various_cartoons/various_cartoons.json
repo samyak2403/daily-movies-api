@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-31T08:09:16.476054Z",
+    "last_updated": "2026-03-31T10:26:40.531721Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 5,
+    "total_episodes": 6,
     "episodes": [
         {
             "id": "B8Jr34UL3x8",
@@ -59,6 +59,17 @@
             "uploader": "Oggy Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/z9rH9xkdpuI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwpjS_mIHJy5-DcsQxY01Lh1IYvw",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "QV2PWwaLdKc",
+            "title": "The Chosen One Gets the Mythological Power | Little Singham",
+            "url": "https://www.youtube.com/watch?v=QV2PWwaLdKc",
+            "duration": 3963.0,
+            "view_count": 585410,
+            "uploader": "Big Animation",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/QV2PWwaLdKc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhu_fihH-bCsODasUizhHpQWSyJA",
             "show_name": "Various Cartoons"
         }
     ]
