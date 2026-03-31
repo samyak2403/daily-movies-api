@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-30T22:06:04.843894Z",
+    "last_updated": "2026-03-31T08:09:16.476054Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 4,
+    "total_episodes": 5,
     "episodes": [
         {
             "id": "B8Jr34UL3x8",
@@ -48,6 +48,17 @@
             "uploader": "Peppa Pig - Official Channel",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/g7W6Oofa9Fo/hq720.jpg?v=69c651e2&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxz2TC2OFVmO6WhYmGrXnNtOfYtw",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "z9rH9xkdpuI",
+            "title": "आज रात तबाही Oggy and the Cockroaches हिंदी Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=z9rH9xkdpuI",
+            "duration": 3512.0,
+            "view_count": 692879,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/z9rH9xkdpuI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwpjS_mIHJy5-DcsQxY01Lh1IYvw",
             "show_name": "Various Cartoons"
         }
     ]
