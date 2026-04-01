@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-04-01T12:19:27.912173Z",
+    "last_updated": "2026-04-01T15:50:09.440167Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 6,
+    "total_episodes": 7,
     "episodes": [
         {
             "id": "B8Jr34UL3x8",
@@ -70,6 +70,17 @@
             "uploader": "Big Animation",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/QV2PWwaLdKc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhu_fihH-bCsODasUizhHpQWSyJA",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "KkZN5wWc-ys",
+            "title": "Peppa Pig NEW BABY EVIE Episodes LIVE 🍼 Cutest & Funniest Moments 🥹💛 Kids Cartoons",
+            "url": "https://www.youtube.com/watch?v=KkZN5wWc-ys",
+            "duration": null,
+            "view_count": null,
+            "uploader": "Peppa Pig - Official Channel",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/KkZN5wWc-ys/hq720.jpg?v=69cce965&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4qCmchWu02WB6DfUJKPeN7nlQsA",
             "show_name": "Various Cartoons"
         }
     ]
