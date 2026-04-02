@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-04-02T22:29:45.348346Z",
+    "last_updated": "2026-04-02T23:05:12.015104Z",
     "show_name": "Super Bheem",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Super Bheem.",
-    "total_episodes": 56,
+    "total_episodes": 57,
     "episodes": [
         {
             "id": "hVoxSdJ_fyA",
@@ -565,6 +565,16 @@
             "uploader": "Super Bheem",
             "category": "cartoons/super_bheem",
             "thumbnail": "https://i.ytimg.com/vi/gBl8plhAnYo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVO4iLIwjVseNpQKhqqVvxjyAcTQ"
+        },
+        {
+            "id": "HKboiV8qZQk",
+            "title": "Super Bheem - Jaggu Multiverse | Funny Videos | Cartoons for Kids in Hindi",
+            "url": "https://www.youtube.com/watch?v=HKboiV8qZQk",
+            "duration": 1224.0,
+            "view_count": 1532290,
+            "uploader": "Super Bheem",
+            "category": "cartoons/super_bheem",
+            "thumbnail": "https://i.ytimg.com/vi/HKboiV8qZQk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxyLYlj5R1Ek0tJ5zGOQVSrJ9mTA"
         }
     ]
 }
