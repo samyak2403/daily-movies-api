@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-16T11:46:34.494067Z",
+    "last_updated": "2026-04-06T05:23:45.115097Z",
     "show_name": "Avatar",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Avatar.",
-    "total_episodes": 1,
+    "total_episodes": 2,
     "episodes": [
         {
             "id": "hzl_9eRNeYY",
@@ -15,6 +15,17 @@
             "uploader": "Sonic Gang",
             "category": "cartoons/avatar",
             "thumbnail": "https://i.ytimg.com/vi/hzl_9eRNeYY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnUVjgxpNi5vXtZdzr7Nv1yrkD0A",
+            "show_name": "Avatar"
+        },
+        {
+            "id": "-pSqebZsBzs",
+            "title": "Avatar: The Last Airbender S2 | 🔴 Live Stream | All Episodes | Back to Back",
+            "url": "https://www.youtube.com/watch?v=-pSqebZsBzs",
+            "duration": 34732.0,
+            "view_count": 3694415,
+            "uploader": "Sonic Gang",
+            "category": "cartoons/avatar",
+            "thumbnail": "https://i.ytimg.com/vi/-pSqebZsBzs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD38ApEGMPIi2dX9Jlj7ZDxPPslHg",
             "show_name": "Avatar"
         }
     ]
