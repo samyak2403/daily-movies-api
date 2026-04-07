@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-04-07T03:39:12.462691Z",
+    "last_updated": "2026-04-07T05:38:17.676764Z",
     "show_name": "Pakdam Pakdai",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pakdam Pakdai.",
-    "total_episodes": 12,
+    "total_episodes": 13,
     "episodes": [
         {
             "id": "Lr9guLa0Ego",
@@ -41,7 +41,7 @@
             "title": "Pakdam Pakdai | Full Episode | Motu पी गया Doggy Don की पूरी चाय",
             "url": "https://www.youtube.com/watch?v=UYi7OpmoqNg",
             "duration": 1060.0,
-            "view_count": 1409779,
+            "view_count": 1409818,
             "uploader": "Sonic Gang",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/UYi7OpmoqNg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCp1WfJtjSnnFm2NJ_ytlHvEnr2iQ"
@@ -125,6 +125,16 @@
             "uploader": "Sonic Gang",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/dLJUe1HUyVw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1kFH2oke5AJfz93DUn3WQrYu3RA"
+        },
+        {
+            "id": "7SplSrjetxU",
+            "title": "Doggy Don और चूहो की हुई बदमाशी शांत | Pakdam Pakdai",
+            "url": "https://www.youtube.com/watch?v=7SplSrjetxU",
+            "duration": 1369.0,
+            "view_count": 59782,
+            "uploader": "Pakdam Pakdai",
+            "category": "cartoons/pakdam_pakdai",
+            "thumbnail": "https://i.ytimg.com/vi/7SplSrjetxU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdmO31Fha8sS58WtYTGog_hC2ACg"
         }
     ]
 }
