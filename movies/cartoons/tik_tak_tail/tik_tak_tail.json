@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-04-07T22:52:10.376642Z",
+    "last_updated": "2026-04-07T23:35:22.827021Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 18,
+    "total_episodes": 19,
     "episodes": [
         {
             "id": "1sARdYKPDL0",
             "title": "Tik Tak Tail Rabbit Tak Funny Cartoon Compilation",
             "url": "https://www.youtube.com/watch?v=1sARdYKPDL0",
             "duration": 832.0,
-            "view_count": 776937,
+            "view_count": 776934,
             "uploader": "FHKidsTV - Funny Happy Kids TV",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/1sARdYKPDL0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAM4M_7NIxRiiOJIU-P5LEGig_iQA"
@@ -131,7 +131,7 @@
             "title": "Tik Tak Tail | Furniture Trouble | Cartoon Compilation | Videos For Kids | WildBrain Cartoons",
             "url": "https://www.youtube.com/watch?v=m1tzhIq4P6g",
             "duration": 854.0,
-            "view_count": 3961,
+            "view_count": 3967,
             "uploader": "WildBrain Kids",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/m1tzhIq4P6g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApYFcLSS7Q3EMcYfGaWNDxOwsMiA"
@@ -185,6 +185,16 @@
             "uploader": "Kids Thailand",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/t5rD3n6XcZI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB40buPrS4x7K3K6CSrI_jf6QTSmg"
+        },
+        {
+            "id": "ZoBh2aWFYvc",
+            "title": "Tik Tak Tail | Tik Falls In Love | Funny Cartoon Compilation | Videos For Kids",
+            "url": "https://www.youtube.com/watch?v=ZoBh2aWFYvc",
+            "duration": 839.0,
+            "view_count": 8194,
+            "uploader": "WildBrain Kids",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/ZoBh2aWFYvc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPNR6xhQvfgIMboKxUg-vtj0iWcw"
         }
     ]
 }
