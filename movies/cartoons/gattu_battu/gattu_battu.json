@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-04-12T21:54:54.553718Z",
+    "last_updated": "2026-04-12T22:27:43.248018Z",
     "show_name": "Gattu Battu",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Gattu Battu.",
-    "total_episodes": 72,
+    "total_episodes": 73,
     "episodes": [
         {
             "id": "0dXItEHSgwI",
@@ -61,7 +61,7 @@
             "title": "जब Gattu Battu भिड़े Desh Ke Dushmano Se | Gattu Battu - Secret of the Computer Chip",
             "url": "https://www.youtube.com/watch?v=9CXoyCFXQDU",
             "duration": 5374.0,
-            "view_count": 859448,
+            "view_count": 859458,
             "uploader": "Sonic Gang Hindi Movies",
             "category": "cartoons/gattu_battu",
             "thumbnail": "https://i.ytimg.com/vi/9CXoyCFXQDU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCPYtW9qfNFQEMD1L9p-qcQ4nUWA"
@@ -321,7 +321,7 @@
             "title": "Gattu Battu | Full Episode | Detective suit",
             "url": "https://www.youtube.com/watch?v=bcsGGwJ085g",
             "duration": 1318.0,
-            "view_count": 728556,
+            "view_count": 728691,
             "uploader": "Sonic Gang",
             "category": "cartoons/gattu_battu",
             "thumbnail": "https://i.ytimg.com/vi/bcsGGwJ085g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHG7EwJV9sdz9KOpF1HTdDBk013w"
@@ -411,7 +411,7 @@
             "title": "Gattu Battu | Full Episode | Sher Singh Ke Laser Gloves",
             "url": "https://www.youtube.com/watch?v=kBGzYGnseGw",
             "duration": 1265.0,
-            "view_count": 250094,
+            "view_count": 251657,
             "uploader": "Sonic Gang",
             "category": "cartoons/gattu_battu",
             "thumbnail": "https://i.ytimg.com/vi/kBGzYGnseGw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBv4h8xy4ylEuUGEF6d58IN9dhMFA"
@@ -501,7 +501,7 @@
             "title": "Gattu Battu | Full Episode | सेठ! तुमसे Bank तो संभाला नहीं जाता, तुम हीरे क्या संभालोगे? 💰💎🤣",
             "url": "https://www.youtube.com/watch?v=TeVucafBrMU",
             "duration": 1359.0,
-            "view_count": 70124,
+            "view_count": 70145,
             "uploader": "Sonic Gang",
             "category": "cartoons/gattu_battu",
             "thumbnail": "https://i.ytimg.com/vi/TeVucafBrMU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBb0RLlvBUY52M4QBvZ3HFCN3HS-g"
@@ -541,7 +541,7 @@
             "title": "Gattu Battu | Full Episode 101 | Ting Tong की खोयी Memory, दरवाज़े से टकराकर",
             "url": "https://www.youtube.com/watch?v=5JnZlmAfpGE",
             "duration": 1167.0,
-            "view_count": 154977,
+            "view_count": 163361,
             "uploader": "JioHotstar Kids",
             "category": "cartoons/gattu_battu",
             "thumbnail": "https://i.ytimg.com/vi/5JnZlmAfpGE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiVMkqsRv_4jqSqW_R9smjkr5kcQ"
@@ -725,6 +725,16 @@
             "uploader": "Sonic Gang",
             "category": "cartoons/gattu_battu",
             "thumbnail": "https://i.ytimg.com/vi/yCbAZJ0NNp0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrgYtHtKyPe_0YUJqN5KuNs9C4Kw"
+        },
+        {
+            "id": "uokUyaJYWyU",
+            "title": "The Genie || Full Episode || Gattu Battu ||",
+            "url": "https://www.youtube.com/watch?v=uokUyaJYWyU",
+            "duration": 1446.0,
+            "view_count": 53551,
+            "uploader": "ToonStationX",
+            "category": "cartoons/gattu_battu",
+            "thumbnail": "https://i.ytimg.com/vi/uokUyaJYWyU/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwh88h0QOMn7qOjleqpQs3hJv3Pg"
         }
     ]
 }
