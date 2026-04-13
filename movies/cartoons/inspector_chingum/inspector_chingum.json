@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-04-12T23:56:54.997531Z",
+    "last_updated": "2026-04-13T01:22:17.046484Z",
     "show_name": "Inspector Chingum",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Inspector Chingum.",
-    "total_episodes": 80,
+    "total_episodes": 81,
     "episodes": [
         {
             "id": "vJCiPz922ug",
@@ -71,7 +71,7 @@
             "title": "Motu Patlu | हिंदी कार्टून | Motu Patlu in Hindi | 2019 | Chingum Hi Chingum",
             "url": "https://www.youtube.com/watch?v=qH672kB7rdM",
             "duration": 676.0,
-            "view_count": 31228520,
+            "view_count": 31228563,
             "uploader": "Motu Patlu",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/qH672kB7rdM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAK40mpKUaL1PDijjc7sukeZ11TvQ"
@@ -121,7 +121,7 @@
             "title": "Sumo Sossa | Ep 37 | Inspector Chingum | 3D Comedy Cartoon In Hindi | Wow Comedy",
             "url": "https://www.youtube.com/watch?v=DVy5ct9_FyQ",
             "duration": 1269.0,
-            "view_count": 82098,
+            "view_count": 82102,
             "uploader": "Wow Kidz Comedy",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/DVy5ct9_FyQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVHtuY97icYPxVzP8_PO5i7cErWw"
@@ -805,6 +805,16 @@
             "uploader": "Sonic Gang Motu Patlu ",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/Dbki5Sj_xBA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuZKoLfvesCEqGAAWjMxE9GV_8fQ"
+        },
+        {
+            "id": "q4PfXcR2_Gw",
+            "title": "Animated Series | Inspector Chingum | Wow Kidz | Hindi Cartoons For Kids | Ep 46",
+            "url": "https://www.youtube.com/watch?v=q4PfXcR2_Gw",
+            "duration": 1245.0,
+            "view_count": 402912,
+            "uploader": "WowKidz",
+            "category": "cartoons/inspector_chingum",
+            "thumbnail": "https://i.ytimg.com/vi/q4PfXcR2_Gw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDh-VSl8tSeTs0F-6HkMdqfkzGCWg"
         }
     ]
 }
