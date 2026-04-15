@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-04-13T08:44:47.570279Z",
+    "last_updated": "2026-04-15T11:11:45.983100Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 8,
+    "total_episodes": 9,
     "episodes": [
         {
             "id": "B8Jr34UL3x8",
@@ -92,6 +92,17 @@
             "uploader": "Shaun the Sheep Official",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/bppulSQPyzw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKoVrsyP2jL6VVcAhpymHuEWCEsw",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "P9pPunBcCrA",
+            "title": "Doraemon New Episodes In Hindi 2026 l Doraemon Latest Hindi Episodes l Like and Subscribe For More.",
+            "url": "https://www.youtube.com/watch?v=P9pPunBcCrA",
+            "duration": 2617.0,
+            "view_count": 7019,
+            "uploader": "soneka blog",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/P9pPunBcCrA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9_NobRuR8Gj3YDxck3fyWLij-kA",
             "show_name": "Various Cartoons"
         }
     ]
