@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-04-19T23:35:45.839889Z",
+    "last_updated": "2026-04-20T00:13:24.322727Z",
     "show_name": "Mighty Raju",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Mighty Raju.",
-    "total_episodes": 71,
+    "total_episodes": 72,
     "episodes": [
         {
             "id": "KNKAdmEBwEA",
@@ -21,7 +21,7 @@
             "title": "Mighty Raju - 1st Day Of School | Cartoons for Kids in YouTube | Moral Hindi Stories",
             "url": "https://www.youtube.com/watch?v=I9Q530kp_qU",
             "duration": 601.0,
-            "view_count": 8933032,
+            "view_count": 8933040,
             "uploader": "Mighty Raju - Official Channel",
             "category": "cartoons/mighty_raju",
             "thumbnail": "https://i.ytimg.com/vi/I9Q530kp_qU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnVub4mSiXg-NzXqYMtRqeSZr1tw"
@@ -221,7 +221,7 @@
             "title": "Mighty Raju ka Naya Robot Creeky | Adventure videos for kids | hindi cartoons for kids",
             "url": "https://www.youtube.com/watch?v=4UVjOeknfPs",
             "duration": 1852.0,
-            "view_count": 43834982,
+            "view_count": 43835003,
             "uploader": "Mighty Raju - Official Channel",
             "category": "cartoons/mighty_raju",
             "thumbnail": "https://i.ytimg.com/vi/4UVjOeknfPs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIWpJDhtBee86q_Fg-KXNE82XrUw"
@@ -715,6 +715,16 @@
             "uploader": "Green Gold TV - Official Channel",
             "category": "cartoons/mighty_raju",
             "thumbnail": "https://i.ytimg.com/vi/1gWu6hjNGkI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2Jz-6RLTatBdEgWAExzqr1ZbBhg"
+        },
+        {
+            "id": "p_8AhJJ9uJ4",
+            "title": "Mighty Raju - Charlie Ke Naya Robot Toy Ka Kamal | Cartoons For Kids | Fun Videos For Kids",
+            "url": "https://www.youtube.com/watch?v=p_8AhJJ9uJ4",
+            "duration": 632.0,
+            "view_count": 1108098,
+            "uploader": "Mighty Raju - Official Channel",
+            "category": "cartoons/mighty_raju",
+            "thumbnail": "https://i.ytimg.com/vi/p_8AhJJ9uJ4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAepXfY7WF3ufMTaQOG79arfQUpw"
         }
     ]
 }
