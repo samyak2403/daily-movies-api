@@ -1,0 +1,21 @@
+{
+    "last_updated": "2026-04-21T18:58:43.590769Z",
+    "show_name": "Mr Beans Hotel",
+    "language": "Hindi",
+    "category": "cartoons",
+    "description": "Auto-generated category for Mr Beans Hotel.",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "id": "a_tKTLyOS6Y",
+            "title": "Mr Beans Hotel.... | Mr Bean Animated Season 2 | Full Episodes | Mr Bean World",
+            "url": "https://www.youtube.com/watch?v=a_tKTLyOS6Y",
+            "duration": 3302.0,
+            "view_count": 3079432,
+            "uploader": "Mr Bean World",
+            "category": "cartoons/mr_beans_hotel",
+            "thumbnail": "https://i.ytimg.com/vi/a_tKTLyOS6Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEWUaX1vkNaOgWcRr9vp5_rAtyoQ",
+            "show_name": "Mr Beans Hotel"
+        }
+    ]
+}
