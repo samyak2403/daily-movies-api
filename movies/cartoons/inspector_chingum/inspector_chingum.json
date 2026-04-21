@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-04-21T20:05:37.702814Z",
+    "last_updated": "2026-04-21T21:06:03.893653Z",
     "show_name": "Inspector Chingum",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Inspector Chingum.",
-    "total_episodes": 84,
+    "total_episodes": 85,
     "episodes": [
         {
             "id": "vJCiPz922ug",
@@ -31,7 +31,7 @@
             "title": "Aakhri Ravan | Ep 01 | Inspector Chingum | 3D Comedy Cartoon In Hindi | Wow Comedy",
             "url": "https://www.youtube.com/watch?v=mu8p4Q3vVV0",
             "duration": 1296.0,
-            "view_count": 92939,
+            "view_count": 92988,
             "uploader": "Wow Kidz Comedy",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/mu8p4Q3vVV0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcr8kMUfrk5jwDPlKaCPWUbl29gg"
@@ -845,6 +845,16 @@
             "uploader": "WowKidz",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/jG7Xzq-Dy7M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADGxzPbHbnYbIxLpW6ZZYqDXjY5A"
+        },
+        {
+            "id": "0nD7iDRbY2A",
+            "title": "Invisible Man | Ep 10 | Inspector Chingum | 3D Comedy Cartoon In Hindi | Wow Comedy",
+            "url": "https://www.youtube.com/watch?v=0nD7iDRbY2A",
+            "duration": 1214.0,
+            "view_count": 42880,
+            "uploader": "Wow Kidz Comedy",
+            "category": "cartoons/inspector_chingum",
+            "thumbnail": "https://i.ytimg.com/vi/0nD7iDRbY2A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCR2T3DmneBlkaQBFxdGfRJ_kbD9w"
         }
     ]
 }
