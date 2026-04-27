@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-04-26T23:17:50.931489Z",
+    "last_updated": "2026-04-27T00:05:57.809156Z",
     "show_name": "Inspector Chingum",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Inspector Chingum.",
-    "total_episodes": 89,
+    "total_episodes": 90,
     "episodes": [
         {
             "id": "vJCiPz922ug",
@@ -31,7 +31,7 @@
             "title": "Aakhri Ravan | Ep 01 | Inspector Chingum | 3D Comedy Cartoon In Hindi | Wow Comedy",
             "url": "https://www.youtube.com/watch?v=mu8p4Q3vVV0",
             "duration": 1296.0,
-            "view_count": 93794,
+            "view_count": 93798,
             "uploader": "Wow Kidz Comedy",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/mu8p4Q3vVV0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcr8kMUfrk5jwDPlKaCPWUbl29gg"
@@ -71,7 +71,7 @@
             "title": "Motu Patlu | हिंदी कार्टून | Motu Patlu in Hindi | 2019 | Chingum Hi Chingum",
             "url": "https://www.youtube.com/watch?v=qH672kB7rdM",
             "duration": 676.0,
-            "view_count": 31299463,
+            "view_count": 31299473,
             "uploader": "Motu Patlu",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/qH672kB7rdM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAK40mpKUaL1PDijjc7sukeZ11TvQ"
@@ -121,7 +121,7 @@
             "title": "Sumo Sossa | Ep 37 | Inspector Chingum | 3D Comedy Cartoon In Hindi | Wow Comedy",
             "url": "https://www.youtube.com/watch?v=DVy5ct9_FyQ",
             "duration": 1269.0,
-            "view_count": 85329,
+            "view_count": 85331,
             "uploader": "Wow Kidz Comedy",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/DVy5ct9_FyQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVHtuY97icYPxVzP8_PO5i7cErWw"
@@ -161,7 +161,7 @@
             "title": "Inspector Chingum | Sticky Car Chor | Animated Stories For Kids |Wow Kidz Action| #spot",
             "url": "https://www.youtube.com/watch?v=3fKBZ0iBq1k",
             "duration": 1260.0,
-            "view_count": 804263,
+            "view_count": 804455,
             "uploader": "Wow Kidz Action",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/3fKBZ0iBq1k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPyiCbva5KaOJcXs7Bz0WifIwv6w"
@@ -895,6 +895,16 @@
             "uploader": "Wow Kidz Comedy",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/5Dd-h1-TLCk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTERGuazI0LIT9V4fAk9hpSb1Mjw"
+        },
+        {
+            "id": "rZ9b7npv5iY",
+            "title": "Inspector Chingum | Helicopter Ride | Animated Stories For Kids | Wow Kidz Action",
+            "url": "https://www.youtube.com/watch?v=rZ9b7npv5iY",
+            "duration": 1271.0,
+            "view_count": 51796,
+            "uploader": "Wow Kidz Action",
+            "category": "cartoons/inspector_chingum",
+            "thumbnail": "https://i.ytimg.com/vi/rZ9b7npv5iY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvPoYkA70yxgXMEMYk6cXL-ZjITg"
         }
     ]
 }
