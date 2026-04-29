@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-04-29T21:27:09.202327Z",
+    "last_updated": "2026-04-29T22:24:35.643488Z",
     "show_name": "Eena Meena Deeka",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Eena Meena Deeka.",
-    "total_episodes": 55,
+    "total_episodes": 56,
     "episodes": [
         {
             "id": "cXh1zpCILgI",
@@ -21,7 +21,7 @@
             "title": "Bollywood Dangal - Lost Island | Popcorn Factory - Eena Meena Deeka",
             "url": "https://www.youtube.com/watch?v=v64Y61Th44w",
             "duration": 929.0,
-            "view_count": 1096843,
+            "view_count": 1096861,
             "uploader": "WowKidz",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/v64Y61Th44w/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC10edUxcDVIq4OkuqFyl_Cw87bMw"
@@ -61,7 +61,7 @@
             "title": "Bollywood Dangal - Tree House | Science Lab - Eena Meena Deeka",
             "url": "https://www.youtube.com/watch?v=Qce-evfmUZQ",
             "duration": 878.0,
-            "view_count": 2131736,
+            "view_count": 2131750,
             "uploader": "WowKidz",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/Qce-evfmUZQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyakfQyPbgWa29NmESeK_xIOMzZQ"
@@ -161,7 +161,7 @@
             "title": "Eena Meena Deeka In Hindi | Funny Animated Series | Compilation 03 | Wow Kidz",
             "url": "https://www.youtube.com/watch?v=uo3Xwt0W8kA",
             "duration": 845.0,
-            "view_count": 3449754,
+            "view_count": 3449814,
             "uploader": "WowKidz",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/uo3Xwt0W8kA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASwYyX8_aXu-W5LtXjoXGO4rOSmA"
@@ -261,7 +261,7 @@
             "title": "Bollywood Dangal - Computer World | Ninja Foxie - Eena Meena Deeka",
             "url": "https://www.youtube.com/watch?v=hYUdd0gchRI",
             "duration": 923.0,
-            "view_count": 736190,
+            "view_count": 736280,
             "uploader": "WowKidz",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/hYUdd0gchRI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1SHRo3VYMx1fxOJXsPMJVlYP_wQ"
@@ -341,7 +341,7 @@
             "title": "Bollywood Dangal - Fashion Show | Ocean Liner - Eena Meena Deeka",
             "url": "https://www.youtube.com/watch?v=fay5ZGAteNw",
             "duration": 955.0,
-            "view_count": 478815,
+            "view_count": 478914,
             "uploader": "WowKidz",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/fay5ZGAteNw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnwzOXQUKemxwK61OJ0bjWV6pMLA"
@@ -555,6 +555,16 @@
             "uploader": "Eena Meena Deeka",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/mPHGpbHDqt0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb7RyxtJJ_laMbG7qqfSjv0d-GMw"
+        },
+        {
+            "id": "4Jo7VF1ai1Q",
+            "title": "Bollywood Dangal - Scrapyard | Golden Egg - Eena Meena Deeka",
+            "url": "https://www.youtube.com/watch?v=4Jo7VF1ai1Q",
+            "duration": 911.0,
+            "view_count": 798962,
+            "uploader": "WowKidz",
+            "category": "cartoons/eena_meena_deeka",
+            "thumbnail": "https://i.ytimg.com/vi/4Jo7VF1ai1Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5wrGuo-U3IEl16s2oI-gQzjX_cA"
         }
     ]
 }
