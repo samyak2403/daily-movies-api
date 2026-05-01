@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-05-01T21:11:00.139813Z",
+    "last_updated": "2026-05-01T22:10:25.343930Z",
     "show_name": "Keymon Ache",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Keymon Ache.",
-    "total_episodes": 71,
+    "total_episodes": 72,
     "episodes": [
         {
             "id": "EJ3PeWR_XX4",
@@ -101,7 +101,7 @@
             "title": "Mata ji को बचाओ नहीं तो पड़ेगी Daant🙂🙂! | Keymon Ache",
             "url": "https://www.youtube.com/watch?v=aB36hEZFQas",
             "duration": 1369.0,
-            "view_count": 45766,
+            "view_count": 45779,
             "uploader": "Keymon Ache",
             "category": "cartoons/keymon_ache",
             "thumbnail": "https://i.ytimg.com/vi/aB36hEZFQas/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtDlNYrcmwylybVZRdJ0x-mWDw-g"
@@ -251,7 +251,7 @@
             "title": "Keymon ने बनाया Chocolate World! | Keymon Ache",
             "url": "https://www.youtube.com/watch?v=tzJ_wfzzFjs",
             "duration": 650.0,
-            "view_count": 122579,
+            "view_count": 122631,
             "uploader": "Keymon Ache",
             "category": "cartoons/keymon_ache",
             "thumbnail": "https://i.ytimg.com/vi/tzJ_wfzzFjs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZw9vMBi3lX4kpgxGmPzzxdA7nSw"
@@ -715,6 +715,16 @@
             "uploader": "Keymon Ache",
             "category": "cartoons/keymon_ache",
             "thumbnail": "https://i.ytimg.com/vi/BtLHyGKlKkM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlDNThE8KbAPb6_utbYdNuRRujJw"
+        },
+        {
+            "id": "E76wBVR55Kg",
+            "title": "Mata Ji बना रही है Rohan को Gentleman 🌷🫠! | Keymon Ache",
+            "url": "https://www.youtube.com/watch?v=E76wBVR55Kg",
+            "duration": 731.0,
+            "view_count": 58927,
+            "uploader": "Keymon Ache",
+            "category": "cartoons/keymon_ache",
+            "thumbnail": "https://i.ytimg.com/vi/E76wBVR55Kg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMWyrms2kBwrCtte2MNkl7aDluZw"
         }
     ]
 }
