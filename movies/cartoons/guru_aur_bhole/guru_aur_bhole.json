@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-05-02T19:40:17.649119Z",
+    "last_updated": "2026-05-02T20:16:50.572328Z",
     "show_name": "Guru Aur Bhole",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Guru Aur Bhole.",
-    "total_episodes": 109,
+    "total_episodes": 110,
     "episodes": [
         {
             "id": "dIB77XZkiGo",
@@ -121,7 +121,7 @@
             "title": "गुरु का मूडी मौसम | Moral Stories for Children in Hindi | बच्चों की कहानियाँ | Cartoon for kids",
             "url": "https://www.youtube.com/watch?v=XvHYa9xRr5A",
             "duration": 694.0,
-            "view_count": 1610124,
+            "view_count": 1610131,
             "uploader": "YAY! Time With Guru Bhole",
             "category": "cartoons/guru_aur_bhole",
             "thumbnail": "https://i.ytimg.com/vi/XvHYa9xRr5A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnyxMQgU24cX_h1Yzna5Xel4mENA"
@@ -131,7 +131,7 @@
             "title": "भोले बना बड़बोले | Moral Stories for Children in Hindi | बच्चों की कहानियाँ | Cartoon for kids",
             "url": "https://www.youtube.com/watch?v=dqOP4-yKM5Y",
             "duration": 664.0,
-            "view_count": 3809827,
+            "view_count": 3809992,
             "uploader": "YAY! Time With Guru Bhole",
             "category": "cartoons/guru_aur_bhole",
             "thumbnail": "https://i.ytimg.com/vi/dqOP4-yKM5Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXd8rszxJf0RwlPNFfvoQw-Ttjsg"
@@ -161,7 +161,7 @@
             "title": "रोबोटिक आइलैंड की कहानी | Moral Stories for Children in Hindi | बच्चों की कहानियाँ |Cartoon for kids",
             "url": "https://www.youtube.com/watch?v=TqRvZlyxTG8",
             "duration": 1331.0,
-            "view_count": 14560898,
+            "view_count": 14560976,
             "uploader": "YAY! Time With Guru Bhole",
             "category": "cartoons/guru_aur_bhole",
             "thumbnail": "https://i.ytimg.com/vi/TqRvZlyxTG8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrddA0zfpsTvPhuvYZ8d6rHLSJSg"
@@ -171,7 +171,7 @@
             "title": "Guru Aur Bhole The Gladiators I Guru Bhole New Hindi Movie I Kids Galaxy",
             "url": "https://www.youtube.com/watch?v=WaJH-re_I6M",
             "duration": 4470.0,
-            "view_count": 505993,
+            "view_count": 506118,
             "uploader": "Kids Galaxy",
             "category": "cartoons/guru_aur_bhole",
             "thumbnail": "https://i.ytimg.com/vi/WaJH-re_I6M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4SAzfLPhzF_KPdLNhQ_XCnNgmIg"
@@ -291,7 +291,7 @@
             "title": "भोले बना सांड | Moral Stories for Children in Hindi | बच्चों की कहानियाँ | Cartoon for kids",
             "url": "https://www.youtube.com/watch?v=16hw4h4sF2Y",
             "duration": 674.0,
-            "view_count": 5786160,
+            "view_count": 5786219,
             "uploader": "YAY! Time With Guru Bhole",
             "category": "cartoons/guru_aur_bhole",
             "thumbnail": "https://i.ytimg.com/vi/16hw4h4sF2Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUP-WzMHnnCd7ZSmwCULkpzqnzNw"
@@ -1095,6 +1095,16 @@
             "uploader": "Children Cartoon",
             "category": "cartoons/guru_aur_bhole",
             "thumbnail": "https://i.ytimg.com/vi/EofcP7aybV8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoYZtedDob2xBHcgrt-959-8wsFw"
+        },
+        {
+            "id": "72y3_40IWMA",
+            "title": "ट्रेन यात्रा की दास्तान | Moral Stories for Children in Hindi |बच्चों की कहानियाँ | Cartoon for kids",
+            "url": "https://www.youtube.com/watch?v=72y3_40IWMA",
+            "duration": 1191.0,
+            "view_count": 2362963,
+            "uploader": "YAY! Time With Guru Bhole",
+            "category": "cartoons/guru_aur_bhole",
+            "thumbnail": "https://i.ytimg.com/vi/72y3_40IWMA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALs5CNtB4cqNmZCHbBG_Kw65XQnA"
         }
     ]
 }
