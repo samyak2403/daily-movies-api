@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-05-12T23:46:41.871121Z",
+    "last_updated": "2026-05-13T01:37:03.152245Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 10,
+    "total_episodes": 11,
     "episodes": [
         {
             "id": "B8Jr34UL3x8",
@@ -114,6 +114,17 @@
             "uploader": "Anime TV India",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/4Jw3tJUQOSA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4kiCDVOSrOSpUpq38Woavc_Y7DA",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "Fx3LPNh3QrY",
+            "title": "Oggy and the Cockroaches 💪 FIGHTING FOR OGGY - Full Episodes HD",
+            "url": "https://www.youtube.com/watch?v=Fx3LPNh3QrY",
+            "duration": 3237.0,
+            "view_count": 3888672,
+            "uploader": "Oggy & his friends",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/Fx3LPNh3QrY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFOGNNhxvdvY75_OU93Li7_wjQiQ",
             "show_name": "Various Cartoons"
         }
     ]
