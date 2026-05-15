@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-05-15T19:08:34.755773Z",
+    "last_updated": "2026-05-15T20:29:55.567737Z",
     "show_name": "Inspector Chingum",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Inspector Chingum.",
-    "total_episodes": 97,
+    "total_episodes": 99,
     "episodes": [
         {
             "id": "vJCiPz922ug",
@@ -71,7 +71,7 @@
             "title": "Motu Patlu | हिंदी कार्टून | Motu Patlu in Hindi | 2019 | Chingum Hi Chingum",
             "url": "https://www.youtube.com/watch?v=qH672kB7rdM",
             "duration": 676.0,
-            "view_count": 31381675,
+            "view_count": 31381924,
             "uploader": "Motu Patlu",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/qH672kB7rdM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAK40mpKUaL1PDijjc7sukeZ11TvQ"
@@ -111,7 +111,7 @@
             "title": "Animated Series | Inspector Chingum | Hindi Cartoons For Kids | Ep 11 | Wow Kidz",
             "url": "https://www.youtube.com/watch?v=SLuw9aFD4HI",
             "duration": 1335.0,
-            "view_count": 814413,
+            "view_count": 814418,
             "uploader": "WowKidz",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/SLuw9aFD4HI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANrtieN8uMkcEOsIGYfZkMBxMCDw"
@@ -251,7 +251,7 @@
             "title": "Inspector Chingum | Football Main Goalmaal | Animated Stories For Kids | Wow Kidz Action",
             "url": "https://www.youtube.com/watch?v=GEJ_42jjCYA",
             "duration": 1343.0,
-            "view_count": 205325,
+            "view_count": 205347,
             "uploader": "Wow Kidz Action",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/GEJ_42jjCYA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2oRm852-qvOz9ep5vcqQAUlhFOw"
@@ -975,6 +975,26 @@
             "uploader": "WowKidz",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/febe4Kolt10/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJpv7bnIarUgsOHOne5pBmnOJFQg"
+        },
+        {
+            "id": "827vPR7VDp4",
+            "title": "Animated Series | Inspector Chingum | Wow Kidz | Hindi Cartoons For Kids | Ep 50",
+            "url": "https://www.youtube.com/watch?v=827vPR7VDp4",
+            "duration": 1149.0,
+            "view_count": 463259,
+            "uploader": "WowKidz",
+            "category": "cartoons/inspector_chingum",
+            "thumbnail": "https://i.ytimg.com/vi/827vPR7VDp4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQCI9Mh_r_QJ9p2EV5lxUqMjF3bA"
+        },
+        {
+            "id": "iW6E7cE31OE",
+            "title": "Animated Series | Inspector Chingum | Wow Kidz | Hindi Cartoons For Kids | Ep 34",
+            "url": "https://www.youtube.com/watch?v=iW6E7cE31OE",
+            "duration": 1194.0,
+            "view_count": 796412,
+            "uploader": "WowKidz",
+            "category": "cartoons/inspector_chingum",
+            "thumbnail": "https://i.ytimg.com/vi/iW6E7cE31OE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAS_wp7VR7diugQQfjN5Wb246Vehw"
         }
     ]
 }
