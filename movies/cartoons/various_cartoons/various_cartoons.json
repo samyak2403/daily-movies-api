@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-05-30T14:52:04.455123Z",
+    "last_updated": "2026-05-30T16:03:55.462791Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 11,
+    "total_episodes": 13,
     "episodes": [
         {
             "id": "B8Jr34UL3x8",
@@ -125,6 +125,28 @@
             "uploader": "Oggy & his friends",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/Fx3LPNh3QrY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFOGNNhxvdvY75_OU93Li7_wjQiQ",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "8zmpim-QjEI",
+            "title": "Monkey and Trunk Hindi Full Episodes 1 Hour”“Monkey and Trunk Cartoon in Hindi HD”",
+            "url": "https://www.youtube.com/watch?v=8zmpim-QjEI",
+            "duration": 3854.0,
+            "view_count": 9023,
+            "uploader": "AI KATUN",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/8zmpim-QjEI/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdQe4eFwJtLai4JaU-O14yUMt7Pw",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "d-pYEHErU80",
+            "title": "COCKROACHES VS INSECTS ⚽ Oggy and the Cockroaches - Full Episodes HD",
+            "url": "https://www.youtube.com/watch?v=d-pYEHErU80",
+            "duration": 3435.0,
+            "view_count": 144948,
+            "uploader": "Oggy & his friends",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/d-pYEHErU80/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDt3a43_8c5CzHDMAA40suK8kLWw",
             "show_name": "Various Cartoons"
         }
     ]

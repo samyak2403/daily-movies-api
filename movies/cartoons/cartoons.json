@@ -1,13 +1,13 @@
 {
-    "last_updated": "2026-05-30T14:52:04.523169Z",
-    "total_movies": 137,
+    "last_updated": "2026-05-30T16:03:55.473544Z",
+    "total_movies": 140,
     "movies": [
         {
             "id": "5AO8qfcmMOw",
             "title": "A Turtle's Tale 2: Sammy's Escape From Paradise | Full Animated Adventure Movie | Family Central",
             "url": "https://www.youtube.com/watch?v=5AO8qfcmMOw",
             "duration": 5565.0,
-            "view_count": 11168698,
+            "view_count": 11169027,
             "uploader": "Family Central",
             "category": "cartoons",
             "thumbnail": "https://i.ytimg.com/vi/5AO8qfcmMOw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaOIne0lQLerNDHEaNWRtSi8f7ZQ"
@@ -137,7 +137,7 @@
             "title": "THE BIG TRIP Full Fantasy Adventure Movie In English | Animated Cartoon Movie | English Fairy Tales",
             "url": "https://www.youtube.com/watch?v=239_lAwRisU",
             "duration": 4815.0,
-            "view_count": 7096711,
+            "view_count": 7098210,
             "uploader": "Star Entertainment Kids",
             "category": "cartoons",
             "thumbnail": "https://i.ytimg.com/vi/239_lAwRisU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDL1Mf-M7G4eqIYcXJvAWTEuzo-lA"
@@ -217,7 +217,7 @@
             "title": "Maya The Bee 3: The Golden Orb | FULL MOVIE | Family Honey Gold Animation Adventure",
             "url": "https://www.youtube.com/watch?v=ZzVOrzxko6I",
             "duration": 5297.0,
-            "view_count": 771340,
+            "view_count": 771387,
             "uploader": "Shout! Studios",
             "category": "cartoons",
             "thumbnail": "https://i.ytimg.com/vi/ZzVOrzxko6I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSMjNJIemeEl51RQwbp1VLoaqaQQ"
@@ -227,7 +227,7 @@
             "title": "A Monster?! 😱 | Jungle Beat: Munki & Trunk | Full Episodes | Kids Cartoon 2024",
             "url": "https://www.youtube.com/watch?v=M6gWY5lS9KU",
             "duration": 4986.0,
-            "view_count": 19809326,
+            "view_count": 19816724,
             "uploader": "Jungle Beat",
             "category": "cartoons",
             "thumbnail": "https://i.ytimg.com/vi/M6gWY5lS9KU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgUteb7wKD2Kvrmy9UT3rqUyeUoQ"
@@ -257,7 +257,7 @@
             "title": "The Little Campers | KIDS | Full Movies in English",
             "url": "https://www.youtube.com/watch?v=xFGaf87PvPo",
             "duration": 5613.0,
-            "view_count": 1996201,
+            "view_count": 2012971,
             "uploader": "Boxoffice | FAMILY | Full Movies",
             "category": "cartoons",
             "thumbnail": "https://i.ytimg.com/vi/xFGaf87PvPo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB147_aDCLfY7jrU9DtsLikLiEScA"
@@ -307,7 +307,7 @@
             "title": "The Princess and the Dragon | Full Movie in English (HD) | Disney-Style Family Movie",
             "url": "https://www.youtube.com/watch?v=xnxWGVYVbwc",
             "duration": 4493.0,
-            "view_count": 8429111,
+            "view_count": 8431515,
             "uploader": "Viva Kids Films",
             "category": "cartoons",
             "thumbnail": "https://i.ytimg.com/vi/xnxWGVYVbwc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQg_bcaeegEUYHahMnHA49R5l3sA"
@@ -537,7 +537,7 @@
             "title": "Cats | FULL MOVIE | Dermot Mulroney | Family Animals Animation Adventure",
             "url": "https://www.youtube.com/watch?v=QrnXZgFYMbk",
             "duration": 5446.0,
-            "view_count": 972504,
+            "view_count": 972587,
             "uploader": "Shout! Studios",
             "category": "cartoons",
             "thumbnail": "https://i.ytimg.com/vi/QrnXZgFYMbk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGJywXXuj8XargiRIFtJIoME09Pg"
@@ -647,7 +647,7 @@
             "title": "Free birds full movie 4k",
             "url": "https://www.youtube.com/watch?v=EgzWLBCQUtI",
             "duration": 5464.0,
-            "view_count": 4005873,
+            "view_count": 4009643,
             "uploader": "Tragic Demon",
             "category": "cartoons",
             "thumbnail": "https://i.ytimg.com/vi/EgzWLBCQUtI/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7c5ayzgM-I9YAxRWGW7TKB8Gv0g"
@@ -1371,6 +1371,36 @@
             "uploader": "Curious George Official",
             "category": "cartoons",
             "thumbnail": "https://i.ytimg.com/vi/UisLIsbHQaE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyE9UiB2HrOeDZLqF4x6XNj-ZuMA"
+        },
+        {
+            "id": "F4Tnje7wi-o",
+            "title": "🔴 LIVE! Lilo & Stitch: The Series 🌺🏝️🌊 | 24/7 Full Episodes | @disneykids",
+            "url": "https://www.youtube.com/watch?v=F4Tnje7wi-o",
+            "duration": null,
+            "view_count": null,
+            "uploader": "Disney Kids",
+            "category": "cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/F4Tnje7wi-o/hq720.jpg?v=695d746b&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgP8Qpki_v374NKbRK9dkeaXPy3g"
+        },
+        {
+            "id": "44EKiEhpOD4",
+            "title": "Don't Get Lost! 🐵 Curious George 🐵 Kids Cartoon 🐵 Kids Movies",
+            "url": "https://www.youtube.com/watch?v=44EKiEhpOD4",
+            "duration": 8649.0,
+            "view_count": 96415,
+            "uploader": "Curious George Official",
+            "category": "cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/44EKiEhpOD4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLPJIlWzzIKrovMoZ7EySHJ3Ju3g"
+        },
+        {
+            "id": "btP-bWKDVik",
+            "title": "LIVE 🔴 ULTIMATE MINIONS MARATHON 🍌⚠️💛 Funny and Silly Minions Movie Clips | Mini Moments",
+            "url": "https://www.youtube.com/watch?v=btP-bWKDVik",
+            "duration": null,
+            "view_count": null,
+            "uploader": "Mini Moments ",
+            "category": "cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/btP-bWKDVik/hq720.jpg?v=69a7139b&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHLvZuHmLxnScmbFXW94Wjx2bhTA"
         }
     ]
 }

@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-05-30T14:52:04.536849Z",
+    "last_updated": "2026-05-30T16:03:55.457505Z",
     "show_name": "Bapu",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Bapu.",
-    "total_episodes": 47,
+    "total_episodes": 48,
     "episodes": [
         {
             "id": "tvT3j09ZBR0",
             "title": "Labhu Shaq chaggan is Chor  | Bapu Catoon Ep -1 | and Hindi cartoon |",
             "url": "https://www.youtube.com/watch?v=tvT3j09ZBR0",
             "duration": 677.0,
-            "view_count": 5054,
+            "view_count": 5053,
             "uploader": "BAPU KIDS PLAY TV",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/tvT3j09ZBR0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaWQ-KK5Jtp7WKWYRqtdhnOlEx4Q"
@@ -21,7 +21,7 @@
             "title": "am ke pad | Bapu Catoon Ep - 3 | and Hindi cartoon |",
             "url": "https://www.youtube.com/watch?v=TuPCGy3hhkc",
             "duration": 691.0,
-            "view_count": 1524,
+            "view_count": 1523,
             "uploader": "BAPU KIDS PLAY TV",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/TuPCGy3hhkc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTeIZeBzjLRYdYp474Sv0ZcwioTA"
@@ -41,7 +41,7 @@
             "title": "Suraj Ki High-Tech Cycle || Bapu catoon Ep - 10  | all' comedy catoon and family members catoon",
             "url": "https://www.youtube.com/watch?v=whiZLGgONP0",
             "duration": 668.0,
-            "view_count": 3930,
+            "view_count": 3934,
             "uploader": "BAPU KIDS PLAY TV",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/whiZLGgONP0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6HZMnVqKm-EujHrmqlj43yYW59w"
@@ -81,7 +81,7 @@
             "title": "Shopping competition | Bapu catoon Ep -6 | all' bast comedy catoon bapu animation |",
             "url": "https://www.youtube.com/watch?v=RJrIfDkjpeQ",
             "duration": 696.0,
-            "view_count": 12600,
+            "view_count": 12602,
             "uploader": "BAPU KIDS PLAY TV",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/RJrIfDkjpeQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcSKCWkgCQUtriw2McIdqMNU27Lg"
@@ -151,7 +151,7 @@
             "title": "cycle race | Bapu Catoon Ep - 5 | and Hindi cartoon |",
             "url": "https://www.youtube.com/watch?v=6akoUi_C3hw",
             "duration": 697.0,
-            "view_count": 2378,
+            "view_count": 2379,
             "uploader": "BAPU KIDS PLAY TV",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/6akoUi_C3hw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcUcswIbwxqiH2us91ebpGVwjipQ"
@@ -475,6 +475,16 @@
             "uploader": "Wow World",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/Grwb785ZOsE/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhHIFwoZTAP&rs=AOn4CLA2KcYMxTtvqxlJGQ9G3MuEd6MiKQ"
+        },
+        {
+            "id": "6hBWlcuHqjM",
+            "title": "bapu ep1",
+            "url": "https://www.youtube.com/watch?v=6hBWlcuHqjM",
+            "duration": 858.0,
+            "view_count": 469,
+            "uploader": "Telugu Re entry",
+            "category": "cartoons/bapu",
+            "thumbnail": "https://i.ytimg.com/vi/6hBWlcuHqjM/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARgVIBMofzAP&rs=AOn4CLBHJRIgVSiOGbQzNrr0uLHeMP3-nQ"
         }
     ]
 }
