@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-04-06T11:10:11.711907Z",
+    "last_updated": "2026-05-31T22:21:35.284461Z",
     "show_name": "Doraemon  Today  2026",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Doraemon  Today  2026.",
-    "total_episodes": 2,
+    "total_episodes": 3,
     "episodes": [
         {
             "id": "mKqHzVEHkjE",
@@ -26,6 +26,17 @@
             "uploader": "Maroofch",
             "category": "cartoons/doraemon_today_2026",
             "thumbnail": "https://i.ytimg.com/vi/txc3j3aIhvg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDPFgwHbrIPkES-chMuKTxqQg7Ew",
+            "show_name": "Doraemon  Today  2026"
+        },
+        {
+            "id": "vhwuFiAQgtg",
+            "title": "Doraemon Cartoon Today New Episode 2026",
+            "url": "https://www.youtube.com/watch?v=vhwuFiAQgtg",
+            "duration": 2512.0,
+            "view_count": 30059,
+            "uploader": "Gsjsshs",
+            "category": "cartoons/doraemon_today_2026",
+            "thumbnail": "https://i.ytimg.com/vi/vhwuFiAQgtg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQ9vrdEr5Wj7u2DR1j6C7niGr1ug",
             "show_name": "Doraemon  Today  2026"
         }
     ]
