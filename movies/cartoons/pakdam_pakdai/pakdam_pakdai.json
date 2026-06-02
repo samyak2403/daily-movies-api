@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-06-02T07:03:44.637474Z",
+    "last_updated": "2026-06-02T11:29:37.097442Z",
     "show_name": "Pakdam Pakdai",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pakdam Pakdai.",
-    "total_episodes": 17,
+    "total_episodes": 19,
     "episodes": [
         {
             "id": "Lr9guLa0Ego",
@@ -61,7 +61,7 @@
             "title": "Pakdam Pakdai | Full Episode | Mice Brothers की मस्ती: Doggy Don और Colonel को डराना! 🐭😱",
             "url": "https://www.youtube.com/watch?v=wMRhi-F6Zdw",
             "duration": 1060.0,
-            "view_count": 496902,
+            "view_count": 497727,
             "uploader": "Sonic Gang",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/wMRhi-F6Zdw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB763vOQBIWTOArkhSZUY-9KjFJCQ"
@@ -131,7 +131,7 @@
             "title": "Doggy Don और चूहो की हुई बदमाशी शांत | Pakdam Pakdai",
             "url": "https://www.youtube.com/watch?v=7SplSrjetxU",
             "duration": 1369.0,
-            "view_count": 255866,
+            "view_count": 257853,
             "uploader": "Pakdam Pakdai",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/7SplSrjetxU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdmO31Fha8sS58WtYTGog_hC2ACg"
@@ -175,6 +175,26 @@
             "uploader": "Sonic Gang",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/CRnlpU1YfjY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeCf6RrgLbuyyhE1hhNxFWxkideQ"
+        },
+        {
+            "id": "cmCarIm6Ic8",
+            "title": "Shinchan Hiding in Underground Bunker  😱",
+            "url": "https://www.youtube.com/watch?v=cmCarIm6Ic8",
+            "duration": 668.0,
+            "view_count": 2666617,
+            "uploader": "Tyro Gaming",
+            "category": "cartoons/pakdam_pakdai",
+            "thumbnail": "https://i.ytimg.com/vi/cmCarIm6Ic8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFROIwd65wiuPy-G3mjiCuI-epGg"
+        },
+        {
+            "id": "A3_VvzJiiKI",
+            "title": "Franklin Found Strongest Shinchan Body Parts In Indian Bike Driving 3d",
+            "url": "https://www.youtube.com/watch?v=A3_VvzJiiKI",
+            "duration": 685.0,
+            "view_count": 812490,
+            "uploader": "HandsomeGamer",
+            "category": "cartoons/pakdam_pakdai",
+            "thumbnail": "https://i.ytimg.com/vi/A3_VvzJiiKI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjrgWLL0jmNXAMfb2vCaJpNl0szg"
         }
     ]
 }
