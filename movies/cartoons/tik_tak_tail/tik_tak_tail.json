@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-06-06T23:50:57.537890Z",
+    "last_updated": "2026-06-07T02:09:50.230560Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 27,
+    "total_episodes": 28,
     "episodes": [
         {
             "id": "1sARdYKPDL0",
@@ -275,6 +275,16 @@
             "uploader": "WildBrain Circus ",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/54uwsjCHqnY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBugWwf1Pof7evVkja4q7jdueZaug"
+        },
+        {
+            "id": "L4-gBV3vkk0",
+            "title": "Tik Tak Tail | No Burrow | Funny Cartoons for Children | Cartoons for Kids | WildBrain Cartoons",
+            "url": "https://www.youtube.com/watch?v=L4-gBV3vkk0",
+            "duration": 839.0,
+            "view_count": 1333,
+            "uploader": "WildBrain Action Arena",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/L4-gBV3vkk0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIvmkhaL3s5uK8RgjiNNUTU4Bzqg"
         }
     ]
 }
