@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-06-08T00:31:01.709354Z",
+    "last_updated": "2026-06-08T05:23:21.928665Z",
     "show_name": "Bandbudh Aur Budbak",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Bandbudh Aur Budbak.",
-    "total_episodes": 179,
+    "total_episodes": 180,
     "episodes": [
         {
             "id": "7HCpeObcXME",
@@ -661,7 +661,7 @@
             "title": "Bandbudh Aur Budbak | WATCH LIVE NOW - KidZ",
             "url": "https://www.youtube.com/watch?v=j6bm5sgDuJA",
             "duration": 7495.0,
-            "view_count": 7875368,
+            "view_count": 7882295,
             "uploader": "KidZ",
             "category": "cartoons/bandbudh_aur_budbak",
             "thumbnail": "https://i.ytimg.com/vi/j6bm5sgDuJA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBy7eBYEAw_iqzbN054QfDF5Ov_UA"
@@ -1511,7 +1511,7 @@
             "title": "Bandbudh Aur Budbak | WATCH LIVE NOW - KidZ",
             "url": "https://www.youtube.com/watch?v=SM8m1x2UyMQ",
             "duration": 11683.0,
-            "view_count": 114410,
+            "view_count": 116292,
             "uploader": "KidZ",
             "category": "cartoons/bandbudh_aur_budbak",
             "thumbnail": "https://i.ytimg.com/vi/SM8m1x2UyMQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCB-bYXn64b5ePFBiV_aTsD2m63Hw"
@@ -1795,6 +1795,16 @@
             "uploader": "Ak vloger",
             "category": "cartoons/bandbudh_aur_budbak",
             "thumbnail": "https://i.ytimg.com/vi/fOOAoqhx8K8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMpHVpzwJ06y7443TqYt3ZSGkwZg"
+        },
+        {
+            "id": "30VVpsN7yHU",
+            "title": "Do Bawarchi - Bandbudh Aur Budbak New Episode - Funny Hindi Cartoon For Kids@ZeeKidsToys",
+            "url": "https://www.youtube.com/watch?v=30VVpsN7yHU",
+            "duration": 621.0,
+            "view_count": 98,
+            "uploader": "kids",
+            "category": "cartoons/bandbudh_aur_budbak",
+            "thumbnail": "https://i.ytimg.com/vi/30VVpsN7yHU/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIEgoKDAP&rs=AOn4CLBvNAT42pO1u0M6SJ6bXb3gAOWLmQ"
         }
     ]
 }
