@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-06-08T17:40:37.571720Z",
+    "last_updated": "2026-06-08T20:00:29.537591Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 29,
+    "total_episodes": 30,
     "episodes": [
         {
             "id": "1sARdYKPDL0",
@@ -31,7 +31,7 @@
             "title": "Tik tak tail Non Stop entertainment",
             "url": "https://www.youtube.com/watch?v=1nIa1cEjxKY",
             "duration": 1684.0,
-            "view_count": 302901,
+            "view_count": 302902,
             "uploader": "Nature",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/1nIa1cEjxKY/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhyIF8oRTAP&rs=AOn4CLAtVLrg_4vkCvkIWcLDj8lnKYyQ9w"
@@ -295,6 +295,16 @@
             "uploader": "WildBrain Action Arena",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/zi7T7bb2i38/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh9ICkofzAP&rs=AOn4CLCi24T8BbgrVJiWbbb-hJ0Hetg8ig"
+        },
+        {
+            "id": "SQvOWO1C_Es",
+            "title": "Tik Tak Tail | Jungle Safari | Cartoon Compilation | Cartoons for Children | WildBrain Cartoons",
+            "url": "https://www.youtube.com/watch?v=SQvOWO1C_Es",
+            "duration": 818.0,
+            "view_count": 3812,
+            "uploader": "WildBrain Kids",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/SQvOWO1C_Es/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6BPtSUzq-L4qn8vq3NCSrWbpF_A"
         }
     ]
 }
