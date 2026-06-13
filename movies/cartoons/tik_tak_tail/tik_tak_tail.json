@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-06-13T20:03:56.349405Z",
+    "last_updated": "2026-06-13T21:28:42.101143Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 34,
+    "total_episodes": 36,
     "episodes": [
         {
             "id": "1sARdYKPDL0",
@@ -31,10 +31,10 @@
             "title": "Tik tak tail Non Stop entertainment",
             "url": "https://www.youtube.com/watch?v=1nIa1cEjxKY",
             "duration": 1684.0,
-            "view_count": 303022,
+            "view_count": 303026,
             "uploader": "Nature",
             "category": "cartoons/tik_tak_tail",
-            "thumbnail": "https://i.ytimg.com/vi/1nIa1cEjxKY/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhyIF8oRTAP&rs=AOn4CLAtVLrg_4vkCvkIWcLDj8lnKYyQ9w"
+            "thumbnail": "https://i.ytimg.com/vi/1nIa1cEjxKY/hqdefault.jpg?sqp=-oaymwE6COADEI4CSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhyIF8oRTAPuALzGA==&rs=AOn4CLA8pviHpLVpNHbdFa10jxXaDXTVUg"
         },
         {
             "id": "lBoLspGsTCY",
@@ -54,7 +54,7 @@
             "view_count": 1301,
             "uploader": "WildBrain Preschool",
             "category": "cartoons/tik_tak_tail",
-            "thumbnail": "https://i.ytimg.com/vi/NYFQQplBlkM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCM-7j5zey1pEU048AuHZyNw_GCwQ"
+            "thumbnail": "https://i.ytimg.com/vi/NYFQQplBlkM/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCXWa34x2wa_laxalnaE2ZkYg0KGg"
         },
         {
             "id": "2LqmMWnEHJA",
@@ -271,7 +271,7 @@
             "title": "Tik Tak Tail | Tik Falls In Love | Funny Cartoon Compilation | Videos For Kids",
             "url": "https://www.youtube.com/watch?v=54uwsjCHqnY",
             "duration": 839.0,
-            "view_count": 84959,
+            "view_count": 84962,
             "uploader": "WildBrain Circus ",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/54uwsjCHqnY/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDeNjYohPgzXhRSEtA94mdKkZZNZA"
@@ -345,6 +345,26 @@
             "uploader": "WildBrain Sunshine City",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/5iupWuAJa6Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvD-URq-etEMderKsQrTj8FRkjMQ"
+        },
+        {
+            "id": "wF8OEdoPaoA",
+            "title": "Tik Tak Tail | Cycle Racing | Cartoon Compilation | Funny Cartoons | WildBrain Kids",
+            "url": "https://www.youtube.com/watch?v=wF8OEdoPaoA",
+            "duration": 841.0,
+            "view_count": 1801,
+            "uploader": "WildBrain Action Arena",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/wF8OEdoPaoA/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAPuALzGA==&rs=AOn4CLC2Q7k77MdxGVAF39mtzveRN8iwyg"
+        },
+        {
+            "id": "xFYSMFbTVjk",
+            "title": "Tik Tak Tail | Carrot Ice Cream Parlour | Cartoons For Kids | WildBrain Happy Kids",
+            "url": "https://www.youtube.com/watch?v=xFYSMFbTVjk",
+            "duration": 796.0,
+            "view_count": 1223,
+            "uploader": "WildBrain Sunshine City",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/xFYSMFbTVjk/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLC0d3rZYtSZ0uWlqbj4mGb9hp5Cqg"
         }
     ]
 }
