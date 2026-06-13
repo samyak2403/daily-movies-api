@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-06-12T23:55:30.916298Z",
+    "last_updated": "2026-06-13T02:05:00.170584Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 33,
+    "total_episodes": 34,
     "episodes": [
         {
             "id": "1sARdYKPDL0",
@@ -31,7 +31,7 @@
             "title": "Tik tak tail Non Stop entertainment",
             "url": "https://www.youtube.com/watch?v=1nIa1cEjxKY",
             "duration": 1684.0,
-            "view_count": 303005,
+            "view_count": 303006,
             "uploader": "Nature",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/1nIa1cEjxKY/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhyIF8oRTAP&rs=AOn4CLAtVLrg_4vkCvkIWcLDj8lnKYyQ9w"
@@ -335,6 +335,16 @@
             "uploader": "WildBrain Preschool",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/qfi05OkJ1As/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9GWlyuoxeLY-mMx1jiz-lzvGCFQ"
+        },
+        {
+            "id": "5iupWuAJa6Q",
+            "title": "Tik Tak Tail | Rabbit Tak | Funny Cartoon Compilation | WildBrain Happy Kids",
+            "url": "https://www.youtube.com/watch?v=5iupWuAJa6Q",
+            "duration": 832.0,
+            "view_count": 90714,
+            "uploader": "WildBrain Sunshine City",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/5iupWuAJa6Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvD-URq-etEMderKsQrTj8FRkjMQ"
         }
     ]
 }
