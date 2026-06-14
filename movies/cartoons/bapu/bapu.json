@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-06-13T23:53:59.029549Z",
+    "last_updated": "2026-06-14T02:14:23.966821Z",
     "show_name": "Bapu",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Bapu.",
-    "total_episodes": 55,
+    "total_episodes": 57,
     "episodes": [
         {
             "id": "tvT3j09ZBR0",
@@ -164,7 +164,7 @@
             "view_count": 4667,
             "uploader": "KIDS TV LIVE",
             "category": "cartoons/bapu",
-            "thumbnail": "https://i.ytimg.com/vi/ekH6V3f3uC0/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDKi94l6C5SpC3H81RJI9GgCWw5aw"
+            "thumbnail": "https://i.ytimg.com/vi/ekH6V3f3uC0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjEc5RY0MhZQkb0u_eUNpEOJucFw"
         },
         {
             "id": "HmxrzO-WeAg",
@@ -555,6 +555,26 @@
             "uploader": "WowKidz",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/v32Xja_YQqs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLutvHyNt4O_uo5fGeLkkX5nDObQ"
+        },
+        {
+            "id": "KgVw_oItLFs",
+            "title": "चीकू का Birthday Bash | Cartoon for Kids | Paap-O-Meter",
+            "url": "https://www.youtube.com/watch?v=KgVw_oItLFs",
+            "duration": 639.0,
+            "view_count": 4522895,
+            "uploader": "Bhoot Boss Diaries",
+            "category": "cartoons/bapu",
+            "thumbnail": "https://i.ytimg.com/vi/KgVw_oItLFs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh8VK_tV-x_Q2yIulUAWC2Gss6rA"
+        },
+        {
+            "id": "73oE5jtgQpQ",
+            "title": "Wifi पापा का किस्सा | Moral Stories for Kids | भूत बॉस डायरीज़",
+            "url": "https://www.youtube.com/watch?v=73oE5jtgQpQ",
+            "duration": 692.0,
+            "view_count": 3109171,
+            "uploader": "Bhoot Boss Diaries",
+            "category": "cartoons/bapu",
+            "thumbnail": "https://i.ytimg.com/vi/73oE5jtgQpQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqEcIHVvcSec6VgX5kyZC9t4o-DA"
         }
     ]
 }

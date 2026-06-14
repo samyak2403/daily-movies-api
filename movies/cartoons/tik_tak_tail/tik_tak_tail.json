@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-06-13T23:53:58.921639Z",
+    "last_updated": "2026-06-14T02:14:23.916105Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 36,
+    "total_episodes": 37,
     "episodes": [
         {
             "id": "1sARdYKPDL0",
@@ -31,7 +31,7 @@
             "title": "Tik tak tail Non Stop entertainment",
             "url": "https://www.youtube.com/watch?v=1nIa1cEjxKY",
             "duration": 1684.0,
-            "view_count": 303026,
+            "view_count": 303028,
             "uploader": "Nature",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/1nIa1cEjxKY/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhyIF8oRTAP&rs=AOn4CLAtVLrg_4vkCvkIWcLDj8lnKYyQ9w"
@@ -331,7 +331,7 @@
             "title": "Tik Tak Tail | Picutre Perfect | Funny Cartoon Compilation | Wildbrain Cartoons For Kids",
             "url": "https://www.youtube.com/watch?v=qfi05OkJ1As",
             "duration": 844.0,
-            "view_count": 13313,
+            "view_count": 13314,
             "uploader": "WildBrain Preschool",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/qfi05OkJ1As/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9GWlyuoxeLY-mMx1jiz-lzvGCFQ"
@@ -365,6 +365,16 @@
             "uploader": "WildBrain Sunshine City",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/xFYSMFbTVjk/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLC0d3rZYtSZ0uWlqbj4mGb9hp5Cqg"
+        },
+        {
+            "id": "xTFfMUuEASA",
+            "title": "Tik Tak Tail | Kerala Adventure | Cartoon Compilation | Cartoons for Children | WildBrain Cartoons",
+            "url": "https://www.youtube.com/watch?v=xTFfMUuEASA",
+            "duration": 849.0,
+            "view_count": 7623,
+            "uploader": "WildBrain Kids",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/xTFfMUuEASA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi97DaAP0hrdfaxnRf9asm5yvusA"
         }
     ]
 }
