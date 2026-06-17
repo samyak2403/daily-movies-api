@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-06-17T19:42:38.354193Z",
+    "last_updated": "2026-06-17T21:43:06.614442Z",
     "show_name": "Pokemon",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pokemon.",
-    "total_episodes": 76,
+    "total_episodes": 77,
     "episodes": [
         {
             "id": "sk9AScPi7Jc",
@@ -131,7 +131,7 @@
             "title": "POKEMON MOVIE [HINDI DUBBED] FULL 4K QUALITY #viral #movie",
             "url": "https://www.youtube.com/watch?v=_JPnwf7Gwh4",
             "duration": 3637.0,
-            "view_count": 1552146,
+            "view_count": 1552315,
             "uploader": "Mujeeb_FFx",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/_JPnwf7Gwh4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAa5utRE4EOMJe-7yWNFF-QNyHig"
@@ -765,6 +765,16 @@
             "uploader": "TerrificToons India ",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/vk8QfmMCv4g/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmqBElVGvj_sGqjnjf772uBFi31Q"
+        },
+        {
+            "id": "RHUauMcYlX0",
+            "title": "🔴LIVE: 24 HOURS+ Bluey Episodes in HD! ✨ 💙 | Best Bluey Adventures ☀️ | 18 FULL EPISODES | Bluey",
+            "url": "https://www.youtube.com/watch?v=RHUauMcYlX0",
+            "duration": null,
+            "view_count": null,
+            "uploader": "Bluey - Official Channel",
+            "category": "cartoons/pokemon",
+            "thumbnail": "https://i.ytimg.com/vi/RHUauMcYlX0/hq720.jpg?v=69d8fa9f&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPwOTH1j7X5hdvpr6-r1y0Fko6fg"
         }
     ]
 }
