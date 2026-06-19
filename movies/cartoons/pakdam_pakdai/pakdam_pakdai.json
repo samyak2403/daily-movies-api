@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-06-19T16:34:32.345903Z",
+    "last_updated": "2026-06-19T18:27:12.457313Z",
     "show_name": "Pakdam Pakdai",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pakdam Pakdai.",
-    "total_episodes": 19,
+    "total_episodes": 20,
     "episodes": [
         {
             "id": "Lr9guLa0Ego",
@@ -61,7 +61,7 @@
             "title": "Pakdam Pakdai | Full Episode | Mice Brothers की मस्ती: Doggy Don और Colonel को डराना! 🐭😱",
             "url": "https://www.youtube.com/watch?v=wMRhi-F6Zdw",
             "duration": 1060.0,
-            "view_count": 508516,
+            "view_count": 509007,
             "uploader": "Sonic Gang",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/wMRhi-F6Zdw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB763vOQBIWTOArkhSZUY-9KjFJCQ"
@@ -131,7 +131,7 @@
             "title": "Doggy Don और चूहो की हुई बदमाशी शांत | Pakdam Pakdai",
             "url": "https://www.youtube.com/watch?v=7SplSrjetxU",
             "duration": 1369.0,
-            "view_count": 380931,
+            "view_count": 382018,
             "uploader": "Pakdam Pakdai",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/7SplSrjetxU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdmO31Fha8sS58WtYTGog_hC2ACg"
@@ -195,6 +195,16 @@
             "uploader": "HandsomeGamer",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/A3_VvzJiiKI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjrgWLL0jmNXAMfb2vCaJpNl0szg"
+        },
+        {
+            "id": "nCEHgTdMM2U",
+            "title": "Bandookni ने पकड़ा Onion Chor! | Cartoons for Kids | Bandookni Ki Comedy | Wow Kidz Comedy | #spot",
+            "url": "https://www.youtube.com/watch?v=nCEHgTdMM2U",
+            "duration": 1371.0,
+            "view_count": 3197446,
+            "uploader": "Wow Kidz Comedy",
+            "category": "cartoons/pakdam_pakdai",
+            "thumbnail": "https://i.ytimg.com/vi/nCEHgTdMM2U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMRr0x94hAZjIH2K0gogrTSGY7Dw"
         }
     ]
 }
