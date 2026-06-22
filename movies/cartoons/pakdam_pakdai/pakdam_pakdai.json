@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-06-22T19:53:26.584369Z",
+    "last_updated": "2026-06-22T22:01:44.078170Z",
     "show_name": "Pakdam Pakdai",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pakdam Pakdai.",
-    "total_episodes": 20,
+    "total_episodes": 21,
     "episodes": [
         {
             "id": "Lr9guLa0Ego",
@@ -131,7 +131,7 @@
             "title": "Doggy Don और चूहो की हुई बदमाशी शांत | Pakdam Pakdai",
             "url": "https://www.youtube.com/watch?v=7SplSrjetxU",
             "duration": 1369.0,
-            "view_count": 399600,
+            "view_count": 399754,
             "uploader": "Pakdam Pakdai",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/7SplSrjetxU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdmO31Fha8sS58WtYTGog_hC2ACg"
@@ -205,6 +205,16 @@
             "uploader": "Wow Kidz Comedy",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/nCEHgTdMM2U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMRr0x94hAZjIH2K0gogrTSGY7Dw"
+        },
+        {
+            "id": "IYdN-mkHNlI",
+            "title": "Pakdam Pakdai | Full Episode | Doggy Don चला Interview देने! 🐶🎤 Must Watch!",
+            "url": "https://www.youtube.com/watch?v=IYdN-mkHNlI",
+            "duration": 886.0,
+            "view_count": 1334507,
+            "uploader": "Sonic Gang",
+            "category": "cartoons/pakdam_pakdai",
+            "thumbnail": "https://i.ytimg.com/vi/IYdN-mkHNlI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbyA6ECEu1C174GpFiQEmsQu1SZA"
         }
     ]
 }
