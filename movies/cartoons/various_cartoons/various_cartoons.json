@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-06-24T09:43:45.950015Z",
+    "last_updated": "2026-06-24T21:04:32.104751Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 13,
+    "total_episodes": 14,
     "episodes": [
         {
             "id": "B8Jr34UL3x8",
@@ -147,6 +147,17 @@
             "uploader": "Oggy & his friends",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/d-pYEHErU80/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDt3a43_8c5CzHDMAA40suK8kLWw",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "CmXj_etTJRc",
+            "title": "Doraemon new movie Nobita The Explorer Bow! Bow! (2014) in hindi HD #doraemon #1080p",
+            "url": "https://www.youtube.com/watch?v=CmXj_etTJRc",
+            "duration": 5988.0,
+            "view_count": 16672,
+            "uploader": "Frogen AI",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/CmXj_etTJRc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwMaKz1OGWLFdissu4t3xHo0tm5Q",
             "show_name": "Various Cartoons"
         }
     ]
