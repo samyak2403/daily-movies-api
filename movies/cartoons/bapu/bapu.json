@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-06-23T23:53:04.178351Z",
+    "last_updated": "2026-06-24T01:57:48.465965Z",
     "show_name": "Bapu",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Bapu.",
-    "total_episodes": 61,
+    "total_episodes": 62,
     "episodes": [
         {
             "id": "tvT3j09ZBR0",
@@ -191,7 +191,7 @@
             "title": "Motu Patlu aur Bapu Ki Seekh ��️  Gandhi Jayanti Special | Motu-Patlu",
             "url": "https://www.youtube.com/watch?v=4zv_rXmoDmE",
             "duration": 6556.0,
-            "view_count": 2704544,
+            "view_count": 2704546,
             "uploader": "Sonic Gang Motu Patlu ",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/4zv_rXmoDmE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFddBXOSqrDzLB69Y1idXy-XdLfQ"
@@ -241,7 +241,7 @@
             "title": "च्यूइंग गम की कहानी | Moral Stories for children in Hindi | भूत बॉस डायरीज़",
             "url": "https://www.youtube.com/watch?v=NyA3R-mMuOA",
             "duration": 686.0,
-            "view_count": 101716678,
+            "view_count": 101760512,
             "uploader": "Sony YAY!",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/NyA3R-mMuOA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDyDqUywhbAGJFLQBay8Gmt3AtFQ"
@@ -541,10 +541,10 @@
             "title": "Chhota Bheem - Journey to Raunak Nagar | Adventure Videos for Kids in हिंदी | Fun Kids Videos",
             "url": "https://www.youtube.com/watch?v=kONgQ941GPo",
             "duration": 639.0,
-            "view_count": 12004209,
+            "view_count": 12019733,
             "uploader": "Green Gold TV - Official Channel",
             "category": "cartoons/bapu",
-            "thumbnail": "https://i.ytimg.com/vi/kONgQ941GPo/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBwnD4yqZtNIgkQqsCySrh__PyAOw"
+            "thumbnail": "https://i.ytimg.com/vi/kONgQ941GPo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDo923BulaEVB3rBjwqpNS28pOxZw"
         },
         {
             "id": "v32Xja_YQqs",
@@ -615,6 +615,16 @@
             "uploader": "WowKidz",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/LG-h7q-yQPE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAT8UcGGv6LwLksxgjmhyToEjX8-Q"
+        },
+        {
+            "id": "AZa0MwFLCEs",
+            "title": "Chhota Bheem - Jaggu Bana Maharaj | Fun Kids Videos | Cartoon in Hindi for Kids",
+            "url": "https://www.youtube.com/watch?v=AZa0MwFLCEs",
+            "duration": 613.0,
+            "view_count": 47978907,
+            "uploader": "Green Gold TV - Official Channel",
+            "category": "cartoons/bapu",
+            "thumbnail": "https://i.ytimg.com/vi/AZa0MwFLCEs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgeMvlYNxOj7nVbsq_0aAzpq_yjg"
         }
     ]
 }

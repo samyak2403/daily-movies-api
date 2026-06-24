@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-06-23T23:53:04.113796Z",
+    "last_updated": "2026-06-24T01:57:48.429827Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 42,
+    "total_episodes": 43,
     "episodes": [
         {
             "id": "1sARdYKPDL0",
             "title": "Tik Tak Tail Rabbit Tak Funny Cartoon Compilation",
             "url": "https://www.youtube.com/watch?v=1sARdYKPDL0",
             "duration": 832.0,
-            "view_count": 779126,
+            "view_count": 779127,
             "uploader": "FHKidsTV - Funny Happy Kids TV",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/1sARdYKPDL0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAM4M_7NIxRiiOJIU-P5LEGig_iQA"
@@ -425,6 +425,16 @@
             "uploader": "Drama Fever Hour",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/w2kG6O4kxeE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCldaJZTKHKR-bP1imrxxfyVJNCcQ"
+        },
+        {
+            "id": "ekhlOSaY8K0",
+            "title": "Tik Tak Tail | Baby Sheron | Cartoon Compilation | Funny Cartoons | WildBrain Kids",
+            "url": "https://www.youtube.com/watch?v=ekhlOSaY8K0",
+            "duration": 836.0,
+            "view_count": 4451,
+            "uploader": "WildBrain Action Arena",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/ekhlOSaY8K0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwLmm4gDBIJLcbrGkxlR0ROJziRA"
         }
     ]
 }
