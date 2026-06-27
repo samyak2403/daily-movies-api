@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-06-27T17:53:34.669761Z",
+    "last_updated": "2026-06-27T19:05:54.335981Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 43,
+    "total_episodes": 44,
     "episodes": [
         {
             "id": "1sARdYKPDL0",
@@ -84,7 +84,7 @@
             "view_count": 2535,
             "uploader": "WildBrain Zoo",
             "category": "cartoons/tik_tak_tail",
-            "thumbnail": "https://i.ytimg.com/vi/kdJIheLE4ok/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCiULK8CbkesE7bk5-wljXfPS_-nw"
+            "thumbnail": "https://i.ytimg.com/vi/kdJIheLE4ok/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWvr4t_InSmoq_XIxKFXUf4r7giQ"
         },
         {
             "id": "AJuopvdYsQI",
@@ -435,6 +435,16 @@
             "uploader": "WildBrain Action Arena",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/ekhlOSaY8K0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwLmm4gDBIJLcbrGkxlR0ROJziRA"
+        },
+        {
+            "id": "GaM7pQcZXZs",
+            "title": "Tik Tak Tail | Furniture Trouble | Funny Cartoon Compilation | Videos For Kids",
+            "url": "https://www.youtube.com/watch?v=GaM7pQcZXZs",
+            "duration": 854.0,
+            "view_count": 1553,
+            "uploader": "WildBrain Sunshine City",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/GaM7pQcZXZs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjVmwh9T9LWkCHOAaQfw0IqH-R6A"
         }
     ]
 }
