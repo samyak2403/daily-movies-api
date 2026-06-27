@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-06-27T19:05:54.335981Z",
+    "last_updated": "2026-06-27T20:20:39.221819Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 44,
+    "total_episodes": 45,
     "episodes": [
         {
             "id": "1sARdYKPDL0",
             "title": "Tik Tak Tail Rabbit Tak Funny Cartoon Compilation",
             "url": "https://www.youtube.com/watch?v=1sARdYKPDL0",
             "duration": 832.0,
-            "view_count": 779245,
+            "view_count": 779248,
             "uploader": "FHKidsTV - Funny Happy Kids TV",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/1sARdYKPDL0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAM4M_7NIxRiiOJIU-P5LEGig_iQA"
@@ -71,7 +71,7 @@
             "title": "การ์ตูน ไทย Tik Tak Tail - การ์ตูน ไทย เสือซน ตอนที่ 39 (Best Episode)| หนังการ์ตูน ตลก",
             "url": "https://www.youtube.com/watch?v=JrlonPwUO2k",
             "duration": 2552.0,
-            "view_count": 4835,
+            "view_count": 6201,
             "uploader": "Kids Thailand",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/JrlonPwUO2k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWNegIoJVLdYkatZLJW41zI7_e8A"
@@ -445,6 +445,16 @@
             "uploader": "WildBrain Sunshine City",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/GaM7pQcZXZs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjVmwh9T9LWkCHOAaQfw0IqH-R6A"
+        },
+        {
+            "id": "TxjIqLtiyME",
+            "title": "Tik Tak Tail | Jungle Safari | Funny Cartoon Compilation | WildBrain Happy Kids",
+            "url": "https://www.youtube.com/watch?v=TxjIqLtiyME",
+            "duration": 818.0,
+            "view_count": 1145,
+            "uploader": "WildBrain Sunshine City",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/TxjIqLtiyME/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwlavohH8mM-N5Nyjw_WJ56KDUWw"
         }
     ]
 }
