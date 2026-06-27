@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-06-27T10:37:41.167326Z",
+    "last_updated": "2026-06-27T15:26:52.945737Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 14,
+    "total_episodes": 15,
     "episodes": [
         {
             "id": "B8Jr34UL3x8",
@@ -158,6 +158,17 @@
             "uploader": "Frogen AI",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/CmXj_etTJRc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwMaKz1OGWLFdissu4t3xHo0tm5Q",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "odtMuPHf8Lg",
+            "title": "जादुई झाड़ू  Oggy and the Cockroaches हिंदी  Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=odtMuPHf8Lg",
+            "duration": 3958.0,
+            "view_count": 356136,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/odtMuPHf8Lg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6AXSMJdLwgJS3poy7cQpyrdf4ZA",
             "show_name": "Various Cartoons"
         }
     ]
