@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-06-30T16:16:19.967645Z",
+    "last_updated": "2026-06-30T18:21:20.426066Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 15,
+    "total_episodes": 16,
     "episodes": [
         {
             "id": "B8Jr34UL3x8",
@@ -22,7 +22,7 @@
             "title": " 🔥 Tokyo Revengers Season 1 Complete Series Hindi Dub | Full Episodes in HD",
             "url": "https://www.youtube.com/watch?v=GI8n08_lWS8",
             "duration": 33971.0,
-            "view_count": 821764,
+            "view_count": 821884,
             "uploader": "MAHARAJ PRODUCTION ",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/GI8n08_lWS8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbbbnX1-bPd4xtOs1xluSPhdgm_Q",
@@ -169,6 +169,17 @@
             "uploader": "Oggy Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/odtMuPHf8Lg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6AXSMJdLwgJS3poy7cQpyrdf4ZA",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "S1otNApkx08",
+            "title": "सुपरहीरो बनाम सुपर खलनायक Oggy and the Cockroaches हिंदी Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=S1otNApkx08",
+            "duration": 3996.0,
+            "view_count": 410483,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/S1otNApkx08/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIRsQl8s95ERyscuo34FaCC69arg",
             "show_name": "Various Cartoons"
         }
     ]
