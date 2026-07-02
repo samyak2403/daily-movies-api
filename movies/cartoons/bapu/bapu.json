@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-07-02T21:32:12.600237Z",
+    "last_updated": "2026-07-02T22:47:34.462812Z",
     "show_name": "Bapu",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Bapu.",
-    "total_episodes": 70,
+    "total_episodes": 71,
     "episodes": [
         {
             "id": "tvT3j09ZBR0",
@@ -81,7 +81,7 @@
             "title": "Shopping competition | Bapu catoon Ep -6 | all' bast comedy catoon bapu animation |",
             "url": "https://www.youtube.com/watch?v=RJrIfDkjpeQ",
             "duration": 696.0,
-            "view_count": 13163,
+            "view_count": 13161,
             "uploader": "BAPU KIDS PLAY TV",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/RJrIfDkjpeQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcSKCWkgCQUtriw2McIdqMNU27Lg"
@@ -101,7 +101,7 @@
             "title": "Peppa Pig in Hindi - Shopping - हिंदी Kahaniya - Hindi Cartoons for Kids",
             "url": "https://www.youtube.com/watch?v=1R_Wg95QotE",
             "duration": 3801.0,
-            "view_count": 28880359,
+            "view_count": 28880542,
             "uploader": "पेप्पा पिग हिंदी - आधिकारिक चैनल",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/1R_Wg95QotE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbVOWU_gGvgDdsQgj7QOGlYVYoig"
@@ -221,7 +221,7 @@
             "title": "घमंडी  राजा का पार्क | बच्चों की कहानियाँ | Moral Stories for Children in Hindi | भूत बॉस डायरीज़",
             "url": "https://www.youtube.com/watch?v=nnnMwaE7aTg",
             "duration": 1362.0,
-            "view_count": 41743683,
+            "view_count": 41743703,
             "uploader": "Sony YAY!",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/nnnMwaE7aTg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoDOFlFzycrfaqajCecCBfpoBGQQ"
@@ -451,7 +451,7 @@
             "title": "हिंदी Oggy and the Cockroaches 🔥🌪 TIME TO RELAX 🔥🌪 Hindi Cartoons for Kids",
             "url": "https://www.youtube.com/watch?v=clkPZY9CPX0",
             "duration": 1199.0,
-            "view_count": 69693408,
+            "view_count": 69734186,
             "uploader": "Oggy Hindi - हिन्दी",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/clkPZY9CPX0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6gEEyQnLKVO017a4tl_yBGGYCwg"
@@ -705,6 +705,16 @@
             "uploader": "A1 ADVENTURE",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/Ulb5GNpv8Qo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtJkCVEXR7TY6kK5uRgPKk1jFjfw"
+        },
+        {
+            "id": "bmQcPgaE4gY",
+            "title": "हिंदी Oggy and the Cockroaches 🏡 the house is no longer habitable 🏡 Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=bmQcPgaE4gY",
+            "duration": 1196.0,
+            "view_count": 23419185,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/bapu",
+            "thumbnail": "https://i.ytimg.com/vi/bmQcPgaE4gY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKjFfHG5hA_jWrwAQZj3zbO3st7g"
         }
     ]
 }
