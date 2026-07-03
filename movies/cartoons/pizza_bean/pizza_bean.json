@@ -1,0 +1,21 @@
+{
+    "last_updated": "2026-07-03T08:46:53.096619Z",
+    "show_name": "Pizza Bean",
+    "language": "Hindi",
+    "category": "cartoons",
+    "description": "Auto-generated category for Pizza Bean.",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "id": "6DQrfYYnwi4",
+            "title": "Pizza Bean! | Mr Bean Cartoon Season 2 | Full Episodes | Mr Bean Official",
+            "url": "https://www.youtube.com/watch?v=6DQrfYYnwi4",
+            "duration": 3302.0,
+            "view_count": 33225519,
+            "uploader": "Mr Bean",
+            "category": "cartoons/pizza_bean",
+            "thumbnail": "https://i.ytimg.com/vi/6DQrfYYnwi4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBj2kDJusDMU2-Tx9jW9a8Nz15cRw",
+            "show_name": "Pizza Bean"
+        }
+    ]
+}
