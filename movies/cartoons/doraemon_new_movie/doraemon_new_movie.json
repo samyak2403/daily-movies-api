@@ -1,0 +1,21 @@
+{
+    "last_updated": "2026-07-08T13:05:04.310775Z",
+    "show_name": "Doraemon new movie",
+    "language": "Hindi",
+    "category": "cartoons",
+    "description": "Auto-generated category for Doraemon new movie.",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "id": "l1DQrCwLxrU",
+            "title": "Doraemon new movie in Hindi | Doraemon movie in Hindi | Disney | cartoon | Doraemon and Nobita |",
+            "url": "https://www.youtube.com/watch?v=l1DQrCwLxrU",
+            "duration": 5700,
+            "view_count": 2873,
+            "uploader": "Webshots",
+            "category": "cartoons/doraemon_new_movie",
+            "thumbnail": "https://i.ytimg.com/vi/l1DQrCwLxrU/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOTYD7nc-fbiWud22WHqi1TQMQ4A",
+            "show_name": "Doraemon new movie"
+        }
+    ]
+}

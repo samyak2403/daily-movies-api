@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-07-08T11:24:47.927438Z",
+    "last_updated": "2026-07-08T13:05:04.279853Z",
     "show_name": "Bapu",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Bapu.",
-    "total_episodes": 72,
+    "total_episodes": 74,
     "episodes": [
         {
             "id": "tvT3j09ZBR0",
@@ -41,7 +41,7 @@
             "title": "Suraj Ki High-Tech Cycle || Bapu catoon Ep - 10  | all' comedy catoon and family members catoon",
             "url": "https://www.youtube.com/watch?v=whiZLGgONP0",
             "duration": 668,
-            "view_count": 4180,
+            "view_count": 4182,
             "uploader": "BAPU KIDS PLAY TV",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/whiZLGgONP0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6HZMnVqKm-EujHrmqlj43yYW59w"
@@ -81,7 +81,7 @@
             "title": "Shopping competition | Bapu catoon Ep -6 | all' bast comedy catoon bapu animation |",
             "url": "https://www.youtube.com/watch?v=RJrIfDkjpeQ",
             "duration": 696,
-            "view_count": 13241,
+            "view_count": 13242,
             "uploader": "BAPU KIDS PLAY TV",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/RJrIfDkjpeQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcSKCWkgCQUtriw2McIdqMNU27Lg"
@@ -191,7 +191,7 @@
             "title": "Motu Patlu aur Bapu Ki Seekh ��️  Gandhi Jayanti Special | Motu-Patlu",
             "url": "https://www.youtube.com/watch?v=4zv_rXmoDmE",
             "duration": 6556,
-            "view_count": 2763265,
+            "view_count": 2763628,
             "uploader": "Sonic Gang Motu Patlu ",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/4zv_rXmoDmE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFddBXOSqrDzLB69Y1idXy-XdLfQ"
@@ -620,8 +620,8 @@
             "id": "AZa0MwFLCEs",
             "title": "Chhota Bheem - Jaggu Bana Maharaj | Fun Kids Videos | Cartoon in Hindi for Kids",
             "url": "https://www.youtube.com/watch?v=AZa0MwFLCEs",
-            "duration": 613.0,
-            "view_count": 47987492,
+            "duration": 613,
+            "view_count": 47998975,
             "uploader": "Green Gold TV - Official Channel",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/AZa0MwFLCEs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgeMvlYNxOj7nVbsq_0aAzpq_yjg"
@@ -725,6 +725,26 @@
             "uploader": "Sony YAY!",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/ec0IYt8P_k4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-FOQaq8i_zc2BcZ_xlbEDvWwvzg"
+        },
+        {
+            "id": "osY0Hp_akZ4",
+            "title": "कालाकाण्डी भूत हन्टर्स | Moral Stories for Kids | Funny Videos",
+            "url": "https://www.youtube.com/watch?v=osY0Hp_akZ4",
+            "duration": 692,
+            "view_count": 15199478,
+            "uploader": "Bhoot Boss Diaries",
+            "category": "cartoons/bapu",
+            "thumbnail": "https://i.ytimg.com/vi/osY0Hp_akZ4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeoQuCPSOA8wNINET0R5z5Qlf-jw"
+        },
+        {
+            "id": "cLt_W9nw6QM",
+            "title": "Chhota Bheem - Dholakpur Mein Dussehra Maha Utsav | Dussehra Special | Fun Kids Cartoon Video",
+            "url": "https://www.youtube.com/watch?v=cLt_W9nw6QM",
+            "duration": 995,
+            "view_count": 12720751,
+            "uploader": "Green Gold TV - Official Channel",
+            "category": "cartoons/bapu",
+            "thumbnail": "https://i.ytimg.com/vi/cLt_W9nw6QM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGPt8xP-5I-8qHCNVQywXzVjxaYQ"
         }
     ]
 }

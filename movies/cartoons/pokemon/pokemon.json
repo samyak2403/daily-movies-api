@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-07-08T11:24:47.870395Z",
+    "last_updated": "2026-07-08T13:05:04.380045Z",
     "show_name": "Pokemon",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pokemon.",
-    "total_episodes": 98,
+    "total_episodes": 99,
     "episodes": [
         {
             "id": "sk9AScPi7Jc",
             "title": "Pokemon full in hindi || Season 1 episode 34 fully in hindi || #pokemon anime #Poke'Solo",
             "url": "https://www.youtube.com/watch?v=sk9AScPi7Jc",
             "duration": 1086,
-            "view_count": 314605,
+            "view_count": 314574,
             "uploader": "Poke'Solo",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/sk9AScPi7Jc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNi6Zt9PM2kRZg87m5c7hvk_z6Lg"
@@ -81,7 +81,7 @@
             "title": "Pokemon Battle Ash Charizard Vs Dragonite Orange League Final In Hindi",
             "url": "https://www.youtube.com/watch?v=jVcAehqB47M",
             "duration": 1168,
-            "view_count": 238297,
+            "view_count": 238414,
             "uploader": "TNxLE.RMS!",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/jVcAehqB47M/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJMSZVAr0Meb0SQAjVLnkrut6p6w"
@@ -91,7 +91,7 @@
             "title": "हिंदी Pokemon Season 1 episode 1-🐮Pokémon INDIDO LEAGUE एपिसोड (1)  | Pokémon (HINDI)हिंदी  All in 1",
             "url": "https://www.youtube.com/watch?v=4RW7HoRqqpU",
             "duration": 1156,
-            "view_count": 37985,
+            "view_count": 38045,
             "uploader": "Eox",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/4RW7HoRqqpU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhFV4amk9kDgd_wgsKXNZpSYtpjw"
@@ -121,7 +121,7 @@
             "title": "Ash Vs Red Full Battle in Hindi | Mewtwo Vs Ash Greninja |Pokemon Battle| Pokemon episode in Hindi",
             "url": "https://www.youtube.com/watch?v=9w9GtB0MdWY",
             "duration": 649,
-            "view_count": 131613,
+            "view_count": 131607,
             "uploader": "Cool Infernape",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/9w9GtB0MdWY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAgsRhlv3t-BEX7dZQ381j_yDPnw"
@@ -510,8 +510,8 @@
             "id": "ePFhobCdYr4",
             "title": "Ash Vs Red | Pokemon Master Tournament Final Match | Fan-made Story By PokeXAura",
             "url": "https://www.youtube.com/watch?v=ePFhobCdYr4",
-            "duration": 1053.0,
-            "view_count": 961830,
+            "duration": 1053,
+            "view_count": 965273,
             "uploader": "PokeXAura",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/ePFhobCdYr4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJeSPJ7mWF7uIQgQIis6Peo6tnRQ"
@@ -985,6 +985,16 @@
             "uploader": "Poke 555",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/gMCRgurXpbo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFT6lXR8a2rat679kdbSixVPZUrA"
+        },
+        {
+            "id": "Qb_HeHiie4E",
+            "title": "Robot Pacman vs Lava Monster vs Ms Pacman vs Scary Pacman is a Rehearsal to go to Cartoon Cat",
+            "url": "https://www.youtube.com/watch?v=Qb_HeHiie4E",
+            "duration": null,
+            "view_count": null,
+            "uploader": "Films in Real Life",
+            "category": "cartoons/pokemon",
+            "thumbnail": "https://i.ytimg.com/vi/Qb_HeHiie4E/hq720.jpg?v=6810f1d6&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFpLGzG1DKDHGDCZmxsouNKomozA"
         }
     ]
 }
