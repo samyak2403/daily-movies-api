@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-07-10T13:44:38.327486Z",
+    "last_updated": "2026-07-10T16:13:27.157704Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 54,
+    "total_episodes": 56,
     "episodes": [
         {
             "id": "1sARdYKPDL0",
@@ -545,6 +545,26 @@
             "uploader": "WildBrain Hero Tower",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/BnRO3-3Aryw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWz_Z93bP_SUCy6Fd70YLq69464w"
+        },
+        {
+            "id": "xw5crXGUbIE",
+            "title": "Tik Tak Tail | Tak Turns Vegetarian | Funny Cartoon Compilation | Videos For Kids",
+            "url": "https://www.youtube.com/watch?v=xw5crXGUbIE",
+            "duration": 854,
+            "view_count": 1616,
+            "uploader": "WildBrain Action Arena",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/xw5crXGUbIE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPTzpnPGdveqe9LM3gNkuXRb_wRA"
+        },
+        {
+            "id": "ncIrHRkzj8s",
+            "title": "Tik Tak Tail | Yoga | Cartoon Compilation | Funny Cartoons | WildBrain Kids",
+            "url": "https://www.youtube.com/watch?v=ncIrHRkzj8s",
+            "duration": 826,
+            "view_count": 5692,
+            "uploader": "WildBrain Action Arena",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/ncIrHRkzj8s/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIEEoTjAP&rs=AOn4CLDn6X-GbSaY4xvg9DeVPh9xaOGQig"
         }
     ]
 }
