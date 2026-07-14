@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-07-14T11:53:31.313792Z",
+    "last_updated": "2026-07-14T13:05:07.968344Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 57,
+    "total_episodes": 59,
     "episodes": [
         {
             "id": "1sARdYKPDL0",
             "title": "Tik Tak Tail Rabbit Tak Funny Cartoon Compilation",
             "url": "https://www.youtube.com/watch?v=1sARdYKPDL0",
             "duration": 832,
-            "view_count": 779788,
+            "view_count": 779787,
             "uploader": "FHKidsTV - Funny Happy Kids TV",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/1sARdYKPDL0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAM4M_7NIxRiiOJIU-P5LEGig_iQA"
@@ -350,11 +350,11 @@
             "id": "wF8OEdoPaoA",
             "title": "Tik Tak Tail | Cycle Racing | Cartoon Compilation | Funny Cartoons | WildBrain Kids",
             "url": "https://www.youtube.com/watch?v=wF8OEdoPaoA",
-            "duration": 841.0,
-            "view_count": 1801,
+            "duration": 841,
+            "view_count": 1804,
             "uploader": "WildBrain Action Arena",
             "category": "cartoons/tik_tak_tail",
-            "thumbnail": "https://i.ytimg.com/vi/wF8OEdoPaoA/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAPuALzGA==&rs=AOn4CLC2Q7k77MdxGVAF39mtzveRN8iwyg"
+            "thumbnail": "https://i.ytimg.com/vi/wF8OEdoPaoA/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLBguK4mpdXV4lw75EFMx_Px82cTlA"
         },
         {
             "id": "xFYSMFbTVjk",
@@ -575,6 +575,26 @@
             "uploader": "WildBrain Kids",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/OAtOyfotBpw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUHUUMekHkTH0ezPJ-EC9LZELujA"
+        },
+        {
+            "id": "HmjKQ0mHfsA",
+            "title": "Tik Tak Tail | Tik Falls In Love | Cartoon Compilation | Funny Cartoons | WildBrain Kids",
+            "url": "https://www.youtube.com/watch?v=HmjKQ0mHfsA",
+            "duration": 839,
+            "view_count": 1742,
+            "uploader": "WildBrain Action Arena",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/HmjKQ0mHfsA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLe0f1e9uVnHnI0t1xoVUIKDaZGQ"
+        },
+        {
+            "id": "ypjJ4w3mT_w",
+            "title": "Tik Tak Tail | Friendship Day | Funny Cartoon Compilation | WildBrain Cartoons",
+            "url": "https://www.youtube.com/watch?v=ypjJ4w3mT_w",
+            "duration": 848,
+            "view_count": 2211,
+            "uploader": "WildBrain Hero Tower",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/ypjJ4w3mT_w/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0OB9MOX0JA630O3fcZ0jKtmcHxg"
         }
     ]
 }
