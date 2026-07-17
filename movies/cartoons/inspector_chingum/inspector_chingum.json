@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-07-17T21:07:38.612664Z",
+    "last_updated": "2026-07-17T22:09:06.820943Z",
     "show_name": "Inspector Chingum",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Inspector Chingum.",
-    "total_episodes": 144,
+    "total_episodes": 145,
     "episodes": [
         {
             "id": "vJCiPz922ug",
@@ -190,8 +190,8 @@
             "id": "JUeTvSP4zQ0",
             "title": "Animated Series | Inspector Chingum | Wow Kidz | Hindi Cartoons For Kids | Ep 31",
             "url": "https://www.youtube.com/watch?v=JUeTvSP4zQ0",
-            "duration": 1322.0,
-            "view_count": 744477,
+            "duration": 1322,
+            "view_count": 745087,
             "uploader": "WowKidz",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/JUeTvSP4zQ0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYCmjzgsp3Z7yyrP5Vj7Xxb7QK8w"
@@ -291,7 +291,7 @@
             "title": "Animated Series | Inspector Chingum | Wow Kidz | Hindi Cartoons For Kids | Ep 45",
             "url": "https://www.youtube.com/watch?v=_5Arc7W4Ks4",
             "duration": 1268,
-            "view_count": 1124589,
+            "view_count": 1124591,
             "uploader": "WowKidz",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/_5Arc7W4Ks4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDf9SbIl0CsGT_LuBYCsCh1tkDfug"
@@ -1445,6 +1445,16 @@
             "uploader": "DLS KING 👑 MAMUN",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/jGxv4D_SxKQ/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgTICQofzAP&rs=AOn4CLDx1A8z-vXW6nDsTX24CZrEekP8EQ"
+        },
+        {
+            "id": "ELwirQCNphE",
+            "title": "Santa Trouble Revised | Ep 42 | Inspector Chingum | 3D Comedy Cartoon In Hindi | Wow Comedy",
+            "url": "https://www.youtube.com/watch?v=ELwirQCNphE",
+            "duration": 1315,
+            "view_count": 7197,
+            "uploader": "Wow Kidz Comedy",
+            "category": "cartoons/inspector_chingum",
+            "thumbnail": "https://i.ytimg.com/vi/ELwirQCNphE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1A2Q5bmgMY2rGVUzmGRZp0RXQ8g"
         }
     ]
 }
