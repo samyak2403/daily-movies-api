@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-07-16T20:24:20.348173Z",
+    "last_updated": "2026-07-17T06:48:39.092970Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 17,
+    "total_episodes": 18,
     "episodes": [
         {
             "id": "B8Jr34UL3x8",
@@ -191,6 +191,17 @@
             "uploader": "Big Animation",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/D3R7wBdjvHc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6TkBCwMwPW9Auhkg-RigjDVZt7w",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "1Ke29R-tn2s",
+            "title": "हिन्दी The Daltons 🌵 1H COMPILATION ☀️ Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=1Ke29R-tn2s",
+            "duration": 3913,
+            "view_count": 14494047,
+            "uploader": "The Daltons Hindi - हिन्दी",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/1Ke29R-tn2s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCc09K-mzr0wQe4GPL9MhBegOnmrw",
             "show_name": "Various Cartoons"
         }
     ]
