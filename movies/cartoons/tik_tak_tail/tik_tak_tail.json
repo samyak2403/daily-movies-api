@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-07-18T14:15:52.784865Z",
+    "last_updated": "2026-07-18T15:21:23.550061Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 63,
+    "total_episodes": 64,
     "episodes": [
         {
             "id": "1sARdYKPDL0",
@@ -331,7 +331,7 @@
             "title": "Tik Tak Tail | Picutre Perfect | Funny Cartoon Compilation | Wildbrain Cartoons For Kids",
             "url": "https://www.youtube.com/watch?v=qfi05OkJ1As",
             "duration": 844,
-            "view_count": 13375,
+            "view_count": 13381,
             "uploader": "WildBrain Preschool",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/qfi05OkJ1As/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9GWlyuoxeLY-mMx1jiz-lzvGCFQ"
@@ -635,6 +635,16 @@
             "uploader": "WildBrain Action Arena",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/Pxa-kP04qkQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBx3E3J_vDhpsv2awkHyeYb894ZAQ"
+        },
+        {
+            "id": "AytL2hvnADI",
+            "title": "Tik Tak Tail | Kerala Adventure | Funny Cartoon Compilation | Wildbrain Cartoons For Kids",
+            "url": "https://www.youtube.com/watch?v=AytL2hvnADI",
+            "duration": 849,
+            "view_count": 410,
+            "uploader": "WildBrain Preschool",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/AytL2hvnADI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiPMWVlLN5kwyGRqp1uV7jfH9e_A"
         }
     ]
 }
