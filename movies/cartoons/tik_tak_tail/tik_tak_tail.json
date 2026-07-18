@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-07-18T10:48:00.581616Z",
+    "last_updated": "2026-07-18T11:46:15.117871Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 62,
+    "total_episodes": 63,
     "episodes": [
         {
             "id": "1sARdYKPDL0",
@@ -625,6 +625,16 @@
             "uploader": "WildBrain Kids",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/Ql5akbuIc2Y/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLB1If0Bc0uveMUsSe6noOuP2y8t7w"
+        },
+        {
+            "id": "Pxa-kP04qkQ",
+            "title": "Tik Tak Tail | Tail Goes On A Strike | Cartoon Compilation | Funny Cartoons | WildBrain Kids",
+            "url": "https://www.youtube.com/watch?v=Pxa-kP04qkQ",
+            "duration": 821,
+            "view_count": 682,
+            "uploader": "WildBrain Action Arena",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/Pxa-kP04qkQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBx3E3J_vDhpsv2awkHyeYb894ZAQ"
         }
     ]
 }
