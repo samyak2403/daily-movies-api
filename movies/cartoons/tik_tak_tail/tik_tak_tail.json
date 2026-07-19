@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-07-19T09:31:16.739127Z",
+    "last_updated": "2026-07-19T11:03:28.421507Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 64,
+    "total_episodes": 66,
     "episodes": [
         {
             "id": "1sARdYKPDL0",
@@ -81,7 +81,7 @@
             "title": "TIK TAK TAIL | Shark Attack | Cartoons For Children | Cartoons For Children | WildBrain",
             "url": "https://www.youtube.com/watch?v=kdJIheLE4ok",
             "duration": 854,
-            "view_count": 2593,
+            "view_count": 2595,
             "uploader": "WildBrain Zoo",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/kdJIheLE4ok/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWvr4t_InSmoq_XIxKFXUf4r7giQ"
@@ -131,7 +131,7 @@
             "title": "Tik Tak Tail | Furniture Trouble | Cartoon Compilation | Videos For Kids | WildBrain Cartoons",
             "url": "https://www.youtube.com/watch?v=m1tzhIq4P6g",
             "duration": 854,
-            "view_count": 4232,
+            "view_count": 4235,
             "uploader": "WildBrain Kids",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/m1tzhIq4P6g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApYFcLSS7Q3EMcYfGaWNDxOwsMiA"
@@ -190,8 +190,8 @@
             "id": "ZoBh2aWFYvc",
             "title": "Tik Tak Tail | Tik Falls In Love | Funny Cartoon Compilation | Videos For Kids",
             "url": "https://www.youtube.com/watch?v=ZoBh2aWFYvc",
-            "duration": 839.0,
-            "view_count": 8269,
+            "duration": 839,
+            "view_count": 8331,
             "uploader": "WildBrain Kids",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/ZoBh2aWFYvc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPNR6xhQvfgIMboKxUg-vtj0iWcw"
@@ -645,6 +645,26 @@
             "uploader": "WildBrain Preschool",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/AytL2hvnADI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiPMWVlLN5kwyGRqp1uV7jfH9e_A"
+        },
+        {
+            "id": "ycKsjgZ7O6o",
+            "title": "Tik Tak Tail | Clean Up | Cartoons for Children | WildBrain Cartoons",
+            "url": "https://www.youtube.com/watch?v=ycKsjgZ7O6o",
+            "duration": 828,
+            "view_count": 5196,
+            "uploader": "WildBrain Kids",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/ycKsjgZ7O6o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9FJHVRUAbaU7oqXJx5GtiTD2OOg"
+        },
+        {
+            "id": "R9M6xT90GwM",
+            "title": "Tik Tak Tail | Clean Up | Cartoon Compilation | Funny Cartoons | WildBrain Kids",
+            "url": "https://www.youtube.com/watch?v=R9M6xT90GwM",
+            "duration": 828,
+            "view_count": 1137,
+            "uploader": "WildBrain Action Arena",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/R9M6xT90GwM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKARB5Zj0Mt4nU_Hwk517nN5j4g"
         }
     ]
 }
