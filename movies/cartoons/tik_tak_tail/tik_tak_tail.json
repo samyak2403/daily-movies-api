@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-07-19T21:12:41.909674Z",
+    "last_updated": "2026-07-19T22:16:54.775917Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 67,
+    "total_episodes": 68,
     "episodes": [
         {
             "id": "1sARdYKPDL0",
@@ -675,6 +675,16 @@
             "uploader": "WildBrain Preschool",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/ehDQETb_Vqw/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLB-BuNmZO72HO0CsQSFpP1eZPxeOw"
+        },
+        {
+            "id": "M3cd592eQdU",
+            "title": "Tik Tak Tail | At The Point | Cartoon Compilation | Funny Cartoons | WildBrain Kids",
+            "url": "https://www.youtube.com/watch?v=M3cd592eQdU",
+            "duration": 835,
+            "view_count": 2348,
+            "uploader": "WildBrain Action Arena",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/M3cd592eQdU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrOMdJa74L2Kgs5OxKwc2arylo8Q"
         }
     ]
 }
