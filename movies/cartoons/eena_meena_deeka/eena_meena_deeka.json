@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-07-26T09:44:44.005593Z",
+    "last_updated": "2026-07-26T11:17:52.168023Z",
     "show_name": "Eena Meena Deeka",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Eena Meena Deeka.",
-    "total_episodes": 112,
+    "total_episodes": 114,
     "episodes": [
         {
             "id": "cXh1zpCILgI",
@@ -571,7 +571,7 @@
             "title": "Eena Meena Deeka | Hospital | Funny Cartoon Compilation | Videos For Kids",
             "url": "https://www.youtube.com/watch?v=X9sSWuPDipc",
             "duration": 839,
-            "view_count": 16542598,
+            "view_count": 16542941,
             "uploader": "WildBrain Circus ",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/X9sSWuPDipc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAly_0sbHaLy8fUPn_WYR-Bs5tF8w"
@@ -581,7 +581,7 @@
             "title": "Eena Meena Deeka - Compilation 1 - As seen on Hungama Tv",
             "url": "https://www.youtube.com/watch?v=A89pUAIptuk",
             "duration": 1732,
-            "view_count": 44163897,
+            "view_count": 44164170,
             "uploader": "WowKidz",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/A89pUAIptuk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWe2dyQGW-yaLlKclQd-W4pnt6jg"
@@ -761,7 +761,7 @@
             "title": "Clones Everywhere?! | Eena Meena Deeka Season 3 Compilation | Funny Cartoons",
             "url": "https://www.youtube.com/watch?v=pRBxtlZeVXw",
             "duration": 1313,
-            "view_count": 10884159,
+            "view_count": 10884384,
             "uploader": "Eena Meena Deeka",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/pRBxtlZeVXw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQRPpLwngu543KnRwwbzzA9eWpcg"
@@ -1041,7 +1041,7 @@
             "title": "I Want That Popcorn 🍿 | Eena Meena Deeka | Full Episodes | Cartoons For Kids",
             "url": "https://www.youtube.com/watch?v=uB0aSMC4ITE",
             "duration": 3380,
-            "view_count": 23396,
+            "view_count": 23402,
             "uploader": "Eena Meena Deeka",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/uB0aSMC4ITE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcEmeug8CJV98kyDlujfWYbXOBFA"
@@ -1121,10 +1121,30 @@
             "title": "Eena Meena Deeka | Missing Mummy | Full Episode | Funny Cartoon Compilation | Cartoons for Children",
             "url": "https://www.youtube.com/watch?v=VBdpSVUQ2AI",
             "duration": 879,
-            "view_count": 466806,
+            "view_count": 466812,
             "uploader": "WildBrain Circus ",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/VBdpSVUQ2AI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyX59rTBh3emGPYjzm54DN0YBAqA"
+        },
+        {
+            "id": "b9m8NUGF5m0",
+            "title": "Gym | Eena Meena Deeka | Full Episodes | Cartoons For Kids",
+            "url": "https://www.youtube.com/watch?v=b9m8NUGF5m0",
+            "duration": 7207,
+            "view_count": 16039,
+            "uploader": "Eena Meena Deeka",
+            "category": "cartoons/eena_meena_deeka",
+            "thumbnail": "https://i.ytimg.com/vi/b9m8NUGF5m0/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgsIGYocjAP&rs=AOn4CLB56Udtxni7Aiq2wVNbBMwAEkqD6Q"
+        },
+        {
+            "id": "GnZiJOGojyw",
+            "title": "Gym 🏋 | Eena Meena Deeka | Full Episodes | Cartoons For Kids",
+            "url": "https://www.youtube.com/watch?v=GnZiJOGojyw",
+            "duration": 1276,
+            "view_count": 123368,
+            "uploader": "Eena Meena Deeka",
+            "category": "cartoons/eena_meena_deeka",
+            "thumbnail": "https://i.ytimg.com/vi/GnZiJOGojyw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-y1k8QJ3T4D8xmeMrHV-4R939sg"
         }
     ]
 }
