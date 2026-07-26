@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-07-26T04:56:29.547117Z",
+    "last_updated": "2026-07-26T07:36:56.609563Z",
     "show_name": "Pakdam Pakdai",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pakdam Pakdai.",
-    "total_episodes": 23,
+    "total_episodes": 24,
     "episodes": [
         {
             "id": "Lr9guLa0Ego",
@@ -131,10 +131,10 @@
             "title": "Doggy Don और चूहो की हुई बदमाशी शांत | Pakdam Pakdai",
             "url": "https://www.youtube.com/watch?v=7SplSrjetxU",
             "duration": 1369,
-            "view_count": 580259,
+            "view_count": 581115,
             "uploader": "Pakdam Pakdai",
             "category": "cartoons/pakdam_pakdai",
-            "thumbnail": "https://i.ytimg.com/vi/7SplSrjetxU/hq720.jpg?sqp=-oaymwEfCNAFEJQDSFXyq4qpAxEIARUAAIhCGAFwAcABBrgCFw==&rs=AOn4CLDPS_zaR4O0tZ103rq2s4hEMqJfaQ&usqp=CBc"
+            "thumbnail": "https://i.ytimg.com/vi/7SplSrjetxU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdmO31Fha8sS58WtYTGog_hC2ACg"
         },
         {
             "id": "OD9xUGNUVj0",
@@ -235,6 +235,16 @@
             "uploader": "BoomrangYt",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/J_KCSUyG6OM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJm0JwF01zfaAkzYE73seNuDNNrg"
+        },
+        {
+            "id": "IA9zGUdOJiI",
+            "title": "Pakdam Pakdai | Full Episode | हे! लंगूर होगा तेरा चाचा, मैं हूँ दीमक राजा! 🐵👑😏",
+            "url": "https://www.youtube.com/watch?v=IA9zGUdOJiI",
+            "duration": 1063,
+            "view_count": 814875,
+            "uploader": "Sonic Gang",
+            "category": "cartoons/pakdam_pakdai",
+            "thumbnail": "https://i.ytimg.com/vi/IA9zGUdOJiI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDf5LKGwgKEqrSAuEPzXFkgJHIrvQ"
         }
     ]
 }
