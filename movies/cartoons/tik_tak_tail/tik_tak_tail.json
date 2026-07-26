@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-07-26T17:44:07.475203Z",
+    "last_updated": "2026-07-26T18:49:43.410522Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 71,
+    "total_episodes": 72,
     "episodes": [
         {
             "id": "1sARdYKPDL0",
@@ -641,10 +641,10 @@
             "title": "Tik Tak Tail | Kerala Adventure | Funny Cartoon Compilation | Wildbrain Cartoons For Kids",
             "url": "https://www.youtube.com/watch?v=AytL2hvnADI",
             "duration": 849,
-            "view_count": 419,
+            "view_count": 420,
             "uploader": "WildBrain Preschool",
             "category": "cartoons/tik_tak_tail",
-            "thumbnail": "https://i.ytimg.com/vi/AytL2hvnADI/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAEMIHlVHKrNH-YkR_rGBrTTuUJ9w"
+            "thumbnail": "https://i.ytimg.com/vi/AytL2hvnADI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiPMWVlLN5kwyGRqp1uV7jfH9e_A"
         },
         {
             "id": "ycKsjgZ7O6o",
@@ -715,6 +715,16 @@
             "uploader": "WildBrain Preschool",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/1XwEOA4z2jI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpJYPAHhSYyVoWo7D9FwD94nrfdQ"
+        },
+        {
+            "id": "3ZY0BkHi6aQ",
+            "title": "Tik Tak Tail | Tik Falls In Love | Funny Cartoon Compilation | WildBrain Happy Kids",
+            "url": "https://www.youtube.com/watch?v=3ZY0BkHi6aQ",
+            "duration": 839,
+            "view_count": 2238,
+            "uploader": "WildBrain Sunshine City",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/3ZY0BkHi6aQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkswhPBsPgwuaFZKtN6JqT_a2VIA"
         }
     ]
 }
