@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-07-28T06:25:51.755143Z",
+    "last_updated": "2026-07-28T09:20:00.607856Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 72,
+    "total_episodes": 73,
     "episodes": [
         {
             "id": "1sARdYKPDL0",
@@ -31,7 +31,7 @@
             "title": "Tik tak tail Non Stop entertainment",
             "url": "https://www.youtube.com/watch?v=1nIa1cEjxKY",
             "duration": 1684,
-            "view_count": 304020,
+            "view_count": 304022,
             "uploader": "Nature",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/1nIa1cEjxKY/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhyIF8oRTAP&rs=AOn4CLAtVLrg_4vkCvkIWcLDj8lnKYyQ9w"
@@ -51,7 +51,7 @@
             "title": "Tik Tak Tail | Rabbit Tak | Funny Cartoon Compilation | Wildbrain Cartoons For Kids",
             "url": "https://www.youtube.com/watch?v=NYFQQplBlkM",
             "duration": 832,
-            "view_count": 1346,
+            "view_count": 1347,
             "uploader": "WildBrain Preschool",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/NYFQQplBlkM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCM-7j5zey1pEU048AuHZyNw_GCwQ"
@@ -725,6 +725,16 @@
             "uploader": "WildBrain Sunshine City",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/3ZY0BkHi6aQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkswhPBsPgwuaFZKtN6JqT_a2VIA"
+        },
+        {
+            "id": "rpqZWMnKst8",
+            "title": "Tik Tak Tail | Tooth Fairy | Cartoon Compilation | Funny Cartoons | WildBrain Kids",
+            "url": "https://www.youtube.com/watch?v=rpqZWMnKst8",
+            "duration": 851,
+            "view_count": 10051,
+            "uploader": "WildBrain Action Arena",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/rpqZWMnKst8/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIF0oSDAP&rs=AOn4CLDyHMOFUtSb4y7zTRqTHKh_lDu2kw"
         }
     ]
 }
