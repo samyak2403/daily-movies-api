@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-04-04T16:59:24.422919Z",
+    "last_updated": "2026-07-29T14:52:32.844765Z",
     "show_name": "Doraemon   2026",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Doraemon   2026.",
-    "total_episodes": 1,
+    "total_episodes": 2,
     "episodes": [
         {
             "id": "9dZ9Dl7Z5xE",
@@ -15,6 +15,17 @@
             "uploader": "Rabi official ",
             "category": "cartoons/doraemon_2026",
             "thumbnail": "https://i.ytimg.com/vi/9dZ9Dl7Z5xE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHMQ4sGBhXQtoLpNWMivHhapm0sA",
+            "show_name": "Doraemon   2026"
+        },
+        {
+            "id": "Wtm9l02drcg",
+            "title": "Doraemon New Episode In Hindi 2026 | Doraemon Cartoon | Doraemon In Hindi | Doraemon Movie",
+            "url": "https://www.youtube.com/watch?v=Wtm9l02drcg",
+            "duration": 2524,
+            "view_count": 3764,
+            "uploader": "The Broken Cartoon",
+            "category": "cartoons/doraemon_2026",
+            "thumbnail": "https://i.ytimg.com/vi/Wtm9l02drcg/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLACx2dhQrECp_7RDoO93zU4qMinwQ",
             "show_name": "Doraemon   2026"
         }
     ]
