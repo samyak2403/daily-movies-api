@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-07-29T01:22:41.124518Z",
+    "last_updated": "2026-07-29T10:22:17.527157Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 18,
+    "total_episodes": 19,
     "episodes": [
         {
             "id": "B8Jr34UL3x8",
@@ -202,6 +202,17 @@
             "uploader": "The Daltons Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/1Ke29R-tn2s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCc09K-mzr0wQe4GPL9MhBegOnmrw",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "B4YEc8zzlPA",
+            "title": "GANTZ Complete Series (Ep 1–26) Official Hindi Dubbed | Season 1 & 2 | HD",
+            "url": "https://www.youtube.com/watch?v=B4YEc8zzlPA",
+            "duration": 28714,
+            "view_count": 96155,
+            "uploader": "Anime movie 🔖",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/B4YEc8zzlPA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9uZAjhcvLjtsGG3Gg8TauokepDw",
             "show_name": "Various Cartoons"
         }
     ]
