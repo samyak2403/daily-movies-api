@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-07-30T00:25:54.107513Z",
+    "last_updated": "2026-07-30T03:46:38.753941Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 75,
+    "total_episodes": 76,
     "episodes": [
         {
             "id": "1sARdYKPDL0",
@@ -755,6 +755,16 @@
             "uploader": "Gaming dungeon ",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/nmECRG5T07k/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARhUIGUoYDAP&rs=AOn4CLBjw3YaBIeeWtPIOiuoLrNplkr5nw"
+        },
+        {
+            "id": "G-rK2Dvn6Es",
+            "title": "Tik Tak Tail | Super Vision | Cartoon Compilation | Funny Cartoons | WildBrain Kids",
+            "url": "https://www.youtube.com/watch?v=G-rK2Dvn6Es",
+            "duration": 863,
+            "view_count": 3099,
+            "uploader": "WildBrain Action Arena",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/G-rK2Dvn6Es/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7-DN-GXyqLIsKFCjwa5lIfomY9w"
         }
     ]
 }
