@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-07-29T23:28:01.516589Z",
+    "last_updated": "2026-07-30T00:25:54.107513Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 73,
+    "total_episodes": 75,
     "episodes": [
         {
             "id": "1sARdYKPDL0",
@@ -34,7 +34,7 @@
             "view_count": 304041,
             "uploader": "Nature",
             "category": "cartoons/tik_tak_tail",
-            "thumbnail": "https://i.ytimg.com/vi/1nIa1cEjxKY/hqdefault.jpg?sqp=-oaymwE5COADEI4CSFXyq4qpAysIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhyIF8oRTAPuAIYovOX_wMKCKaS760GGOCoAQ==&rs=AOn4CLA-RJnqlaUO_2wq9XebmMk0ZI6oyg&usqp=CBg"
+            "thumbnail": "https://i.ytimg.com/vi/1nIa1cEjxKY/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhyIF8oRTAP&rs=AOn4CLAtVLrg_4vkCvkIWcLDj8lnKYyQ9w"
         },
         {
             "id": "lBoLspGsTCY",
@@ -735,6 +735,26 @@
             "uploader": "WildBrain Action Arena",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/rpqZWMnKst8/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIF0oSDAP&rs=AOn4CLDyHMOFUtSb4y7zTRqTHKh_lDu2kw"
+        },
+        {
+            "id": "DskRO3x7sCs",
+            "title": "Tik Tak Tail | super Vision | Funny Cartoon Compilation | WildBrain Cartoons",
+            "url": "https://www.youtube.com/watch?v=DskRO3x7sCs",
+            "duration": 863,
+            "view_count": 1609,
+            "uploader": "Mohsin Ali",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/DskRO3x7sCs/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWespwz89XVWACmDEszqDFojsw2Q"
+        },
+        {
+            "id": "nmECRG5T07k",
+            "title": "Tik tak tail episode carrot farm/cartoon for kids in Hindi",
+            "url": "https://www.youtube.com/watch?v=nmECRG5T07k",
+            "duration": 700,
+            "view_count": 2876,
+            "uploader": "Gaming dungeon ",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/nmECRG5T07k/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARhUIGUoYDAP&rs=AOn4CLBjw3YaBIeeWtPIOiuoLrNplkr5nw"
         }
     ]
 }
