@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-02T09:43:37.724575Z",
+    "last_updated": "2026-08-02T20:49:47.294750Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 21,
+    "total_episodes": 22,
     "episodes": [
         {
             "id": "B8Jr34UL3x8",
@@ -235,6 +235,17 @@
             "uploader": "Oggy Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/w4EZwfxmPYg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNk4QPvMnFRGaIX_2UykVSHenxMw",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "j02QiCkXwNM",
+            "title": "Doremon New Latest episode in HindiDoremon New Episode In Hindi Without Zoom Effect",
+            "url": "https://www.youtube.com/watch?v=j02QiCkXwNM",
+            "duration": 3543,
+            "view_count": 51375,
+            "uploader": "Luz de Misericordia",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/j02QiCkXwNM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfrvDst8sHVStje8MBJHlb-6vLrQ",
             "show_name": "Various Cartoons"
         }
     ]
