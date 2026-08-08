@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-08T05:11:00.696110Z",
+    "last_updated": "2026-08-08T06:03:39.055687Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 78,
+    "total_episodes": 79,
     "episodes": [
         {
             "id": "1sARdYKPDL0",
@@ -31,7 +31,7 @@
             "title": "Tik tak tail Non Stop entertainment",
             "url": "https://www.youtube.com/watch?v=1nIa1cEjxKY",
             "duration": 1684,
-            "view_count": 304175,
+            "view_count": 304177,
             "uploader": "Nature",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/1nIa1cEjxKY/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhyIF8oRTAP&rs=AOn4CLAtVLrg_4vkCvkIWcLDj8lnKYyQ9w"
@@ -51,7 +51,7 @@
             "title": "Tik Tak Tail | Rabbit Tak | Funny Cartoon Compilation | Wildbrain Cartoons For Kids",
             "url": "https://www.youtube.com/watch?v=NYFQQplBlkM",
             "duration": 832,
-            "view_count": 1362,
+            "view_count": 1365,
             "uploader": "WildBrain Preschool",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/NYFQQplBlkM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCM-7j5zey1pEU048AuHZyNw_GCwQ"
@@ -120,8 +120,8 @@
             "id": "QMvHzkIQUNM",
             "title": "Tik Tak Tail | No Burrow | Funny Cartoon Compilation | Cartoons for Children",
             "url": "https://www.youtube.com/watch?v=QMvHzkIQUNM",
-            "duration": 839.0,
-            "view_count": 5351,
+            "duration": 839,
+            "view_count": 5513,
             "uploader": "WildBrain Circus ",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/QMvHzkIQUNM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvrcCaubq3Cx0Myrp89x-X2bvlMg"
@@ -771,7 +771,7 @@
             "title": "Tik Tak Tail | Circus | Funny Cartoon Compilation | Videos For Kids",
             "url": "https://www.youtube.com/watch?v=FzAo6m4U1l0",
             "duration": 846,
-            "view_count": 5984,
+            "view_count": 5988,
             "uploader": "WildBrain Circus ",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/FzAo6m4U1l0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRnf8YsU-ck6V9VH8JHfkG0WhpHw"
@@ -785,6 +785,16 @@
             "uploader": "WildBrain Action Arena",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/mIzhU4W57Es/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhPIGUoYzAP&rs=AOn4CLDJMIhJGeEJ76jmvHc3n1s-eDhF8A"
+        },
+        {
+            "id": "oNhM4Ei3LMY",
+            "title": "Tik Tak Tail | Water Theft | Cartoon Compilation | WildBrain Cartoons",
+            "url": "https://www.youtube.com/watch?v=oNhM4Ei3LMY",
+            "duration": 855,
+            "view_count": 436095,
+            "uploader": "WildBrain Kids",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/oNhM4Ei3LMY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9fPA5SzeBYdZuLtR3ox7fzxLatA"
         }
     ]
 }
