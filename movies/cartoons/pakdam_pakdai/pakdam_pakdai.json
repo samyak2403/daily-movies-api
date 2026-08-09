@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-09T17:20:28.980031Z",
+    "last_updated": "2026-08-09T17:57:38.740747Z",
     "show_name": "Pakdam Pakdai",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pakdam Pakdai.",
-    "total_episodes": 26,
+    "total_episodes": 27,
     "episodes": [
         {
             "id": "Lr9guLa0Ego",
@@ -131,7 +131,7 @@
             "title": "Doggy Don और चूहो की हुई बदमाशी शांत | Pakdam Pakdai",
             "url": "https://www.youtube.com/watch?v=7SplSrjetxU",
             "duration": 1369,
-            "view_count": 644452,
+            "view_count": 644769,
             "uploader": "Pakdam Pakdai",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/7SplSrjetxU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdmO31Fha8sS58WtYTGog_hC2ACg"
@@ -265,6 +265,16 @@
             "uploader": "CARTOON VIDEO CHANNEL",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/IQXdjsCPaZM/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARhyIDwoPzAP&rs=AOn4CLCDbvfbektG7OaFLLoAzKOMK4-0NQ"
+        },
+        {
+            "id": "FDtWEG7aJ5Y",
+            "title": "Pakdam Pakdai | Full Episode | Don की Race में बाधा बने 3 शरारती चूहे! 🐭🏁",
+            "url": "https://www.youtube.com/watch?v=FDtWEG7aJ5Y",
+            "duration": 604,
+            "view_count": 1313139,
+            "uploader": "Sonic Gang",
+            "category": "cartoons/pakdam_pakdai",
+            "thumbnail": "https://i.ytimg.com/vi/FDtWEG7aJ5Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmZIfdZrQv6f02KuzSYZ3WzCzjKA"
         }
     ]
 }
