@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-11T20:38:03.054409Z",
+    "last_updated": "2026-08-11T22:22:23.301277Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 22,
+    "total_episodes": 23,
     "episodes": [
         {
             "id": "B8Jr34UL3x8",
@@ -246,6 +246,17 @@
             "uploader": "Luz de Misericordia",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/j02QiCkXwNM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfrvDst8sHVStje8MBJHlb-6vLrQ",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "oEB3PTtnjX4",
+            "title": "हिंदी Oggy and the Cockroaches 😱 पूल राक्षस 😱 Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=oEB3PTtnjX4",
+            "duration": 3990,
+            "view_count": 4844072,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/oEB3PTtnjX4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBe46ydq7n2VrmK5VrlEqmKY43CZg",
             "show_name": "Various Cartoons"
         }
     ]
