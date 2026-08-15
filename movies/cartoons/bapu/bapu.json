@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-15T11:55:20.688807Z",
+    "last_updated": "2026-08-15T12:10:06.967043Z",
     "show_name": "Bapu",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Bapu.",
-    "total_episodes": 89,
+    "total_episodes": 90,
     "episodes": [
         {
             "id": "tvT3j09ZBR0",
@@ -191,7 +191,7 @@
             "title": "Motu Patlu aur Bapu Ki Seekh ��️  Gandhi Jayanti Special | Motu-Patlu",
             "url": "https://www.youtube.com/watch?v=4zv_rXmoDmE",
             "duration": 6556,
-            "view_count": 2996158,
+            "view_count": 2996566,
             "uploader": "Sonic Gang Motu Patlu ",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/4zv_rXmoDmE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFddBXOSqrDzLB69Y1idXy-XdLfQ"
@@ -670,8 +670,8 @@
             "id": "lyjdKpd3c88",
             "title": "Maa-Munna aur Haanikaarak Bapu | Take A Break",
             "url": "https://www.youtube.com/watch?v=lyjdKpd3c88",
-            "duration": 832.0,
-            "view_count": 1565602,
+            "duration": 832,
+            "view_count": 1619115,
             "uploader": "Take A Break",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/lyjdKpd3c88/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAufauGVOqhVOqR_AbLhlTQ46p1cw"
@@ -895,6 +895,16 @@
             "uploader": "BAPU KIDS PLAY TV",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/PzZ8FmMwdlo/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZOC7-3gMrsZxE35WEHb8myrmoPA"
+        },
+        {
+            "id": "Pnf-qCY1idI",
+            "title": "Gattu Battu Season 1 - Episode 39",
+            "url": "https://www.youtube.com/watch?v=Pnf-qCY1idI",
+            "duration": 1281,
+            "view_count": 27303705,
+            "uploader": "JioHotstar Kids",
+            "category": "cartoons/bapu",
+            "thumbnail": "https://i.ytimg.com/vi/Pnf-qCY1idI/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_g6AArgIigIMCAAQARgkIGUoZTAP&rs=AOn4CLAxV_mXRfH7b9hDGlNrPBx9RRGqUg"
         }
     ]
 }

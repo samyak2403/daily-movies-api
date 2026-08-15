@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-13T12:40:48.280505Z",
+    "last_updated": "2026-08-15T12:10:06.916869Z",
     "show_name": "LIVE",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for LIVE.",
-    "total_episodes": 3,
+    "total_episodes": 4,
     "episodes": [
         {
             "id": "rEKifG2XUZg",
@@ -37,6 +37,17 @@
             "uploader": "Peppa Pig - Official Channel",
             "category": "cartoons/live",
             "thumbnail": "https://i.ytimg.com/vi/5JtWpD3yuho/hq720.jpg?v=6a7b38e6&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZidoZwHNPSClwoVvb6CODMqqisQ",
+            "show_name": "LIVE"
+        },
+        {
+            "id": "aPGvK6tJMXk",
+            "title": "🔴 LIVE | Regular Show 🐦🦝 | Cartoon Network",
+            "url": "https://www.youtube.com/watch?v=aPGvK6tJMXk",
+            "duration": null,
+            "view_count": null,
+            "uploader": "Cartoon Network",
+            "category": "cartoons/live",
+            "thumbnail": "https://i.ytimg.com/vi/aPGvK6tJMXk/hq720.jpg?v=695d33d3&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkM84d7UoRJfYIkBIKfIl6jyElaw",
             "show_name": "LIVE"
         }
     ]
