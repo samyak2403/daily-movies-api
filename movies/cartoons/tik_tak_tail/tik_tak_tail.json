@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-08-15T22:58:27.238554Z",
+    "last_updated": "2026-08-15T23:14:33.017204Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 79,
+    "total_episodes": 80,
     "episodes": [
         {
             "id": "1sARdYKPDL0",
             "title": "Tik Tak Tail Rabbit Tak Funny Cartoon Compilation",
             "url": "https://www.youtube.com/watch?v=1sARdYKPDL0",
             "duration": 832,
-            "view_count": 780738,
+            "view_count": 780739,
             "uploader": "FHKidsTV - Funny Happy Kids TV",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/1sARdYKPDL0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAM4M_7NIxRiiOJIU-P5LEGig_iQA"
@@ -795,6 +795,16 @@
             "uploader": "WildBrain Kids",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/oNhM4Ei3LMY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9fPA5SzeBYdZuLtR3ox7fzxLatA"
+        },
+        {
+            "id": "mG3Cjm3Qyrg",
+            "title": "Naruto Kakashi & Might Guy Vs Obito | Naruto Shippuden Badass Moments In Hindi part 20",
+            "url": "https://www.youtube.com/watch?v=mG3Cjm3Qyrg",
+            "duration": 648,
+            "view_count": 880386,
+            "uploader": "POKENATION ",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/mG3Cjm3Qyrg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByeTxf8M4RXkd4nWC9PmRfjAQIlw"
         }
     ]
 }
