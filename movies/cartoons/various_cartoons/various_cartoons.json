@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-21T05:28:41.311633Z",
+    "last_updated": "2026-08-21T06:59:49.648930Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 24,
+    "total_episodes": 25,
     "episodes": [
         {
             "id": "B8Jr34UL3x8",
@@ -268,6 +268,17 @@
             "uploader": "Peppa Pig - Official Channel",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/5j43kLvV6mE/hq720.jpg?v=6a84e4ed&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEKsBbJWsQ7DpeLcIDSsTSElbc6w",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "7DZkQtcW13g",
+            "title": "Peppa Pig 2026 NEWEST Episodes 🐷 Best of Season 10 & 11! 🤩 Summer Adventures 🗺️ | Full Episodes",
+            "url": "https://www.youtube.com/watch?v=7DZkQtcW13g",
+            "duration": null,
+            "view_count": null,
+            "uploader": "Peppa Pig - Official Channel",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/7DZkQtcW13g/hq720.jpg?v=6a87882c&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQ-v98Q_m3FGm25RGd46MBDdqOfg",
             "show_name": "Various Cartoons"
         }
     ]
