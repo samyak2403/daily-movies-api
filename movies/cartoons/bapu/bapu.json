@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-21T06:59:49.665806Z",
+    "last_updated": "2026-08-21T07:42:04.999948Z",
     "show_name": "Bapu",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Bapu.",
-    "total_episodes": 92,
+    "total_episodes": 93,
     "episodes": [
         {
             "id": "tvT3j09ZBR0",
@@ -161,7 +161,7 @@
             "title": "Bapu Ki Kahaniyaan || EP-5 || Tel Ki Khoj",
             "url": "https://www.youtube.com/watch?v=ekH6V3f3uC0",
             "duration": 691,
-            "view_count": 5021,
+            "view_count": 5022,
             "uploader": "KIDS TV LIVE",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/ekH6V3f3uC0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjEc5RY0MhZQkb0u_eUNpEOJucFw"
@@ -191,7 +191,7 @@
             "title": "Motu Patlu aur Bapu Ki Seekh ��️  Gandhi Jayanti Special | Motu-Patlu",
             "url": "https://www.youtube.com/watch?v=4zv_rXmoDmE",
             "duration": 6556,
-            "view_count": 3054259,
+            "view_count": 3054477,
             "uploader": "Sonic Gang Motu Patlu ",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/4zv_rXmoDmE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFddBXOSqrDzLB69Y1idXy-XdLfQ"
@@ -241,7 +241,7 @@
             "title": "च्यूइंग गम की कहानी | Moral Stories for children in Hindi | भूत बॉस डायरीज़",
             "url": "https://www.youtube.com/watch?v=NyA3R-mMuOA",
             "duration": 686,
-            "view_count": 101898558,
+            "view_count": 101898599,
             "uploader": "Sony YAY!",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/NyA3R-mMuOA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDyDqUywhbAGJFLQBay8Gmt3AtFQ"
@@ -291,7 +291,7 @@
             "title": "बिन बुलाये मेहमान  | Moral Stories for Kids | भूत बॉस डायरीज़",
             "url": "https://www.youtube.com/watch?v=63kHHCgTCvI",
             "duration": 664,
-            "view_count": 6918915,
+            "view_count": 6918965,
             "uploader": "Bhoot Boss Diaries",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/63kHHCgTCvI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCx5MFvaWUldYLwOgK8BLVTPObtcw"
@@ -925,6 +925,16 @@
             "uploader": "Farmees - Nursery Rhymes And Kids Songs",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/BiJyYEAURpw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2WxDRXPCjQjOTMyJAhhwz1Ks2_w"
+        },
+        {
+            "id": "MUMCZZl9QCY",
+            "title": "हिंदी Oggy and the Cockroaches 🔧 KEYS & IDEAS 🔧 Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=MUMCZZl9QCY",
+            "duration": 1602,
+            "view_count": 134890872,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/bapu",
+            "thumbnail": "https://i.ytimg.com/vi/MUMCZZl9QCY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIyXtilu937GFpJsY6hbAxftz1rg"
         }
     ]
 }
