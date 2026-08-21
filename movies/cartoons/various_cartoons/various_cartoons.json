@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-21T13:45:40.727669Z",
+    "last_updated": "2026-08-21T15:07:49.763403Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 25,
+    "total_episodes": 26,
     "episodes": [
         {
             "id": "B8Jr34UL3x8",
@@ -198,7 +198,7 @@
             "title": "हिन्दी The Daltons 🌵 1H COMPILATION ☀️ Hindi Cartoons for Kids",
             "url": "https://www.youtube.com/watch?v=1Ke29R-tn2s",
             "duration": 3913,
-            "view_count": 14576420,
+            "view_count": 14576611,
             "uploader": "The Daltons Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/1Ke29R-tn2s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCc09K-mzr0wQe4GPL9MhBegOnmrw",
@@ -279,6 +279,17 @@
             "uploader": "Peppa Pig - Official Channel",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/7DZkQtcW13g/hq720.jpg?v=6a87882c&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQ-v98Q_m3FGm25RGd46MBDdqOfg",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "L5CCBmHyrMM",
+            "title": "Peppa Pig 2026 NEWEST Episodes 🐷 Best of Season 10 & 11! 🤩 Summer Adventures 🗺️ | Full Episodes",
+            "url": "https://www.youtube.com/watch?v=L5CCBmHyrMM",
+            "duration": null,
+            "view_count": null,
+            "uploader": "Peppa Pig - Official Channel",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/L5CCBmHyrMM/hq720.jpg?v=6a87f6c5&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_EdtYetPgVX0O3gGpFh4DFtT7xA",
             "show_name": "Various Cartoons"
         }
     ]
