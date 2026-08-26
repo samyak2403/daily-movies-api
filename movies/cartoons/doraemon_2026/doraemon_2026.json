@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-24T20:22:39.310948Z",
+    "last_updated": "2026-08-26T19:14:18.970749Z",
     "show_name": "Doraemon   2026",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Doraemon   2026.",
-    "total_episodes": 3,
+    "total_episodes": 4,
     "episodes": [
         {
             "id": "9dZ9Dl7Z5xE",
@@ -37,6 +37,17 @@
             "uploader": "islamic Hub Sajawal",
             "category": "cartoons/doraemon_2026",
             "thumbnail": "https://i.ytimg.com/vi/HiNjIShHotI/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBg7VA_q1ZB3NFbaZDGzhvEYvb0pw",
+            "show_name": "Doraemon  2026"
+        },
+        {
+            "id": "HKFgH-g_Sgc",
+            "title": "Doraemon New Episode 2026 - Episode Doraemon Cartoon Movie In Hindi Dubbed 2026 | Gadget Museum",
+            "url": "https://www.youtube.com/watch?v=HKFgH-g_Sgc",
+            "duration": 2537,
+            "view_count": 23407,
+            "uploader": "RealToons",
+            "category": "cartoons/doraemon_2026",
+            "thumbnail": "https://i.ytimg.com/vi/HKFgH-g_Sgc/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB9gmAAtAFigIMCAAQARhJIGUoOjAP&rs=AOn4CLA1p7pYpnlDlJ6t_rjZ9atrnOACjA",
             "show_name": "Doraemon  2026"
         }
     ]
