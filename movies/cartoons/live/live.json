@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-22T14:58:55.620734Z",
+    "last_updated": "2026-09-01T12:10:55.315013Z",
     "show_name": "LIVE",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for LIVE.",
-    "total_episodes": 9,
+    "total_episodes": 10,
     "episodes": [
         {
             "id": "rEKifG2XUZg",
@@ -103,6 +103,17 @@
             "uploader": "Peppa Pig - Official Channel",
             "category": "cartoons/live",
             "thumbnail": "https://i.ytimg.com/vi/VsYFJyVuc_I/hq720.jpg?v=6a886806&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtFysuKwHu_8aILuUEE34nyFaqPw",
+            "show_name": "LIVE"
+        },
+        {
+            "id": "3GLJG9RxLSA",
+            "title": "🔴 LIVE: Peppa Pig 2026 NEWEST Episodes 🐷 Best of Season 10 & 11! 🤩 Summer Adventures | Full Episodes",
+            "url": "https://www.youtube.com/watch?v=3GLJG9RxLSA",
+            "duration": null,
+            "view_count": null,
+            "uploader": "Peppa Pig - Official Channel",
+            "category": "cartoons/live",
+            "thumbnail": "https://i.ytimg.com/vi/3GLJG9RxLSA/hq720.jpg?v=6a967835&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnFi4813dsfuPbvwI8A7M2QnP9eA",
             "show_name": "LIVE"
         }
     ]
