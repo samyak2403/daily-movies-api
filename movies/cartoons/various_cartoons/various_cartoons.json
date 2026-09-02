@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-02T09:01:58.968939Z",
+    "last_updated": "2026-09-02T13:31:08.356947Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 26,
+    "total_episodes": 27,
     "episodes": [
         {
             "id": "B8Jr34UL3x8",
@@ -198,7 +198,7 @@
             "title": "हिन्दी The Daltons 🌵 1H COMPILATION ☀️ Hindi Cartoons for Kids",
             "url": "https://www.youtube.com/watch?v=1Ke29R-tn2s",
             "duration": 3913,
-            "view_count": 14607577,
+            "view_count": 14608087,
             "uploader": "The Daltons Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/1Ke29R-tn2s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCc09K-mzr0wQe4GPL9MhBegOnmrw",
@@ -290,6 +290,17 @@
             "uploader": "Peppa Pig - Official Channel",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/L5CCBmHyrMM/hq720.jpg?v=6a87f6c5&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_EdtYetPgVX0O3gGpFh4DFtT7xA",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "1OYIxb1bcsE",
+            "title": "प्रवेश वर्जित Oggy and the Cockroaches हिंदी Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=1OYIxb1bcsE",
+            "duration": 3941,
+            "view_count": 226308,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/1OYIxb1bcsE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAu2uSdHf_zd6QH9ujIgCM-sPANKw",
             "show_name": "Various Cartoons"
         }
     ]
