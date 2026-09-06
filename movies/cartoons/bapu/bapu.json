@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-06T21:52:31.062397Z",
+    "last_updated": "2026-09-06T23:25:06.035662Z",
     "show_name": "Bapu",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Bapu.",
-    "total_episodes": 99,
+    "total_episodes": 100,
     "episodes": [
         {
             "id": "tvT3j09ZBR0",
@@ -21,7 +21,7 @@
             "title": "am ke pad | Bapu Catoon Ep - 3 | and Hindi cartoon |",
             "url": "https://www.youtube.com/watch?v=TuPCGy3hhkc",
             "duration": 691,
-            "view_count": 2464,
+            "view_count": 2465,
             "uploader": "BAPU KIDS PLAY TV",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/TuPCGy3hhkc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTeIZeBzjLRYdYp474Sv0ZcwioTA"
@@ -81,7 +81,7 @@
             "title": "Shopping competition | Bapu catoon Ep -6 | all' bast comedy catoon bapu animation |",
             "url": "https://www.youtube.com/watch?v=RJrIfDkjpeQ",
             "duration": 696,
-            "view_count": 15067,
+            "view_count": 15068,
             "uploader": "BAPU KIDS PLAY TV",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/RJrIfDkjpeQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcSKCWkgCQUtriw2McIdqMNU27Lg"
@@ -971,7 +971,7 @@
             "title": "The New Guppy! Full Episode w/ Zooli | Bubble Guppies",
             "url": "https://www.youtube.com/watch?v=3d5JtSHC3vw",
             "duration": 1305,
-            "view_count": 93030330,
+            "view_count": 93044686,
             "uploader": "Bubble Guppies Official",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/3d5JtSHC3vw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPAqEUlOmuK2MDRGknrDd59hGt0A"
@@ -981,7 +981,7 @@
             "title": "Stories at the Police Station - Lost Dinosaur | Peppa Pig Official Family Kids Cartoon",
             "url": "https://www.youtube.com/watch?v=KnI9DMBE9nc",
             "duration": 837,
-            "view_count": 74289137,
+            "view_count": 74308681,
             "uploader": "Peppa Pig - Official Channel",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/KnI9DMBE9nc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkwkGJpORJ6JNJTkwuMXmKrtevyA"
@@ -995,6 +995,16 @@
             "uploader": "Shri Chandra Maharaj",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/9SHSsI8kGdg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDo1kvVN5xtx8dhfoYMG-2p1wCkuQ"
+        },
+        {
+            "id": "75Uh4PSWKxM",
+            "title": "Kid Bean | Funny Episodes | Mr Bean World",
+            "url": "https://www.youtube.com/watch?v=75Uh4PSWKxM",
+            "duration": 2558,
+            "view_count": 38039186,
+            "uploader": "Mr Bean World",
+            "category": "cartoons/bapu",
+            "thumbnail": "https://i.ytimg.com/vi/75Uh4PSWKxM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2W9RmZBi0rBnnYVbrYlydUfdWIw"
         }
     ]
 }

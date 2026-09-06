@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-06T21:52:30.812453Z",
+    "last_updated": "2026-09-06T23:25:06.110867Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 80,
+    "total_episodes": 81,
     "episodes": [
         {
             "id": "1sARdYKPDL0",
@@ -31,7 +31,7 @@
             "title": "Tik tak tail Non Stop entertainment",
             "url": "https://www.youtube.com/watch?v=1nIa1cEjxKY",
             "duration": 1684,
-            "view_count": 304669,
+            "view_count": 304670,
             "uploader": "Nature",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/1nIa1cEjxKY/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhyIF8oRTAP&rs=AOn4CLAtVLrg_4vkCvkIWcLDj8lnKYyQ9w"
@@ -71,7 +71,7 @@
             "title": "การ์ตูน ไทย Tik Tak Tail - การ์ตูน ไทย เสือซน ตอนที่ 39 (Best Episode)| หนังการ์ตูน ตลก",
             "url": "https://www.youtube.com/watch?v=JrlonPwUO2k",
             "duration": 2552,
-            "view_count": 7202,
+            "view_count": 7388,
             "uploader": "Kids Thailand",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/JrlonPwUO2k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWNegIoJVLdYkatZLJW41zI7_e8A"
@@ -805,6 +805,16 @@
             "uploader": "POKENATION ",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/mG3Cjm3Qyrg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByeTxf8M4RXkd4nWC9PmRfjAQIlw"
+        },
+        {
+            "id": "zBchBuO7xT0",
+            "title": "การ์ตูน ไทย Tik Tak Tail - การ์ตูน ไทย เสือซน ตอนที่ 03 (Best Episode)| หนังการ์ตูน ตลก",
+            "url": "https://www.youtube.com/watch?v=zBchBuO7xT0",
+            "duration": 1315,
+            "view_count": 8073,
+            "uploader": "Kids Thailand",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/zBchBuO7xT0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsTl8xKbSygoTDgEX2Lm9Ws3HIKQ"
         }
     ]
 }
