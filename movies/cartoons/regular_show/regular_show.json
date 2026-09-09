@@ -1,0 +1,21 @@
+{
+    "last_updated": "2026-09-09T16:16:09.763887Z",
+    "show_name": "Regular Show",
+    "language": "Hindi",
+    "category": "cartoons",
+    "description": "Auto-generated category for Regular Show.",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "id": "4WSVB8B9VCw",
+            "title": "Regular Show: Full Season 6 Marathon | Every Episode Included | Cartoon Network | Live",
+            "url": "https://www.youtube.com/watch?v=4WSVB8B9VCw",
+            "duration": null,
+            "view_count": null,
+            "uploader": "Regular Show",
+            "category": "cartoons/regular_show",
+            "thumbnail": "https://i.ytimg.com/vi/4WSVB8B9VCw/hq720.jpg?v=69808327&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGSodcwjgvBUeCVFZSjdyGvBaZ9w",
+            "show_name": "Regular Show"
+        }
+    ]
+}
