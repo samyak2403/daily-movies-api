@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-12T21:33:36.827968Z",
+    "last_updated": "2026-09-12T23:20:36.425607Z",
     "show_name": "Bapu",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Bapu.",
-    "total_episodes": 102,
+    "total_episodes": 103,
     "episodes": [
         {
             "id": "tvT3j09ZBR0",
@@ -81,7 +81,7 @@
             "title": "Shopping competition | Bapu catoon Ep -6 | all' bast comedy catoon bapu animation |",
             "url": "https://www.youtube.com/watch?v=RJrIfDkjpeQ",
             "duration": 696,
-            "view_count": 15310,
+            "view_count": 15311,
             "uploader": "BAPU KIDS PLAY TV",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/RJrIfDkjpeQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcSKCWkgCQUtriw2McIdqMNU27Lg"
@@ -91,7 +91,7 @@
             "title": "Bapu Ki Kahaniyaan || EP-2 || The Puncture Road",
             "url": "https://www.youtube.com/watch?v=b993eY3quEI",
             "duration": 652,
-            "view_count": 18981,
+            "view_count": 18982,
             "uploader": "KIDS TV LIVE",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/b993eY3quEI/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2uXyqpC1KkHlm0NrEPIA8LVyosA"
@@ -1025,6 +1025,16 @@
             "uploader": "Jugnu Kids - Nursery Rhymes and Best Baby Songs",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/CoP9RYVKSHI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc-1fqL1HXgfPJBF8qyvNjHq_GeA"
+        },
+        {
+            "id": "eYp5BxKKiQc",
+            "title": "Bapu Ki Kahaniyaan || EP-4 || Monkey s Weight Loss",
+            "url": "https://www.youtube.com/watch?v=eYp5BxKKiQc",
+            "duration": 662,
+            "view_count": 679,
+            "uploader": "KIDS TV LIVE",
+            "category": "cartoons/bapu",
+            "thumbnail": "https://i.ytimg.com/vi/eYp5BxKKiQc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsTH3VsvliVLp9IryeaLwc37FFqA"
         }
     ]
 }
