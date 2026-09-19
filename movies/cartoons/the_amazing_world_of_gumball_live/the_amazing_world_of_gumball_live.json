@@ -1,0 +1,21 @@
+{
+    "last_updated": "2026-09-19T09:04:49.538673Z",
+    "show_name": "The Amazing World of Gumball Live",
+    "language": "Hindi",
+    "category": "cartoons",
+    "description": "Auto-generated category for The Amazing World of Gumball Live.",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "id": "nIyaCRNwxhU",
+            "title": "The Amazing World of Gumball Live! | Nonstop Fun | Cartoon Network",
+            "url": "https://www.youtube.com/watch?v=nIyaCRNwxhU",
+            "duration": null,
+            "view_count": null,
+            "uploader": "The Amazing World of Gumball",
+            "category": "cartoons/the_amazing_world_of_gumball_live",
+            "thumbnail": "https://i.ytimg.com/vi/nIyaCRNwxhU/hq720.jpg?v=671a603e&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCN7X6YCy8g6bAtY_aNp1f097aalw",
+            "show_name": "The Amazing World of Gumball Live"
+        }
+    ]
+}
