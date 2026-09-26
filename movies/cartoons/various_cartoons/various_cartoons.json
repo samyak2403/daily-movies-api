@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-12T17:01:39.580313Z",
+    "last_updated": "2026-09-26T16:46:38.712670Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 29,
+    "total_episodes": 30,
     "episodes": [
         {
             "id": "B8Jr34UL3x8",
@@ -323,6 +323,17 @@
             "uploader": "Oggy Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/E7tCnT5LFLA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5biVqf_mJYBdcqqZ9hbOGEcb7tw",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "8bpOE4RXqCo",
+            "title": "Crowbar Jones Ka Action Se Bhare Crazy Adventures!🎬💥🕶️| We Bare Bears Hindi | Kids Cartoon",
+            "url": "https://www.youtube.com/watch?v=8bpOE4RXqCo",
+            "duration": 3582,
+            "view_count": 24631,
+            "uploader": "We Bare Bears Hindi",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/8bpOE4RXqCo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkTRkSPk1LmVGbOeOuOZ2QymoniQ",
             "show_name": "Various Cartoons"
         }
     ]
