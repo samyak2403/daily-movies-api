@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-26T16:46:38.712670Z",
+    "last_updated": "2026-09-27T15:33:50.593937Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 30,
+    "total_episodes": 31,
     "episodes": [
         {
             "id": "B8Jr34UL3x8",
@@ -334,6 +334,17 @@
             "uploader": "We Bare Bears Hindi",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/8bpOE4RXqCo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkTRkSPk1LmVGbOeOuOZ2QymoniQ",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "atk3fkO1wPc",
+            "title": "जादुई औषधि Oggy and the Cockroaches हिंदी Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=atk3fkO1wPc",
+            "duration": 3918,
+            "view_count": 71628,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/atk3fkO1wPc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXD045zCIwqcq3qrksxhYzV_qFyQ",
             "show_name": "Various Cartoons"
         }
     ]
