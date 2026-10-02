@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-03T14:06:05.574487Z",
+    "last_updated": "2026-10-02T18:00:35.260358Z",
     "show_name": "Doraemon   2026",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Doraemon   2026.",
-    "total_episodes": 4,
+    "total_episodes": 5,
     "episodes": [
         {
             "id": "9dZ9Dl7Z5xE",
@@ -49,6 +49,17 @@
             "category": "cartoons/doraemon_2026",
             "thumbnail": "https://i.ytimg.com/vi/HKFgH-g_Sgc/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB9gmAAtAFigIMCAAQARhJIGUoOjAP&rs=AOn4CLA1p7pYpnlDlJ6t_rjZ9atrnOACjA",
             "show_name": "Doraemon  2026"
+        },
+        {
+            "id": "KnLWva6R3cw",
+            "title": "Doraemon New Episode Hindi 2026 | Hindi Dubbed | No Zoom Effect Full Episode Hindi ",
+            "url": "https://www.youtube.com/watch?v=KnLWva6R3cw",
+            "duration": 2472,
+            "view_count": 6321,
+            "uploader": "GSP Hero",
+            "category": "cartoons/doraemon_2026",
+            "thumbnail": "https://i.ytimg.com/vi/KnLWva6R3cw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHeCsznn8ZsczzpqGI-cIwLy9lqA",
+            "show_name": "Doraemon   2026"
         }
     ]
 }
