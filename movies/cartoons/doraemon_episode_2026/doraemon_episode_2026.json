@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-20T14:43:00.051893Z",
+    "last_updated": "2026-10-03T15:07:43.805752Z",
     "show_name": "Doraemon  Episode 2026",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Doraemon  Episode 2026.",
-    "total_episodes": 1,
+    "total_episodes": 2,
     "episodes": [
         {
             "id": "GzzbnRXhQHw",
@@ -15,6 +15,17 @@
             "uploader": "AMADER ISALM 0051",
             "category": "cartoons/doraemon_episode_2026",
             "thumbnail": "https://i.ytimg.com/vi/GzzbnRXhQHw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBwTGkgfubJTSIm0XbT6rJK6Ar8g",
+            "show_name": "Doraemon  Episode 2026"
+        },
+        {
+            "id": "mGBYOQ8Kuv0",
+            "title": "Doraemon Latest Episode 2026 |Hindi Dubbed | No Zoom Effect Full Episode Hindi ",
+            "url": "https://www.youtube.com/watch?v=mGBYOQ8Kuv0",
+            "duration": 3314,
+            "view_count": 10767,
+            "uploader": "Xenia Helena and Live Episode Channel",
+            "category": "cartoons/doraemon_episode_2026",
+            "thumbnail": "https://i.ytimg.com/vi/mGBYOQ8Kuv0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqSgr77xYu_GIOY2BTYYLM1dmexw",
             "show_name": "Doraemon  Episode 2026"
         }
     ]
