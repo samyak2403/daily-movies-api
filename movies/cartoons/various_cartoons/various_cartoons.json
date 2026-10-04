@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-27T15:33:50.593937Z",
+    "last_updated": "2026-10-04T22:32:50.689333Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 31,
+    "total_episodes": 32,
     "episodes": [
         {
             "id": "B8Jr34UL3x8",
@@ -345,6 +345,17 @@
             "uploader": "Oggy Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/atk3fkO1wPc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXD045zCIwqcq3qrksxhYzV_qFyQ",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "u_BD1kbDlwo",
+            "title": "Peppa Pig Tales 2026 🫧 Peppa RESTORES the MUDDY FAMILY CAR! 🚗 BRAND NEW Peppa Pig Episodes",
+            "url": "https://www.youtube.com/watch?v=u_BD1kbDlwo",
+            "duration": 7265,
+            "view_count": 2837097,
+            "uploader": "Peppa Pig - Official Channel",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/u_BD1kbDlwo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgii9dTVBhjg6gQg4KgB&rs=AOn4CLDq3PPCD5rIWjegW8nZIiVII_Q5Sg&usqp=CBU",
             "show_name": "Various Cartoons"
         }
     ]
