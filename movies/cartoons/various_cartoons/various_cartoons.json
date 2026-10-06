@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-10-04T22:32:50.689333Z",
+    "last_updated": "2026-10-06T21:07:48.058138Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 32,
+    "total_episodes": 33,
     "episodes": [
         {
             "id": "B8Jr34UL3x8",
@@ -356,6 +356,17 @@
             "uploader": "Peppa Pig - Official Channel",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/u_BD1kbDlwo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgii9dTVBhjg6gQg4KgB&rs=AOn4CLDq3PPCD5rIWjegW8nZIiVII_Q5Sg&usqp=CBU",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "DxRjkF-iMKE",
+            "title": "DORAEMON OLD EPISODE हिंदी , Doraemon full episode! WATCH NOW",
+            "url": "https://www.youtube.com/watch?v=DxRjkF-iMKE",
+            "duration": 3337,
+            "view_count": 71974,
+            "uploader": "Sportsfact018 ",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/DxRjkF-iMKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZ5lXNkLBizs0NCxXMus33QRWk7g",
             "show_name": "Various Cartoons"
         }
     ]
