@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-10-07T00:41:39.242455Z",
+    "last_updated": "2026-10-07T23:58:07.158168Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 33,
+    "total_episodes": 34,
     "episodes": [
         {
             "id": "B8Jr34UL3x8",
@@ -367,6 +367,17 @@
             "uploader": "Sportsfact018 ",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/DxRjkF-iMKE/hq720_custom_2.jpg?sqp=CIilltYG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnK6cTWTAg1NsCFjXYwg-NjbVMkQ",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "t3cC5U3U6Kk",
+            "title": "हमें ओगी को बचाना होगा!  Oggy and the Cockroaches हिंदी  Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=t3cC5U3U6Kk",
+            "duration": 3987,
+            "view_count": 318314,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/t3cC5U3U6Kk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgjq7rbUBhjg6gQg4KgB&rs=AOn4CLAKK_wpKN5cLtRTVpwwKN2iecXCOw&usqp=CBU",
             "show_name": "Various Cartoons"
         }
     ]
