@@ -1,0 +1,21 @@
+{
+    "last_updated": "2026-10-08T10:37:57.367232Z",
+    "show_name": "NEW Cat",
+    "language": "Hindi",
+    "category": "cartoons",
+    "description": "Auto-generated category for NEW Cat.",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "id": "k9hlWp0qUYE",
+            "title": "NEW Cat! | Mr Bean Cartoon Season 1 | Full Episodes | Mr Bean Official",
+            "url": "https://www.youtube.com/watch?v=k9hlWp0qUYE",
+            "duration": 3230,
+            "view_count": 11353551,
+            "uploader": "Mr Bean",
+            "category": "cartoons/new_cat",
+            "thumbnail": "https://i.ytimg.com/vi/k9hlWp0qUYE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3JjWhCn3F7RnuYr1iDUGygCNpRg",
+            "show_name": "NEW Cat"
+        }
+    ]
+}

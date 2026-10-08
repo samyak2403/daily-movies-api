@@ -1,0 +1,21 @@
+{
+    "last_updated": "2026-10-08T10:37:57.337872Z",
+    "show_name": "DIY Bean",
+    "language": "Hindi",
+    "category": "cartoons",
+    "description": "Auto-generated category for DIY Bean.",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "id": "0YOgFYBF7uY",
+            "title": "DIY Bean | (Mr Bean Cartoon) | Mr Bean Full Episodes | Mr Bean Comedy",
+            "url": "https://www.youtube.com/watch?v=0YOgFYBF7uY",
+            "duration": 2641,
+            "view_count": 17880739,
+            "uploader": "Mr Bean",
+            "category": "cartoons/diy_bean",
+            "thumbnail": "https://i.ytimg.com/vi/0YOgFYBF7uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvggGjFbkWgH9FqYI2AAUKPlZBxA",
+            "show_name": "DIY Bean"
+        }
+    ]
+}
