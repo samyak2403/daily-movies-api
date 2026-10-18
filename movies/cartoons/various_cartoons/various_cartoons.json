@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-10-18T05:40:02.957341Z",
+    "last_updated": "2026-10-18T13:58:40.320491Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 35,
+    "total_episodes": 36,
     "episodes": [
         {
             "id": "B8Jr34UL3x8",
@@ -385,10 +385,21 @@
             "title": "बेकार भोजन | Bas Karo Henry | बच्चों के लिए कार्टून | Hindi Cartoons",
             "url": "https://www.youtube.com/watch?v=mIPXHZ5mMX8",
             "duration": 3601,
-            "view_count": 3956465,
+            "view_count": 3957585,
             "uploader": "Bas Karo Henry",
             "category": "cartoons/various_cartoons",
-            "thumbnail": "https://i.ytimg.com/vi/mIPXHZ5mMX8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWJNCBniwaKC1Y5gWVrYA4eC9k3w",
+            "thumbnail": "https://i.ytimg.com/vi/mIPXHZ5mMX8/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBJ7NrYCZEY7FbhPrkDl7PqjeSkMg",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "_-y3AYHEBQc",
+            "title": "नौका चलाने वाले तिलचट्टे Oggy and the Cockroaches हिंदी Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=_-y3AYHEBQc",
+            "duration": 4003,
+            "view_count": 148898,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/_-y3AYHEBQc/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLD7jEb9TkjBCvgpzg4brmpmNZhwFQ",
             "show_name": "Various Cartoons"
         }
     ]
