@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-10-17T23:08:54.110434Z",
+    "last_updated": "2026-10-18T01:01:01.484492Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 102,
+    "total_episodes": 103,
     "episodes": [
         {
             "id": "1sARdYKPDL0",
@@ -41,7 +41,7 @@
             "title": "การ์ตูน ไทย Tik Tak Tail - การ์ตูน ไทย เสือซน ตอนที่ 37 (Best Episode)| หนังการ์ตูน ตลก",
             "url": "https://www.youtube.com/watch?v=lBoLspGsTCY",
             "duration": 2554,
-            "view_count": 7141,
+            "view_count": 7146,
             "uploader": "Kids Thailand",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/lBoLspGsTCY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbK8yhTY35UojZUtjn6G2PeS9SJw"
@@ -181,7 +181,7 @@
             "title": "การ์ตูน ไทย Tik Tak Tail - การ์ตูน ไทย เสือซน ตอนที่ 38 (Best Episode)| หนังการ์ตูน ตลก",
             "url": "https://www.youtube.com/watch?v=t5rD3n6XcZI",
             "duration": 2539,
-            "view_count": 7390,
+            "view_count": 7401,
             "uploader": "Kids Thailand",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/t5rD3n6XcZI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB40buPrS4x7K3K6CSrI_jf6QTSmg"
@@ -831,7 +831,7 @@
             "title": "การ์ตูน ไทย Tik Tak Tail - การ์ตูน ไทย เสือซน ตอนที่ 29 (Best Episode)| หนังการ์ตูน ตลก",
             "url": "https://www.youtube.com/watch?v=KSgsjMqUPOo",
             "duration": 1275,
-            "view_count": 8317,
+            "view_count": 8339,
             "uploader": "Kids Thailand",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/KSgsjMqUPOo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVUq0n5QdczEbSDrqeQLuk05137A"
@@ -971,7 +971,7 @@
             "title": "การ์ตูน ไทย Tik Tak Tail - การ์ตูน ไทย เสือซน ตอนที่ 12 (Best Episode)| หนังการ์ตูน ตลก",
             "url": "https://www.youtube.com/watch?v=RCVuGhkOu_s",
             "duration": 1278,
-            "view_count": 6620,
+            "view_count": 6729,
             "uploader": "Kids Thailand",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/RCVuGhkOu_s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCo6rehJYxy8tNFghDxYQSKpZuUlQ"
@@ -1025,6 +1025,16 @@
             "uploader": "WildBrain Preschool",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/hrB_0vw7GcY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChKgvdkIwOU8ZHU1KlXa2ZyN5FOw"
+        },
+        {
+            "id": "NrBakHzVHA0",
+            "title": "การ์ตูน ไทย Tik Tak Tail - การ์ตูน ไทย เสือซน ตอนที่ 28 (Best Episode)| หนังการ์ตูน ตลก",
+            "url": "https://www.youtube.com/watch?v=NrBakHzVHA0",
+            "duration": 1289,
+            "view_count": 8710,
+            "uploader": "Kids Thailand",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/NrBakHzVHA0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwm7QbJ5NFiKJRffWeY3PTie6iLg"
         }
     ]
 }
