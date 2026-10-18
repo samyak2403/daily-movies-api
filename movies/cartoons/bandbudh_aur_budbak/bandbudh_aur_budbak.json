@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-10-18T17:08:35.421848Z",
+    "last_updated": "2026-10-18T19:32:29.459790Z",
     "show_name": "Bandbudh Aur Budbak",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Bandbudh Aur Budbak.",
-    "total_episodes": 287,
+    "total_episodes": 288,
     "episodes": [
         {
             "id": "7HCpeObcXME",
@@ -2821,10 +2821,10 @@
             "title": "Bandbudh Aur Budbak   Dadaji Se Baatein   Popular Kids Hindi Cartoon   Epi   96   YouTube",
             "url": "https://www.youtube.com/watch?v=mI5X23QLga0",
             "duration": 631,
-            "view_count": 5426,
+            "view_count": 5524,
             "uploader": "Gondal Bar Gaming",
             "category": "cartoons/bandbudh_aur_budbak",
-            "thumbnail": "https://i.ytimg.com/vi/mI5X23QLga0/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLA12XocATLQ4PYKs2ebPmFAZHte_A"
+            "thumbnail": "https://i.ytimg.com/vi/mI5X23QLga0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGjlpMcNnbH1z3HXVARjuYTgnA8g"
         },
         {
             "id": "46B_j7lBL-U",
@@ -2875,6 +2875,16 @@
             "uploader": "THOKO YT",
             "category": "cartoons/bandbudh_aur_budbak",
             "thumbnail": "https://i.ytimg.com/vi/xlqyhoPGx5A/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRqDA1Yq25sCrPPjGkp2gjhGe9IA"
+        },
+        {
+            "id": "jMmeFmis9z4",
+            "title": "The Complete Story of Bandbudh aur Budbak in 17 Minutes | ANIARC",
+            "url": "https://www.youtube.com/watch?v=jMmeFmis9z4",
+            "duration": 1066,
+            "view_count": 461639,
+            "uploader": "AniArc",
+            "category": "cartoons/bandbudh_aur_budbak",
+            "thumbnail": "https://i.ytimg.com/vi/jMmeFmis9z4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBUuEY1kbtdpEmqmOeTlqH8WYN5w"
         }
     ]
 }
