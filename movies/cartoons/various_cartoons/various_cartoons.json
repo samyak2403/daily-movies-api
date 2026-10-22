@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-10-22T05:59:36.076383Z",
+    "last_updated": "2026-10-22T15:51:29.410182Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 36,
+    "total_episodes": 37,
     "episodes": [
         {
             "id": "B8Jr34UL3x8",
@@ -400,6 +400,17 @@
             "uploader": "Oggy Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/_-y3AYHEBQc/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLD7jEb9TkjBCvgpzg4brmpmNZhwFQ",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "qxjWLJcxf94",
+            "title": "The Royal Cat Hindi Dubbed Full movie 2026  Adventure Film for kids #cartoonmovie #animation ",
+            "url": "https://www.youtube.com/watch?v=qxjWLJcxf94",
+            "duration": 5878,
+            "view_count": 57300,
+            "uploader": "@yt Anime09",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/qxjWLJcxf94/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgJmNNb0mpvTmBJrPYjV8JvmyOSQ",
             "show_name": "Various Cartoons"
         }
     ]
