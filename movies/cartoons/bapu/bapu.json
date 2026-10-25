@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-10-24T22:08:56.801338Z",
+    "last_updated": "2026-10-25T00:22:33.434258Z",
     "show_name": "Bapu",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Bapu.",
-    "total_episodes": 138,
+    "total_episodes": 139,
     "episodes": [
         {
             "id": "tvT3j09ZBR0",
@@ -121,7 +121,7 @@
             "title": "mother's day || Bapu catoon EPISODE= 11 || all' India bapu ka family || happy mothers day",
             "url": "https://www.youtube.com/watch?v=ndczPXY_ZSw",
             "duration": 672,
-            "view_count": 2319,
+            "view_count": 2320,
             "uploader": "BAPU KIDS PLAY TV",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/ndczPXY_ZSw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2NWJTUYSFlmRIg6b6V7MZ9n7xZQ"
@@ -1381,10 +1381,20 @@
             "title": "NEW! Episode 4847 - Why did Bapuji raise his hand at Jethalal! | Taarak Mehta Ka Ooltah Chashmah",
             "url": "https://www.youtube.com/watch?v=ZNyb6xLPqso",
             "duration": 618,
-            "view_count": 2609999,
+            "view_count": 2612803,
             "uploader": "Taarak Mehta Ka Ooltah Chashmah",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/ZNyb6xLPqso/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCh0bMY0ih3IxR_ysq4MEU7mRzZ0Q"
+        },
+        {
+            "id": "BupVLi8Wd3Q",
+            "title": "Roll No 21 Space Mein Dhoom Dhadaka | Full Movie | It's Cartoon Adda",
+            "url": "https://www.youtube.com/watch?v=BupVLi8Wd3Q",
+            "duration": 4352,
+            "view_count": 16892,
+            "uploader": "IT'S CARTOON ADDA",
+            "category": "cartoons/bapu",
+            "thumbnail": "https://i.ytimg.com/vi/BupVLi8Wd3Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZrsbdyBRs6-CtG2vYbWfE3pffKA"
         }
     ]
 }
