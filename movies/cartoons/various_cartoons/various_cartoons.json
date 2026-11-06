@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-11-06T11:18:15.389692Z",
+    "last_updated": "2026-11-06T23:04:24.690629Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 37,
+    "total_episodes": 38,
     "episodes": [
         {
             "id": "B8Jr34UL3x8",
@@ -411,6 +411,17 @@
             "uploader": "@yt Anime09",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/qxjWLJcxf94/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgJmNNb0mpvTmBJrPYjV8JvmyOSQ",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "QT3KJoWO0OQ",
+            "title": "गुप्त आश्चर्य और अधिक | एपिसोड संकलन | Bas Karo Henry | Hindi Cartoons",
+            "url": "https://www.youtube.com/watch?v=QT3KJoWO0OQ",
+            "duration": 2636,
+            "view_count": 2271537,
+            "uploader": "Bas Karo Henry",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/QT3KJoWO0OQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfRCTIN8EGdWjngIdXXWG2-n4QZQ",
             "show_name": "Various Cartoons"
         }
     ]
