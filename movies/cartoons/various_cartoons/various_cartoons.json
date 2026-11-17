@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-11-15T17:46:01.676354Z",
+    "last_updated": "2026-11-17T11:20:09.059783Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 38,
+    "total_episodes": 39,
     "episodes": [
         {
             "id": "B8Jr34UL3x8",
@@ -385,7 +385,7 @@
             "title": "बेकार भोजन | Bas Karo Henry | बच्चों के लिए कार्टून | Hindi Cartoons",
             "url": "https://www.youtube.com/watch?v=mIPXHZ5mMX8",
             "duration": 3601,
-            "view_count": 4018499,
+            "view_count": 4021049,
             "uploader": "Bas Karo Henry",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/mIPXHZ5mMX8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWJNCBniwaKC1Y5gWVrYA4eC9k3w",
@@ -422,6 +422,17 @@
             "uploader": "Bas Karo Henry",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/QT3KJoWO0OQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfRCTIN8EGdWjngIdXXWG2-n4QZQ",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "8UBqeWovDvY",
+            "title": "ज़हरीला भोजन Oggy and the Cockroaches हिंदी Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=8UBqeWovDvY",
+            "duration": 3978,
+            "view_count": 747703,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/8UBqeWovDvY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKXsQOjbEAzbgbbYnyxxNtHQR4oQ",
             "show_name": "Various Cartoons"
         }
     ]

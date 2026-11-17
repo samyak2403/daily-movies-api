@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-11-17T02:49:17.489309Z",
+    "last_updated": "2026-11-17T11:20:08.851405Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 109,
+    "total_episodes": 110,
     "episodes": [
         {
             "id": "1sARdYKPDL0",
@@ -31,8 +31,8 @@
             "title": "Tik tak tail Non Stop entertainment",
             "url": "https://www.youtube.com/watch?v=1nIa1cEjxKY",
             "duration": 1684,
-            "view_count": null,
-            "uploader": null,
+            "view_count": 306491,
+            "uploader": "Nature",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/1nIa1cEjxKY/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhyIF8oRTAP&rs=AOn4CLAtVLrg_4vkCvkIWcLDj8lnKYyQ9w"
         },
@@ -211,10 +211,10 @@
             "title": "Tik Tak Tail | Invisible Menace | Funny Cartoon Compilation | WildBrain Happy Kids",
             "url": "https://www.youtube.com/watch?v=Mzwp4J7Ujf4",
             "duration": 826,
-            "view_count": 1455,
+            "view_count": 1456,
             "uploader": "WildBrain Sunshine City",
             "category": "cartoons/tik_tak_tail",
-            "thumbnail": "https://i.ytimg.com/vi/Mzwp4J7Ujf4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfmbCFciO7LnKhDjDODaRQ3xYfEg&usqp=CBQ"
+            "thumbnail": "https://i.ytimg.com/vi/Mzwp4J7Ujf4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfmbCFciO7LnKhDjDODaRQ3xYfEg"
         },
         {
             "id": "7n6_JhK2-ug",
@@ -871,7 +871,7 @@
             "title": "Tik Tak Tail | Orange Island | Funny Cartoon Compilation | Wildbrain Cartoons For Kids",
             "url": "https://www.youtube.com/watch?v=dq4RK88bDjs",
             "duration": 853,
-            "view_count": 575,
+            "view_count": 585,
             "uploader": "WildBrain Preschool",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/dq4RK88bDjs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1GQyMMy4ODZAX6HYSIsTRlQiDkw"
@@ -1081,7 +1081,7 @@
             "title": "Tik Tak Tail | Super Vision | Cartoon Compilation| WildBrain Cartoons",
             "url": "https://www.youtube.com/watch?v=LbiEHyviMXU",
             "duration": 863,
-            "view_count": 7706,
+            "view_count": 7710,
             "uploader": "WildBrain Kids",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/LbiEHyviMXU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-r3N2JCm5GiwDY1S3y5USCHmEpg"
@@ -1091,10 +1091,20 @@
             "title": "Tik Tak Tail | I Spy | Funny Cartoon Compilation | WildBrain Happy Kids",
             "url": "https://www.youtube.com/watch?v=sQNg3qjZLds",
             "duration": 831,
-            "view_count": 5986,
+            "view_count": 5987,
             "uploader": "WildBrain Kids",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/sQNg3qjZLds/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGIoWzAP&rs=AOn4CLDpy-4pHyvVEmKIHTRScrmFohUQ8w"
+        },
+        {
+            "id": "nb12ZZiIEG0",
+            "title": "Tik Tak Tail | Tail Goes On A Strike | Funny Cartoon Compilation | Cartoons for Children",
+            "url": "https://www.youtube.com/watch?v=nb12ZZiIEG0",
+            "duration": 821,
+            "view_count": 5003,
+            "uploader": "WildBrain Circus ",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/nb12ZZiIEG0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZRgq2j9Y78cPN09D-ey7zdztbeQ"
         }
     ]
 }

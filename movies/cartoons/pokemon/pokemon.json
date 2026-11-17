@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-11-17T02:49:17.486711Z",
+    "last_updated": "2026-11-17T11:20:09.014984Z",
     "show_name": "Pokemon",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pokemon.",
-    "total_episodes": 181,
+    "total_episodes": 182,
     "episodes": [
         {
             "id": "sk9AScPi7Jc",
@@ -71,8 +71,8 @@
             "title": "Pokémon - I Choose You! | FULL EPISODE 1 | Season 1",
             "url": "https://www.youtube.com/watch?v=z3hMX65Khtg",
             "duration": 1343,
-            "view_count": null,
-            "uploader": null,
+            "view_count": 18619549,
+            "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/z3hMX65Khtg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDygnxDeS8UP_8pcJQcw3mruHK1KQ"
         },
@@ -131,10 +131,10 @@
             "title": "POKEMON MOVIE [HINDI DUBBED] FULL 4K QUALITY #viral #movie",
             "url": "https://www.youtube.com/watch?v=_JPnwf7Gwh4",
             "duration": 3637,
-            "view_count": 2155335,
+            "view_count": 2159990,
             "uploader": "Mujeeb_FFx",
             "category": "cartoons/pokemon",
-            "thumbnail": "https://i.ytimg.com/vi/_JPnwf7Gwh4/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBA_HcKdDpaTJohmy1kwtmUcmThAg"
+            "thumbnail": "https://i.ytimg.com/vi/_JPnwf7Gwh4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAa5utRE4EOMJe-7yWNFF-QNyHig"
         },
         {
             "id": "LJ-4GUuMtSA",
@@ -1381,8 +1381,8 @@
             "title": "Pokemon Indigo League || Episode 1 || I Choose To",
             "url": "https://www.youtube.com/watch?v=w5PQo86APeo",
             "duration": 1217,
-            "view_count": null,
-            "uploader": null,
+            "view_count": 430024,
+            "uploader": "Pikashwo Official",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/w5PQo86APeo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYEdA58VnKwKJ6_Ogbj3lGTqT49Q"
         },
@@ -1631,10 +1631,10 @@
             "title": "Pokémon Sun And Moon ( Alola's New Journey Begins ) PART -1 Hindi Dubbed",
             "url": "https://www.youtube.com/watch?v=UnEDzDC_Gc4",
             "duration": 923,
-            "view_count": 69120,
+            "view_count": 73323,
             "uploader": "Dream World Animez",
             "category": "cartoons/pokemon",
-            "thumbnail": "https://i.ytimg.com/vi/UnEDzDC_Gc4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQp1bheeI9P8YrkCvH3M4bK8thdQ&usqp=CBQ"
+            "thumbnail": "https://i.ytimg.com/vi/UnEDzDC_Gc4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQp1bheeI9P8YrkCvH3M4bK8thdQ"
         },
         {
             "id": "oV5q1W-jrkg",
@@ -1815,6 +1815,16 @@
             "uploader": "Cid Lover",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/8c5laf_LHkg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9KNrBqJhzjDScul901m9giWw-DA"
+        },
+        {
+            "id": "4Q56a3ctjZg",
+            "title": "Naruto Vs Mecha Naruto Full Fight | Naruto Shippuden badass & Funny Moments In Hindi",
+            "url": "https://www.youtube.com/watch?v=4Q56a3ctjZg",
+            "duration": 1271,
+            "view_count": 137652,
+            "uploader": "POKENATION ",
+            "category": "cartoons/pokemon",
+            "thumbnail": "https://i.ytimg.com/vi/4Q56a3ctjZg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtFX-OzsAplrgWmw33YH4T7uKfvw"
         }
     ]
 }
